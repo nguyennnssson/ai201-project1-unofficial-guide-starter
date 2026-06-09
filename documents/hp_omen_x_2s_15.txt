@@ -1,0 +1,226 @@
+Title: HP Omen X 2S Gaming Laptop Review: Mo Screens, Mo Problems
+Source: https://www.tomshardware.com/reviews/hp-omen-x-2s-15-gaming-laptop,6261.html
+
+Tom's Hardware Verdict
+
+
+
+
+
+
+
+Some gamers may find this Omen’s secondary six-inch screen worth the sacrifices in terms of peripherals and battery life. But unless you really hate the idea of using your phone or a second monitor for chats and other tasks while gaming, there are better options out there.
+
+
+Pros
+
+Second 6-inch screen for game chats, tutorials or minimaps
+
+Fast, roomy SSD
+
+Reasonably thin and light
+
+Cons
+
+Keyboard and touchpad are severely compromised to make room for the second screen
+
+Short battery life, even with second screen off
+
+Speakers lack volume and low-end punch
+
+Why you can trust Tom's Hardware
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.
+Find out more about how we test
+
+How do you make a gaming laptop stand out in a crowded market full of powerful portables? HP’s answer with its new Omen X 2S 15 is to shove a second screen above the keyboard. Its placement is better than embedding a screen into the touchpad, but not as visually elegant as
+Asus’ ZenBook Pro Duo
+, which puts an ulta-wide display in the same spot. And while HP makes the claim that its new Omen is the first gaming laptop with a secondary screen, the company seems to have forgotten the
+2014-era Razer Blade
+While gamers are often multi-taskers (participating in chats, checking tutorials on YouTube, etc.) who can appreciate a second screen, the real question here is whether an extra 6-inch display built into your laptop is better or worse than just using your phone for those secondary tasks. The short answer? It depends. But this Omen has other issues to contend with, aside from the benefits of its second (hence 2S) screen.
+Design
+The Omen X 2S is a nice-looking gaming laptop, with a fairly clean and understated design (for a gaming machine), and sleek looking basic-black aesthetics. I could do without the glowing Omen logo on the lid, but you can at least change the color from the default red to whatever hue you like via the Omen Command Center software (more on that later).
+And despite having a powerful set of components, including a six-core i7-9750H and RTX 2080
+Max-Q
+in our $2,850 review unit (different configurations will be offered in the UK, with prices ranging from £3,200 to £3,500), not to mention the second screen, the Omen X 2S is reasonably svelte at 0.8 inches (20mm) thick and 5.2 pounds (2.36kg).
+Razer’s Blade 15
+has even cleaner lines and is slightly slimmer (0.7 inches) and a half-pound lighter (4.7 pounds). But if you like the idea of a second six-inch screen, the Omen doesn’t deliver much in the way of extra bulk.
+All that said, HP had to make some serious design changes to facilitate the second screen. The keyboard has been moved forward
+a la
+the
+original Asus ROG Zephyrus
+, relegating the touchpad to the right of the keyboard. Granted, most gamers are going to use a dedicated mouse -- and HP included an
+Omen Phantom
+rodent and
+Omen Outpost
+mousepad along with our review unit, to emphasize that fact. But the touchpad here, aside from being inconveniently placed, is also quite small and oddly square, at less than three inches on each side. In other words, you’ll almost certainly want to use a dedicated mouse whether you’re gaming or doing anything else.
+Image
+As for that secondary 1080p display that is this laptop’s
+raison d'etre
+, HP has embedded it below a smoky sheet of glass that runs nearly the entire width of the laptop above the keyboard.
+On one hand, this hides the screen when it’s off (unless you’re in direct sunlight), helping keep the design from looking overly busy. But when the second screen is on, it’s hard to ignore the large expanse of glass on either side of it. Asus solved that problem installing a super-wide display in its (non-gaming focused)
+ZenBook Pro Duo
+, but that aspect ratio wouldn’t work very well for screen mirroring, video playback, or chat apps, which are arguably the primary use cases for the Omen X 2S’s second screen.
+Port selection on the Omen is adequate, if not expansive. On the left edge, HP delivers an HDMI 2.0B port, a pair of USB 3.1 Gen 1 Type A ports, a Gigabit Ethernet port and a headphone/mic jack, alongside the power jack.
+Connectivity on the right edge is limited by a vent. HP includes vents both at the back and the right side, to help keep this compact portable’s high-end components cool. As such, you’ll only find another USB 3.1 Type-A and a Thunderbolt 3 / USB-C port here. There’s nothing around back save for more vents on either side of the laptop’s central hinge. Ideally we’d like to see another USB-C port, but there are enough ports for most gamers and productivity users.
+Specifications
+Swipe to scroll horizontally
+Display
+15.6-inch, 1080p, 144 Hz, IPS
+CPU
+Intel Core i7-9750H
+Graphics
+Nvidia GeForce RTX 2080 Max-Q (8GB GDDR6)
+Memory
+16GB DDR4-2666
+SSD
+1TB NVMe SSD
+HDD
+Networking
+Ethernet port, 802.11ac Wi-Fi, Bluetooth 5
+Video Ports
+HDMI 2.0B, Thunderbolt 3
+USB Ports
+1 USB 3.1 Gen 2 Type-C/Thunderbolt 3, 3 USB 3.1 Gen1 Type-A
+Audio
+Dual Bang & Olufsen speakers
+Camera
+1080p
+Battery
+6-cell, 72 Wh Li-ion polymer
+Power Adapter
+230W
+Dimensions
+14.3 x 10.3 x 0.8 inches / 363 x 262 x 20 mm
+Weight
+5.2 pounds / 2.36kg
+Price (as configured)
+$2,849.99
+Gaming, Graphics and VR
+
+
+HP equipped our review unit of the Omen X 2S with an Nvidia GeForce RTX 2080 with 8GB of GDDR6 memory, which is capable of playing most games at their highest settings, usually at the high frame rates that the 144 Hz primary screen is capable of. When I played 2016’s
+Doom
+at the display’s native 1080p resolution and Ultra settings, the game ran at an average of 147 fps (frames per second).
+For our comparison systems, we pitted the Omen X 2S against recent 15- and 17-inch gaming laptops we tested. The
+Razer Blade 15 Advanced
+(with the same Core i7-9750H CPU and RTX 2080 Max-Q graphics as our Omen config), the
+Alienware m15
+(with a previous-gen Core i7-8750H and RTX 2070 graphics), and MSI’s 17-inch
+GE75 Raider
+(also with a 8750H and RTX 2080 graphics).
+Image
+Shadow of the Tomb Raider
+(1080p, very high), the Omen ran at a smooth 64 fps, above the 58 fps premium gaming laptop average, and better than anything else here save for the larger MSI system.
+On the
+Hitman
+benchmark (1080p, ultra), the Omen managed to best even the MSI system, delivering 111 fps, again higher than the 105 fps category average.
+When we turned to
+Grand Theft Auto V
+(1080p, very high), the Omen landed behind the MSI machine (81 fps vs. the Raider’s 96 fps), but was just  above the category average.
+Middle-Earth: Shadow of War
+, the Omen, at 98 fps, once again slipped behind the MSI’s leading 107 fps, but was ahead of everything else, including the 92 fps category average.
+To stress test the Omen, I ran the
+Metro Exodus
+benchmark 15 times on RTX settings, simulating approximately half an hour of gaming. During the test, the HP system ran the game at an average of frames 31.3 frames per second. The first run went by at 32.2 fps, but then the laptop dropped about a frame lower and stayed there throughout the rest of the runs.
+During the stress test, the CPU ran at an average clock speed of 3.99 GHz, and the average CPU temperature was 78 degrees Celsius (173 degrees Fahrenheit).
+The GPU’s average clock speed was 965 MHz and its average temperature was 55 degrees Celsius (131 degrees Fahrenheit).
+Productivity Performance
+Temperatures and performance should be aided here, in theory, because HP uses Thermal Grizzly’s Conductonaut liquid metal, rather than thermal paste between the CPU and heatsink. This material is something enthusiasts often use to lower processor temperatures and, therefore, achieve better performance via higher sustained Boost clock speeds.
+This is the first time that we know of that a major laptop maker has used liquid metal, and we’ve seen plenty of evidence that it does lower temperatures compared to traditional thermal pads or paste. But given the company’s use of a locked processor on the Omen X 2S, we expect real-world benefits to be minimal. We applaud HP’s use of the material, but would like to see it in place on unlocked CPUs in the future where the lower temperatures can be used to, hopefully, push overclocks higher and thus achieving more substantive performance gains.
+The Omen X 2S’ six-core Intel Core i7-9750H is a capable mobile gaming CPU and no slouch at productivity. But it’s no flagship processor or full-bore desktop CPU. On Geekbench 4.1, HP’s laptop scored 22,608, just below the category average, but still better than the competing laptops here.
+
+
+The Omen also landed on top in our file transfer test, taking 6 seconds to copy 4.97GB of files, a rate of 848.2 MBps. That’s ahead of the 775 MBps average, and all its competitors here.
+
+
+The Omen took a 10 minutes and 26 second to complete our Handbrake test, in which the laptop converts a 4K video to 1080p. That’s behind the 9:40 category average, but better than the competing machines here.
+
+
+Primary Display
+The 15.6-inch primary display on the Omen X 2S features IPS technology for excellent viewing angles, Nvidia G-Sync for tear-free gaming and a 144Hz refresh rate for smooth, high-fps gaming. In other words, it’s a pretty feature-packed screen.
+
+
+It’s also fairly bright. We measured it at 306 nits, which is a bit above the category average as well as most of the competition. Only the Alienware m15 and its OLED screen scored better.
+As for the color gamut, HP’s display managed 107% of sRGB, which is lower than the competition, as well as the category average (146%). But overall, the screen looks good and performs well, whether you’re watching Netflix or three hours into a dungeon crawl.
+
+
+Keyboard and Touchpad
+Both the keyboard and the touchpad on the Omen X 2S take a big backseat in terms of layout and execution to the presence of the second screen that sits above them. The reduced physical space means the touchpad is small and smushed to one side. And the keyboard has no wrist area, with the keys running right up to the front edge. HP does include a big rubber wrist rest in the box, but it’s heavy, gets dirty very easily, and has no way of attaching to the laptop.
+
+
+The keyboard also has layout issues: The arrow keys sit right next to the touchpad’s mouse buttons, which are similarly sized in terms of height, so that it’s far too easy to trigger a mouse click when what you
+wanted
+to do was press the right arrow key, and often vice versa. You also lose dedicated Page Up/Down buttons, and the Insert and Delete keys live up above the Backspace button.
+
+
+The keys are brightly RGB-backlit, and key travel doesn’t feel as shallow as some competitors (like Razer). But if you’re looking for mechanical switches, you won’t find them here. And if you plan on using your laptop to do a fair amount of work when you aren’t gaming, you’re probably going to want to plug in an external keyboard.
+The same goes for a dedicated mouse. Gamers of course will want to use a mouse, but given the odd placement of the touchpad, and it’s small, square dimensions, I found myself missing my mouse even when doing basic things like navigating Windows.
+Audio
+Out of the box, the Omen X 2S’ speakers were a disappointment. Volume at max wasn’t as loud as I’m used to with premium gaming laptops, and there was little in the way of low end. Software is included to adjust the EQ, which may help a bit. But if you’re expecting to feel the thud of explosions around you or to fill the room with your favorite thumping tunes, you’ll either need to invest in a set of external speakers or opt for another laptop.
+Second Screen and Software
+Image
+So what about the 6-inch 1080p touchscreen that’s the Omen X 2S’s primary differentiating feature? On the positive side, it’s pretty versatile, as Windows sees it as a second display, so you can put literally whatever you want down there. My personal default for RTS and other titles like
+They Are Billions
+is to drop the minimap down onto the second screen so it’s easier to see slow-moving zombies as they attempt to drag themselves into my developing settlement.
+Chat apps are also a no-brainer if you’re a streamer or social gamer. Although it won’t be easy to respond via text while gaming, it’s a decent way to keep up on the in-game chatter and respond via voice if that’s how you roll.
+I also found looking down at the screen less of an issue than I thought I would. Thanks to good viewing angles, the image always looked crisp and clear, and so long as I was sitting up with my body just behind the keyboard, most text and on-screen items were easy to see, despite the six-inch size of the screen. That said, I’d still prefer a second, large screen off to one side.
+Image
+HP’s Command Center software does an OK job of controlling what you put on the second screen as well, making selecting and mirroring a specific part of your primary screen about as intuitive as using the Windows Snipping Tool.
+But I couldn’t shake the feeling that, in most cases, chats and other use cases for the second screen are better handled by using a smartphone or, if you’re somewhere at a desk, a dedicated second monitor. Because text isn’t always easy to read on a six-inch display, and mirroring the minimap doesn’t really make it
+that much
+bigger than it is on the main screen.
+Plus, while HP’s Command Center software (which is also used to control the laptop’s lighting and any compatible connected peripherals) is well laid-out, and the main menus work pretty well via the touch interface, the software itself was often quite sluggish. I found myself frequently waiting several seconds for it to load, either on the primary screen. And when trying to close it on the primary display, I often had to click the X in the upper-right corner more than twice before it would actually close. That last bit is exacerbated by the fact that the physical mouse buttons are, again, confusingly close to the arrow keys of the keyboard. I was often uncertain whether I had actually clicked, or just mashed the right arrow key.
+It’s also worth pointing out that HP’s Command Center software lets you switch between three performance modes: Comfort, Default, and Performance. The former is designed to keep temperatures cool while sacrificing some performance. The latter is the all-out high-performance setting designed to deliver the best possible frame rates and CPU speeds the laptop is capable of. We did all our
+benchmarking
+on the Performance setting. And while we wouldn’t say the laptop was always quiet, even at this top-end settings, the fans never got as noisy as what we’ve heard from some competing high-end gaming portables.
+It’s also worth pointing out that HP’s Command Center software lets you switch between three performance modes: Comfort, Default, and Performance, not unlike most gaming laptops. The former is designed to keep temperatures cool while sacrificing some performance. The latter is the all-out high-performance setting designed to deliver the best possible frame rates and CPU speeds the laptop is capable of. We did all our benchmarking on the Performance setting. And while we wouldn’t say the Omen X 2S was always quiet, even at this top-end setting, the fans never got as noisy as what we’ve heard from some competing high-end gaming portables over the years.
+Upgradeability
+To open the Omen, you’ll need a specialty screwdriver. It requires a Torx T6 to remove the six screws on the bottom.
+
+
+When those come out, use a plastic spudger to separate the base, starting from the hinges and working your way down to the bottom. It was tight on ours, but eventually came off clean. Once that was settled, the SSD and RAM were immediately and easily accessible. One of the two SODIMM slots is covered by a protective piece of paper. As for the SSDs, our configuration had an extra bay, so it’s really easy to slot in an additional drive.
+Battery Life
+Gaming laptops seldom impress in unplugged run time -- especially when Nvidia’s G-Sync is in play, forcing the laptop to lean on its dedicated graphics, rather than the more-efficient integrated graphics silicon. But even with its second screen switched off, the Omen lasted just under two-and-a-half hours on our battery test, which constantly browses the web, streams video and runs OpenGL benchmarks at 150 nits of brightness. That’s well behind the competition, and below the 3:16 category average.
+
+
+Heat
+To see how hot the Omen can get, we measured the heat while running the
+Metro Exodus
+stress test.
+The keyboard reached 30.4 degrees Celsius (86.7 degrees Fahrenheit) between the G and H keys, and the touchpad hit 30.3 degrees Celsius  (86.5 degrees Fahrenheit). These numbers are quite cool for gaming, likely a byproduct of HP moving the keyboard to the very edge of the chassis and putting the cooling solution under the second screen.
+Image
+The bottom of the laptop got as hot as a toasty 55.5 degrees Celsius (131.2 degrees Fahrenheit) in our testing, which is more in line with most gaming machines.
+Webcam
+HP bills the webcam on the Omen X 2S as Wide Vision FHD, with dual-array mics. The camera does have a wider field of view than most, but images during video chats weren’t as crisp as I’d expect given the resolution, with the edges of my shoulders looking jagged. In short, the camera is fine for basic communication in games or the conference room. But if you’re a serious streamer, you’d definitely going to want a dedicated camera.
+Configurations
+HP sent out the middle of three US configurations of the Omen X 2S. For $2,849.99, you get a six-core Intel Core i7-9750H processor, Nvidia GeForce RTX 2080 Max-Q graphics, 16GB of RAM, and a roomy 1TB of NVMe storage. That configuration also includes the 144Hz 1080p main display.
+The maxed-out option with an eight-core Core i9-9880H CPU, the same 2080 Max-Q graphics, 32GB of RAM, 2TB of storage and an even faster 240Hz screen will set you back $4,299.99. And an “entry-level” option with RTX 2070 Max-Q graphics and just 256GB of NVMe storage--all other components being the same as our review unit--sells for $1,799.99. The middle option that HP sent us is the best for gamers, as you won’t see major FPS benefits for the higher-end CPU and 32GB of RAM, and the 256GB of storage on the entry model isn’t roomy enough to store more than a few modern AAA titles plus the OS and other files.
+
+
+Bottom Line
+If the idea of a built-in six-inch secondary monitor sounds like exactly what you’re looking for in a gaming laptop and you don’t care much about unplugged operation, HP’s Omen X 2S is the only game in town (unless you want to track down a used 2014-era Razer Blade). If you’re sure you’ll find the second screen useful instead of fumbling with your smartphone for secondary functions like chat, it’s worth considering.
+The compromised peripherals, clunky software, and short battery life make HP’s dual-screen gamer tough to recommend. With a dedicated keyboard and mouse, it’s a good gaming and productivity machine. But at that point, you might as well just opt for a compact gaming desktop with a second (much larger) screen.
+At worst, this Omen feels like a collection of mostly passed-over gaming laptop ideas: the second screen from a 2014-era Razer, the keyboard and touchpad from a 2018-era Asus Zephyrus, and a cinched-in hinge from a late-model
+Alienware m15
+. None of these ideas are inherently awful in isolation, but bringing them all together in one laptop, along with sluggish software, doesn’t make for a gaming portable with mass appeal.
+At best, the Omen X 2S is an experiment that a particular subset of gamers will find appealing, facilitating gaming and multitasking on the go without having to clutter up your primary display. But we’d still like to see better battery life so that you could multitask for longer than a couple of hours while unplugged.
+Photo Credits: Tom's Hardware
+MORE:
+Best Gaming Laptops
+MORE:
+Laptop Reviews
+MORE:
+All Laptop Content
+
+TOPICS
+
+See all comments (0)
+
+Matt Safford
+Managing Editor
+After a rough start with the Mattel Aquarius as a child, Matt built his first PC in the late 1990s and ventured into mild PC modding in the early 2000s. He’s spent the last 15 years covering emerging technology for Smithsonian, Popular Science, and Consumer Reports, while testing components and PCs for Computer Shopper, PCMag and Digital Trends.
+
+No comments yet
+
+Comment from the forums

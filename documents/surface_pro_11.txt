@@ -1,0 +1,57 @@
+Title: Microsoft Surface Pro (11th Edition) Review: Great, but is it $1,949 great?
+Source: https://www.laptopmag.com/reviews/microsoft-surface-pro-11th-edition
+
+Microsoft Surface Pro (11th Edition) Review
+
+Price: Starting at $999; reviewed configuration $1,949 (with keyboard)
+
+Specifications:
+- Processor: Snapdragon X Elite X1E-80-100
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 13-inch OLED, 2,880 x 1,920p, 120Hz
+- Battery: 12 hours 11 minutes (tested)
+- Weight: 2 pounds (tablet only); 2.7 pounds (with keyboard)
+- Dimensions: 11.3 x 8.2 x 0.37 inches
+
+Design:
+The Surface Pro 11th Edition is closer to a tablet like the iPad, with the only major difference being that it runs a desktop operating system. At 0.37 inches thick and 2 pounds for the tablet alone, it is considerably thinner and lighter than traditional laptops. The build quality is premium with a magnesium and aluminum chassis. The integrated kickstand provides flexible viewing angles.
+
+Display:
+The device features a bright, vibrant OLED panel with exceptional performance. In color reproduction tests, it achieved 115% DCI-P3 coverage, which is outstanding and far better than most laptop displays. Brightness reached 564 nits, well above mainstream averages. Even during the dimmest moments of video content, the display's high nits make the scene easily visible. The 120Hz refresh rate ensures smooth scrolling and animations. This is one of the best displays you can find on any portable device.
+
+Performance:
+The Snapdragon X Elite processor delivers impressive results. The Geekbench 6.3 multi-core score reached 14,432, outpacing many competitors with Intel processors. Video conversion via HandBrake completed in 5 minutes 21 seconds. SSD write speeds of 1,001 Mbps slightly lagged behind the competitor average of 1,152 Mbps. Overall, the ARM-based Snapdragon chip provides excellent performance for productivity tasks, web browsing, and content consumption.
+
+Battery Life:
+The Surface Pro achieved 12 hours and 11 minutes in testing, which the reviewer called an incredible number. This exceeds the 10-hour category average and surpasses direct competitors by over an hour. The Snapdragon processor's efficiency plays a major role in this impressive battery endurance, making it a true all-day device.
+
+Keyboard and Trackpad:
+The Surface Pro Flex keyboard is sold separately, adding significant cost to the total package. The reviewer found the keys hollow and lacking clickiness. The trackpad proved problematic with barely a recognizable difference between clicking down and not clicking. When disconnected from the tablet, the keyboard exhibited significant friction issues. This is the biggest weakness of the Surface Pro and a disappointing compromise for a device at this price point.
+
+Audio:
+The speakers deliver punchy, clear sound that performs well for a device this thin. They handle both music and video content admirably, with better bass response than expected from such a slim form factor.
+
+Ports:
+Port selection is limited: two USB-C/Thunderbolt 4 ports and a Surface Connect port for charging. There is no USB-A, no HDMI, and no headphone jack. Users will need dongles or hubs for most peripheral connections. The lack of a headphone jack is particularly notable.
+
+Software:
+Windows 11 with Copilot+ features including AI-powered tools. The Snapdragon platform supports most Windows applications through emulation, though some specialized software may have compatibility issues.
+
+Pros:
+- Great performance from Snapdragon X Elite processor
+- Gorgeous 13-inch OLED display with 115% DCI-P3 coverage
+- Sturdy and thin form factor at just 2 pounds
+- Solid speakers with impressive output for the size
+- Superb battery life exceeding 12 hours
+- Premium build quality with magnesium and aluminum
+
+Cons:
+- Shallow keyboard with poor tactile feedback
+- Poor trackpad with inconsistent click feel
+- Limited port selection with no USB-A or headphone jack
+- Expensive when factoring in keyboard accessory cost
+- Essentially a glorified tablet running Windows 11
+
+Verdict:
+The Microsoft Surface Pro 11th Edition is excellent in many regards, but it is hard to recommend at its cost when other devices provide a comparable full laptop for considerably less than this $2,000 price tag. If you are OK with spending that much on what is effectively a tablet running Windows 11, the Surface Pro boasts a stunning OLED panel, excellent performance metrics, long-lasting battery life, and a punchy speaker system. However, the keyboard and trackpad experience significantly detracts from the overall package, and the limited ports require constant adapter use.

@@ -1,0 +1,78 @@
+Title: HP Victus 15 (2022) Review: Is this cheap gaming laptop actually good?
+Source: https://www.laptopmag.com/reviews/hp-victus-15-2022-review-is-this-dollar800-gaming-laptop-actually-good
+
+HP Victus 15 (2022) Review
+
+Price: Around $800
+
+Specifications:
+- CPU: Intel Core i5-12450H
+- GPU: Nvidia GeForce GTX 1650 (4GB VRAM)
+- RAM: 8GB
+- Storage: 512GB SSD
+- Display: 15.6-inch FHD (1920x1080), 144Hz, 9ms response time
+- Battery: 4 hours 47 minutes
+- Weight: 5.06 pounds
+- Dimensions: 14.1 x 10 x 0.9 inches
+
+Design and Build:
+The laptop features a sophisticated, all-black Mica Silver chassis with a mature aesthetic suitable for both gaming and office settings. The all-plastic construction feels sturdy despite its budget positioning. The design includes a striking reflective V logo and remains thinner and lighter than the competing Acer Nitro 5. This is not a flashy gaming laptop, which is a plus for those who want something more understated.
+
+Display Performance:
+The 144Hz panel provides smooth visuals during gameplay, but the display has notable limitations. It reproduced only 45% of the DCI-P3 color gamut, which is below the 52% average. Brightness measured a disappointing 235 nits, making outdoor or well-lit environments challenging. Colors appeared flat when tested with film content. The display is acceptable for gaming but falls short for content creation or media consumption.
+
+Performance Benchmarks:
+- Geekbench 5.4: 6,902 (beats average 5,623 but trails Acer Nitro 5's 9,148)
+- Handbrake 4K to 1080p transcoding: 8:09 (slower than average 7:17)
+- File transfer rate: 741.24 MBps for 25GB (below average 912 MBps)
+
+The Core i5-12450H provides adequate everyday performance but falls behind competitors with higher-tier processors.
+
+Gaming Performance:
+The three-year-old GTX 1650 struggles with demanding titles:
+- Assassin's Creed Valhalla (Very High): 27 fps (vs. 42.4 fps average)
+- Metro: Exodus (Very High): 26 fps (vs. 39 fps average)
+- Red Dead Redemption 2 (Very High): 23 fps (vs. 38 fps average)
+- GTA V: 39 fps
+- Far Cry New Dawn: 54 fps
+- 3DMark Fire Strike Ultra: 1,970 (vs. 3,189 average)
+
+Casual gameplay on less demanding titles like Prey delivered 48-60 fps with maximum settings. For esports titles and older games, the GTX 1650 is adequate. For AAA games released in the last few years, you will need to significantly lower settings.
+
+Keyboard and Touchpad:
+The edge-to-edge keyboard features white backlighting and a numpad but delivers a loud, clacky typing experience that reduces typing speed. Volume controls require the FN key combination. The spacious 4.9 x 3.1-inch touchpad performs adequately but attracts fingerprints easily.
+
+Audio:
+Bang and Olufsen-tuned speakers provide mediocre sound quality with flat, tinny audio reproduction. However, they deliver adequate spatial awareness during gaming scenarios and sufficient volume for medium-sized rooms. You will want headphones for any serious gaming or music listening.
+
+Thermal Management:
+Exceptional thermal performance distinguishes this model. During gaming, temperatures peaked at 99 degrees Fahrenheit on the underside while remaining cool elsewhere. Heat was cleverly channeled to regions users rarely touch, making it comfortable during extended gaming sessions.
+
+Battery Life:
+Gaming battery life was particularly weak at just 52 minutes. Standard web browsing lasted 4 hours 47 minutes, which is below the 5 hour 31 minute average for budget gaming laptops. The Acer Nitro 5 outlasted it by 44 minutes in battery tests.
+
+Ports and Connectivity:
+Right side: USB-C, Ethernet, HDMI 2.1, USB 3.2 Type-A
+Left side: microSD slot, 3.5mm jack, USB 3.2 Type-A, power port
+No Thunderbolt 4 support at this price tier.
+
+Software and Warranty:
+Windows 11 with minimal bloatware including McAfee and Solitaire apps. The Omen Gaming Hub provides system monitoring and fan control. One-year limited warranty included.
+
+Pros:
+- Budget-friendly pricing, especially during sales
+- Sophisticated, professional design
+- Excellent thermal management
+- 144Hz display for smooth gameplay
+- Suitable for casual gaming and esports titles
+- Good port selection including ethernet and HDMI 2.1
+
+Cons:
+- Three-year-old GPU limits modern game performance significantly
+- Below-average display brightness at 235 nits
+- Weak color gamut at 45% DCI-P3
+- Poor battery life, especially while gaming at 52 minutes
+- Outperformed by regularly-discounted competitors like the Acer Nitro 5
+
+Verdict:
+The reviewer recommends waiting for price drops below $700 to maximize value. While the Victus 15 suits casual gamers avoiding demanding titles, the Acer Nitro 5 frequently offers better value at similar or slightly higher prices with superior RTX 30-series graphics. The laptop works well for unpretentious users on a tight budget but faces stiff competition from more capable alternatives. At its regular $800 price point, there are better options available.

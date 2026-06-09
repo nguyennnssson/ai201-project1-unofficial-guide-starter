@@ -1,0 +1,241 @@
+Title: Dell G15 (5520) Gaming Laptop Review: Strong 1080p Performer
+Source: https://www.tomshardware.com/reviews/dell-g15-5520
+
+Tom's Hardware Verdict
+
+
+
+
+
+
+
+Dell G15 is a middle-of-the pack budget gaming laptop that delivers sharp, smooth 1080p gaming in a no-frills package, but you'll have to turn settings down for intense games.
+
+
+Pros
+
+Strong performance for the price
+
+Cool temperatures
+
+Relatively bright screen
+
+Cons
+
+Mushy keyboard and sticky touchpad
+
+Too little RAM in our config
+
+Why you can trust Tom's Hardware
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.
+Find out more about how we test
+
+If you want to buy a mobile gaming rig on the cheap, you’re going to have to make some compromises. However, the best gaming laptops under $1,000 trade off creature comforts such as snappy keyboards and RGB bling in favor of solid performance that allows you to play your favorite titles at reasonable settings.
+Starting at $899.99 (as tested), the
+Dell
+G15 (5520) provides smooth frame rates at 1080p and high settings, along with a relatively bright screen and immersive
+audio
+. And if you’re willing to turn the settings down in order to achieve even higher frame rates, the 120 Hz screen makes it possible to play games incredibly smoothly.
+However, the design is mostly bland and the keyboard / touchpad combo will make you want to attach some peripherals. Low-end configs, like the one we tested, have just 8GB of RAM, which is serviceable in a pinch, but you would be wise to spend another few dollars to upgrade the memory and the SSD either at purchase time or with aftermarket parts.
+Design of Dell G15
+The Dell G15 (5520) has a less-premium design than many other gaming laptops, but it still has a little flair. The G15’s default "dark shadow" gray colorway couldn’t be much blander – you can also get some configurations in obsidian black or camouflage green colorways – and all surfaces are made from a mediocre-looking plastic resin material.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+The laptop has a thick, rectangular shape with a little bit of tapering on the sides. But there’s a little bit of a party in the back: a large black back piece houses twin exhaust vents that look like they belong on a stealth fighter. In between these jets sit the power port, an HDMI 2.1 connection, a USB Type-A port and a USB Type-C port that can output DisplayPort. The left side houses a 3.5 mm audio jack and an Ethernet port while the right side has two USB Type-A ports. All of the USB ports are
+USB 3.2
+Gen 1, which means that they output at a maximum of 5 Gbps.
+While some higher-end configurations of the Dell G15 come with a 4-zone RGB keyboard, the default keyboard backlight is orange. And there are no accent lights on the rest of the chassis.
+If you want a thin-and-light gaming laptop, you’ll need to buy a more expensive laptop. The Dell G15 (5520) is on the thick and heavy side, even for a budget-focused, 15-inch gaming laptop. It weighs 5.5 pounds and is 14.1 x 10.8 x 1.1 inches, which is about 0.4 pounds heavier and 0.25 inches thicker than the
+Lenovo IdeaPad Gaming 3
+(5.1 pounds, 14.16 x 10.49 x 0.86 inches) and about 0.6 pounds heavier than the
+MSI Sword 15
+(4.96 pounds, 14.13 x 10.20 x 0.98 inches). The
+Acer Nitro 5
+(5.51 pounds, 14.19 x 10.67 x 1.06 inches) is about the same size.
+Dell G15 (5520) Specs
+Swipe to scroll horizontally
+CPU
+Intel Core i5-12500H
+Graphics
+Nvidia GeForce RTX 3050 Ti (4GB GDDR6, 1,695 MHz boost clock, 95W max graphics power)
+Memory
+8GB DRR5-4800 (single channel)
+Storage
+512GB NVMe SSD
+Display
+1920 x 1080, 120 Hz
+Networking
+Intel AX201 Wi-Fi 6, Bluetooth 5.2
+Ports
+3x USB Type-A 3.2 Gen 1 (5 Gbps), USB-C 3.2 Gen 1 (5 Gbps) with DP out, HDMI 2.1, Ethernet, 3.5mm audio
+Camera
+720p
+Battery
+56 Whr
+Power Adapter
+180 W
+Operating System
+Windows 11 Home
+Dimensions
+14.07 x 10.74 x 1.06 inches (357.3 x 272.1 x 26.9 mm)
+Weight
+5.89 pounds (2.6 kg)
+Price (as configured)
+$899
+Gaming Performance of Dell G15
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+A budget system we tested in a budget-minded configuration, the Dell G15 (5520) isn’t going to set any frame-rate records, but it’s more than adequate for playing mainstream games, especially esports titles. Our Dell G15 (5520)’s RTX 3050 Ti graphics card, combined with its Core i5-12500H CPU to offer smooth frame rates in the 40 to 60 fps range at 1080p and mostly high or ultra settings in the games we tested.
+When I played
+Overwatch 2
+at 1080p Ultra settings, I got an average frame rate of around 60  frames per second with a 99th percentile rate of 52 fps. Whether I was shooting targets or chasing after a slew of enemies, this speed was more than reasonable for me to react in time. However, competitive gamers might want to tweak the settings to go for a higher frame rate (I was unable to disable the 60 fps frame rate lock even after turning it off in settings).
+The G15 ran
+Grand Theft Auto V
+(1080p, Very High settings) at a smooth 60 fps, which is nearly identical to the rates we got on the Lenovo IdeaPad Gaming 3 (61 fps) and Acer Nitro 5 (61 fps), both of which have the same CPU and GPU combination as our G15. However, the MSI Sword 15 with its RTX 3060 GPU and Core i7-12650H CPU blew away the field with a rate of 90 fps.
+Shadow of the Tomb Raider
+benchmark (highest settings at 1080p) ran at 52 fps on the G15, which is way ahead of the IdeaPad Gaming 3, identical to the Acer Nitro 5 and notably behind the more powerful MSI Sword 15. Dell’s laptop managed a very smooth rate of 66 fps on
+Far Cry 6
+, running at 1080p ultra settings. That was slightly behind, but within a few fps of  the IdeaPad Gaming 3 (72 fps) and Acer Nitro 5 (79 fps). With its superior graphics card, the MSI Sword 15 led the pack (97 fps).
+When we ran the
+Borderlands 3
+benchmark at 1080p, Badass settings, the Dell G15 registered 45 fps, which was identical to the Nitro 5 and slightly ahead of the IdeaPad Gaming 3 (42 fps). The Sword 15 got a much-stronger, 69 fps.
+The Dell G15 also provided a very-playable 40 fps average in
+Red Dead Redemption 2
+, which is about on par with the Lenovo IdeaPad Gaming 3 (39 fps) and Acer Nitro 5 (39 fps). The MSI Sword 15 was much quicker at 57 fps.
+The mark of a well-cooled gaming laptop is its ability to maintain performance over time, rather than throttling down once the components start to warm up. To see how the Dell G15 (5520) did during an extended play session, we ran the
+Metro Exodus
+benchmark 15 times at Ultra Settings in 1080p resolution with ray tracing enabled. The results were remarkably consistent, with an average 99th percentile frame rate of 40.2 fps, ranging from a high of 40.4 fps during the first run to a low of 40.1 fps in a few other runs.
+While running the
+Metro Exodus
+test, the G15’s four performance cores averaged 3.93 GHz while its eight efficiency Cores averaged 2.41 GHz. The CPU package temperature was an average of 89.1 degrees Celsius. The RTX 3050 Ti graphics card averaged 1.68 GHz with a temperature of 73.4 degrees Celsius.
+Productivity Performance of Dell G15
+Our configuration of the Dell G15 (5520) is more than adequate for light web surfing and productivity work. It could even be used for image editing or video crunching, but the 8GB of single-channel RAM on our unit could be a problem if you do a lot of multitasking. That said, I was able to work with 20 tabs open and a streaming video going without using all the memory or experiencing any slowdowns.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+On Geekbench 5.4, a synthetic benchmark that measures overall processing performance, the Dell G15 (5520) achieved a single-core score of 1,659 and a multi-core mark of 8,342. That’s a bit higher than the Lenovo IdeaPad Gaming 3, which we tested with the same Core i5-12500H CPU and 8GB of RAM as the G15. The Acer Nitro 5, which also had a Core i5-12500H but with 16GB of RAM had a noticeably higher multi-core score while the Core i7-12650H-enabled MSI Sword blew away the field of scores of 1,760 and 10,259.
+The Dell G15’s 512GB NVMe SSD copied 25GB at a rate of 940.3 MBps, which compares favorably to the IdeaPad’s 828.7 MBps speed. However, it’s a bit behind the Sword’s 1,080.5 MBps speed and the Nitro 5’s 1,240.7 MBps.
+It took the Dell G15 just 6 minutes and 2 seconds to transcode a 4K video to 1080p in Handbrake. That time is about on par with the Acer Nitro 5’s mark of 5:58 and much faster than the Sword (7:26) and IdeaPad (6:46).
+Display on the Dell G15
+With a 120 Hz refresh rate, the 15.6-inch, 1080pdisplay on the Dell G15 can deliver smooth, tear-free gaming with decent viewing angles and solid brightness. Just don’t expect vibrant colors or great contrast out of a budget system like this one.
+
+
+(Image credit: Tom's Hardware)
+When I played the trailer for
+Ant-Man and the Wasp: Quantumania
+, colors like the blue in an explosion, the orange in a fire and the red in Ant-man’s suit seemed pretty dull and details like the lines in the character’s super suit were not particularly sharp.
+Overwatch 2
+looked a little better as the green in hero Lucio’s armor and the orange in Tracer’s goggles were passable but not eye-popping.
+Whether I was watching a game or a video, viewing angles were OK as colors washed out only slightly at greater than 45 degrees to the left or right. The fact that the panel is matte helps limit reflections.
+The G15’s display registered 260 nits on our light meter, which puts it slightly ahead of the MSI Sword’s panel (247 nits) and slightly behind the IdeaPad’s 281-nit score. The Nitro 5 was noticeably more luminous at 314 nits.
+According to our colorimeter, the screen can reproduce a modest 68 percent of the sRGB color gamut and 48 percent of the wider, DCI-P3 gamut. Those numbers are unimpressive overall, but compare favorably to other budget gaming laptops. The Nitro 5 and Sword 15 both registered 64 percent of DCI-P3 and 45 percent of the sRGB gamut while the IdeaPad trailed the field at 60 and 42.5 percent respectively.
+Keyboard and Touchpad on the Dell G15
+
+
+(Image credit: Tom's Hardware)
+The Dell G15 (5520)’s keyboard feels shallow and mushy, which is not a great combination for typing comfort and gaming accuracy. However, I managed a strong 105 words per minute on the 10fastfingers typing test, which is 5 to 10 wpm above my typical score. I also was able to move easily and accurately in Overwatch 2.
+The 2.4 x 4.1-inch touchpad is adequate for productivity work, but if you’re playing games, you’ll want a mouse, possibly one of the
+best gaming mice
+. When I was navigating around the desktop and browsing the web, I found that the pad registered gestures such as two-finger scroll and three-finger swipe every time, but pinch-to-zoom was inconsistent.
+Audio on the Dell G15
+The Dell G15’s speakers provide sound that’s loud enough to fill a small room and rich enough for gaming or music listening. When I listened to AC/DC’s "Back in Black," there was a clear separation of sound with guitars and drums appearing to come from different sides of the computer. However, at maximum volume, the guitar and percussion were a little bit tinny. Earth, Wind and Fire’s bass-heavy "September" had a much cleaner sound with a rich bassline.
+The preloaded Dolby Access software allows you to switch between different sound profiles, including those for games, music and movies. I found the sound quality for songs was definitely richest under the music profile.
+When I played
+Overwatch 2
+and
+Metro Exodus
+, the sound of gunfire was loud and clear and not particularly harsh. I was also able to hear environmental sounds like blowing wind or an airship flying by and feel like they were coming from all around my character. Changing the sound profile to “games,” in Dolby Access made the sound a bit richer.
+Battery Life of Dell G15 (5520)
+We don’t expect long battery life from any gaming laptop, particularly a bulky model like the Dell G15. However, if you need to do some web surfing or productivity work while unplugged, this laptop will give you a few hours of endurance.
+
+
+(Image credit: Tom's Hardware)
+On our battery test, which involves web surfing and video playback over Wi-Fi at 150 nits of brightness, the Dell G15 (5520) lasted a modest 4 hours and 28 minutes. That time is a few minutes longer than the Lenovo IdeaPad Gaming 3 (4:03) and MSI Sword 15 (3:55) delivered but about an hour shy of the Acer Nitro 5 (5:33).
+Heat on the Dell G15 (5520)
+Unless you plan to use an external keyboard and mouse at all times, the skin temperature of your laptop matters a great deal. If it’s too warm, you’ll have an uncomfortable experience, but when you’re playing games which tax the GPU and CPU, you can’t expect the laptop’s touch points to sit at room temperature either.
+To find out how warm the G15 can get, we used a FLIR One thermal camera to measure the keyboard, touchpad and bottom temperatures after running the Metro Exodus benchmark 15 times in a row. We found the temperatures to be reasonable and, though the fan noise was fairly loud, it wasn’t grating.
+
+
+(Image credit: Tom's Hardware)
+The space between the G and H keys peaked at 97.4 degrees Fahrenheit (36.3 Celsius), which wasn't unpleasantly warm.. We’ve seen laptops that hit well over 100 degrees Fahrenheit on the keyboard. The hottest area on the top of the laptop was the area above the keyboard, which hit 109.3 F (42.9 C), but you likely wouldn’t touch that.
+The touchpad was just 82.2 degrees Fahrenheit (30.8 C), which is barely even perceptible as warm.
+
+
+(Image credit: Tom's Hardware)
+As with most laptops, the G15’s bottom surface has its hottest point. On our tests, that warm point was the bottom of the back, which got as warm as 108.9 degrees Fahrenheit (42.7 C). You probably won’t be balancing the G15 on your lap while gaming, though.
+
+
+(Image credit: Tom's Hardware)
+Upgradeability of Dell G15
+Given the typically paltry storage and RAM allotments of budget gaming laptops, upgradeability is arguably more important here than in many other system categories. And pleasingly, the Dell G15 is easy to open up and get to the internals. Removing eight Philips screws (four of them captive), we were able to pry the bottom off with our fingers, to reveal a surprisingly pretty bright blue motherboard.
+
+
+(Image credit: Tom's Hardware)
+Immediately obvious inside the Dell G15 is the option to add a second DDR5 RAM module. Or you could
+upgrade the RAM on the laptop
+., up to 32GB according to the "DIMM B DDR 5 8/16G Only" printed on the board above the top slot. Adding a second, 8GB DIMM of DDR5-4800 RAM would cost around $39, but if the timings don’t exactly match those on the preloaded DIMM, the system may drop both chips down to a slower speed.
+To the left of the lower RAM module is the M.2 SSD, hidden under a black metal heat spreader and held in by two screws. Note the drive here is a tiny 30mm (2230) drive. But if you remove it, there is a mounting hole and a stamp in the metal below the SSD area indicating the system supports more standard 80mm (2280) SSDs. You will just have to remove the support post under the drive from its current 30mm location to the 80mm screw hole 50mm to the left.
+Also replaceable here, above the SSD, is the Wi-Fi module in the standard Key E M.2 slot. It shouldn't be a problem down the road if you want to swap the existing module out for something like a Wi-Fi 6E model.
+Webcam on the Dell G15 (5520)
+
+
+(Image credit: Tom's Hardware)
+The Dell G15’s 720p camera is more than adequate for video conferencing, but serious streamers should invest in one of the
+best external webcams
+. When I took a picture of myself indoors in decent lighting, colors like the red of my shirt and the green of the wall behind me were accurate. Fine details like the hairs in my beard were prominent but not as sharp as they would be on a 1080p webcam.
+Software and Warranty on the Dell G15 (5520)
+Dell bundles the G15 with a handful of not-very-useful utilities and some bloatware. My Dell is the main utility app, but it doesn’t offer much value. There are six main tiles: Explore, Media, Power, Essential, Alienware Command Center and Support. The Explore section is a bunch of boring documentation filled with Windows tips and other “keep your system healthy” stuff. The Media tile, which appears to be for adjusting playback settings, just said there were “no apps available at this time” as did the Essentials tab, which is supposed to show you software you might like. Power gives you a handful of power settings and your battery health while Support gives you access to Dell’s tech support services.
+Alienware Command Center allows you to view CPU, GPU and memory usage, along with the system temperature and fan speeds. You can also tweak the thermal profile for better performance, less noise or better battery life. There’s a Library feature which shows all the games on your PC and lets you launch them.
+Dell Mobile Connect allows you to control your smartphone from the desktop, a nice feature that we’ve seen on other Dell computers. Dell Update checks for new drivers and Dolby Access lets you fine-tune the audio output.
+The system also comes with a trial of McAfee Personal
+Security
+, along with perennial Windows bloatware such as Instagram, Tiktok, Solitaire and Adobe Express.
+Dell backs the G15 with a one year on parts and labor, but you can pay extra to extend that term up to four years, add accidental damage protection or add enhanced support.
+Dell G15 Configurations of the Dell G15
+The Dell G15 (5520) is available in a variety of configurations and, if you purchase it from Dell.com, you can configure it to order selecting the CPU, GPU, RAM, storage, screen and chassis color. At press time, the cheapest available configuration was our $899 test build, which
+includes an RTX 3050 Ti GPU, Core i5-12500H, 512GB SSD, 8GB of RAM and a 120 Hz, 1080p display. However, during our test period, the price started at $899 and then shot up to $1,099 before going down again so it could be more or less expensive when you read this. Increasing the RAM to 16GB and upping the CPU to a Core i7-12700H would bring the cost to $1,049.
+Dell also offers the G15 with a lesser, RTX 3050 (non Ti) graphics card, but at the moment, it’s actually $50 more expensive than one with the 3050 Ti.
+If you configure-to-order, you can choose from either a Core i5-12500H, Core i7-12700H or Core i9-1900H CPU. You can have RTX 3050, 3050 Ti, 3060 or 3070 Ti graphics, up to 16GB of RAM and up to 1TB of storage. The screen can have a 1080p 120 Hz, 1080p 165 Hz or a 2K 240 Hz panel. Maxxed out, it can go as high as $1,999.99.
+Bottom Line
+
+
+(Image credit: Tom's Hardware)
+The Dell G15 (5520), as tested, offers really good performance for the money. Someone who likes to play competitive games like
+Overwatch 2
+Fortnite
+CS: Go
+League of Legends
+would be able to easily get close to 60 fps at high settings or even go above that by turning off some special effects. The 120 Hz display is perfectly serviceable and the immersive audio is a plus.
+You don’t normally find a great keyboard / touchpad combo on budget gaming laptops and the Dell G15 doesn’t buck this trend. If you plan to use this in a fixed place like your desk, you should definitely invest in one of the
+best gaming keyboards
+or the
+best gaming mice
+. And I strongly suggest you eventually upgrade the RAM if you buy this with just 8GB, especially because it's single-channel.
+Dell’s laptop is hardly the only model in its price range. You’ll get very similar performance from the Acer Nitro 5, which costs $100 more right now but has a brighter screen, an RGB keyboard and 16GB of RAM. The Lenovo IdeaPad Gaming 3 starts at a much lower price (just over $700 right now), but uses slower, DDR4 RAM and comes standard with an unacceptably tiny 256GB SSD that you’ll have to upgrade immediately. At the moment, the G15 (5520) sits between these two competitors in price but, on any given day due to sales and coupons, that could change. If you’re looking for a solid PC gaming laptop on a sub-$1000 budget, the Dell G15 is a good choice and you could probably get it for less with a
+Dell coupon code
+
+TOPICS
+
+See all comments (1)
+
+Avram Piltch
+Managing Editor: Special Projects
+Avram Piltch is Managing Editor: Special Projects. When he's not playing with the latest gadgets at work or putting on VR helmets at trade shows, you'll find him rooting his phone, taking apart his PC, or coding plugins. With his technical knowledge and passion for testing, Avram developed many real-world benchmarks, including our laptop battery test.
+
+1 Comment
+
+Comment from the forums
+
+the.zeuge
+
+Reply
+
+View All 1 Comment

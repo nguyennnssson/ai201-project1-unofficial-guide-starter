@@ -1,0 +1,240 @@
+Title: Asus ROG Strix Scar 16 (2025) RTX 5080 gaming laptop review: Flashy lights, huge price, strong performance
+Source: https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-16-2025-rtx-5080-gaming-laptop-review
+
+Tom's Hardware Verdict
+
+
+
+
+
+
+
+
+
+The ROG Strix Scar 16 is just a driver update (or two) away from greatness.
+
+
+Pros
+
+Brilliant display
+
+Second M.2 SSD slot with PCIe 5.0 support
+
+Tool-free access to hardware components
+
+Strong game performance
+
+Cons
+
+Some game compatibility issues with RTX 5080
+
+Expensive
+
+Why you can trust Tom's Hardware
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.
+Find out more about how we test
+
+When it comes to the
+best gaming laptops
+, there’s been a heavy focus on systems featuring Nvidia’s GeForce RTX 40 Series GPUs for the past two years. However, Nvidia launched new “Blackwell” gaming GPUs for laptops as part of the new RTX 50 Series. As a result, a new wave of gaming laptops is starting to hit the market, and Asus is among the first to jump on the bandwagon.
+Enter the ROG Strix Scar 16, a 16-inch class gaming laptop featuring an Intel Core Ultra 9 275HX processor, 32GB of RAM, and an RTX 5080 GPU. While the RTX 5080 isn’t the top entry in Nvidia’s laptop GPU family, as you’ll see, it still packs a punch. However, you will pay a significant price premium ($3,299 as reviewed) to enjoy the latest that Nvidia has to offer.
+Design of the Asus ROG Strix Scar 16
+Asus’s ROG family of products is often infused with rather outlandish design touches that help them stand out from the crowded field of gaming laptops, and the ROG Strix Scar 16 is no exception. The first thing you’ll notice when removing the laptop from the box is the ROG logo on the lid, which initially looks like a standard reflective chrome badge. However, as soon as you turn the machine on, it lights up in all its RGB glory to add color to the black exterior of the laptop.
+Latest Videos From
+But that’s not the only illumination on the aluminum lid – Asus also has included a diagonal strip of white LEDs that dance around with a scrolling effect when the laptop is in standby mode. Asus calls it AniMe Vision, which features an array of 810 LED lights that shine through the milled holes in the lid. When the laptop is turned on, flashes of light display “STRIX” branding by default. There are several premade animations you can select from, or you can import a GIF of your own to customize your laptop further.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Wait, there’s more! An RGB light ring runs around the entire perimeter of the bottom half of the enclosure, and the keyboard features per-key RGB lighting. The ROG Strix Scar 16’s lighting can be configured using Aura Sync in Armory Crate.
+The ROG Strix Scar 16 features a 16-inch 2560 x 1600 display with thin bezels along the sides. The top bezel is thicker to accommodate the 1080p webcam and infrared sensors for Windows Hello that are front and center. The bottom bezel is larger still, roughly twice as wide as the top bezel, and incorporates ROG STRIX branding.
+The keyboard deck and the chassis bottom are constructed of plastic. Although I would have preferred an aluminum unibody at this price point, the plastic at least feels high quality.
+A massive touchpad sits below the keyboard and features Asus’ virtual NumberPad feature. After pressing NUMLK on the top right-hand corner of the touchpad, it lights up with a full number pad that you can use to make quick entries in apps like Calculator or
+Microsoft
+Excel. It works well enough, and I find it a suitable alternative to including a full physical number pad on the keyboard, especially if it’s a feature you won’t use frequently.
+The ROG Strix Scar 16 is a big laptop, and Asus thankfully puts the space to use by incorporating a large assortment of ports for connectivity. You’ll find just two USB 3.2 Type-A ports on the right side. However, the bulk of the connections are on the left side, which is home to a proprietary power connector, a full-size 2.5 GbE LAN port, an HDMI 2.1 port, another USB 3.2 Type-A port, two Thunderbolt 5 ports, and a 3.5mm headphone jack. Regarding wireless connectivity, the ROG Strix Scar 16 has an
+
+Intel BE200
+card, which combines Wi-Fi 7 with Bluetooth 5.4.
+The ROG Strix Scar 16 measures 13.94 x 10.55 x 0.90 inches and weighs 6.28 pounds. For comparison, the
+Razer Blade 16
+is 13.98 x 9.86 x 0.69 inches and weighs 4.72 pounds, while the 5.67-pound
+Alienware x16
+is 14.36 x 11.41 x 0.73 inches. The Gigabyte Aorus Master 16 weighs 5.4 pounds and measures 14.06 x 10.0 x 1.18 inches.
+Asus ROG Strix Scar 16 Specifications
+Swipe to scroll horizontally
+CPU
+Intel Core Ultra 9 275HX
+Graphics
+Nvidia GeForce RTX 5080 (16GB GDDR7, 1,500 MHz Boost Clock, 175 W Max TGP)
+Memory
+32GB DDR5-5600 (2x 16GB)
+Storage
+2TB PCIe 4.0 NVMe M.2 SSD
+Display
+16-inch, 2560x1600, 165 Hz, 16:10
+Networking
+Intel Wi-Fi 7 (BE200), Bluetooth 5.4
+Ports
+2x Thunderbolt 5, 3x USB 3.2 Type-A Gen 2, 1x HDMI 2.1, 3.5mm headphone jack, 2.5 Gbps Ethernet
+Camera
+1080p IR webcam
+Battery
+90 Whr
+Power Adapter
+380 W
+Operating System
+Windows 11 Home
+Dimensions (WxDxH)
+13.94 x 10.55 x 0.90 inches
+Weight
+6.28 pounds
+Price (as configured)
+$3,299
+Gaming and Graphics on the Asus ROG Strix Scar 16
+The ROG Strix Scar 16 features high-end hardware, including an Intel Core Ultra 9 275HX processor, a GeForce RTX 5080 laptop GPU, and 32GB of DDR5-5600 memory. The Core Ultra 9 275HX has 8 performance cores and 16 efficiency cores. The performance cores have a base clock of 2.7 GHz and a maximum turbo clock of 5.4 GHz, while the efficiency cores have a 2.1-GHz base clock and a maximum 4.6 GHz turbo clock. The RTX 5080 has a 175W TGP and a 1,500 MHz boost clock.
+I had time to play various games on the ROG Strix Scar 16, but I spent most of my time running and gunning in
+Indiana Jones and the Great Circle
+. The game is a visual masterpiece with its lush environment, high-quality textures, realistic reflections, and intricate detail of real-world objects. With the resolution set to 1440p and the detail setting cranked to “Ultra,” I averaged between 70 and 100 fps in the game, depending on how much action took place on-screen.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+The ROG Strix Scar 16 started strong in our
+Shadow of the Tomb Raider
+(Highest setting) benchmark, delivering 177 fps at 1080p. Performance at 1600p fell sharply to just 112 fps. The Aorus Master 16 (Core Ultra 9 275HX, RTX 5080) took the crown at 1080p (185 fps), and scored slightly more than Asus at 1600p (114 fps). For comparison, the Blade 16 (Ryzen AI 9 HX 370, RTX 5090) delivered 166 fps at 1080p, but vastly outperformed at 1600p (161 fps). The x16 (Core i9-13900HK, RTX 4080) was at the back of the pack, achieving 117 fps at 1080p and 79 fps at 1600p.
+Cyberpunk 2077
+(Ray Tracing Ultra settings) was the most recent game added to our benchmark suite, so the x16 didn't make the cutoff for testing. However, we do have a showdown between the systems with Blackwell GPUs. The ROG Strix Scar 16 hit 61 fps at 1800p and 35 fps at 1600p. The Aorus Master 16 performed similarly, with 62 fps at 1080p and 38 fps at 1600p. The Blade 16 surpassed those numbers by around 10 percent at both resolutions, with 66 fps at 1080p and 43 fps at 1600p.
+Far Cry 6
+(Ultra settings) saw another flip-flop in the rankings, with the Aorus Master 16 besting all competitors, including the RTX 5090-equipped Blade 16. It averaged 120 fps at 1080p and 113 fps at 1600p. The ROG Strix Scar 16 was a few ticks behind at 112 fps and 103 fps, respectively. The Blade 16 performed more in line with the x16 at 1080p (each hitting 97 fps), while its 94 fps at 1600p was enough to earn second place.
+Red Dead Redemption 2
+(Medium settings) proved to be a challenge for the ROG Strix Scar 16, and is a testament to the
+early driver issues
+that have plagued Nvidia’s RTX 50 Series laptops GPUs (as we noted in our Blade 16 review). The system would not run the benchmark at 1080p resolution. It would, however, run at 2560 x 1600, and we recorded 77 fps at that resolution. The Aorus Master 16 fared even worse, managing just 54 fps at 1600p.
+The Aorus Master 16 won the
+Borderlands 3
+(Badass settings) benchmark showdown by default — our Blade 16 couldn't even run the benchmark, achieving a heady 172 fps at 1080p and 121 fps at 1600p. The ROG Strix Scar 16 was the next-closest competitor with 156 fps and 113 fps at 1080p and 1600p, respectively.
+We use
+Metro Exodus
+for our stress testing, running the in-game benchmark 10 consecutive times using the RTX preset. During the test, the ROG Strix Scar 16's efficiency and performance cores averaged 3.11 GHz and 4.61 GHz, respectively, with a CPU temperature of 74 degrees Celsius. The RTX 5080 averaged 1.845 GHz with a core temperature of 72 degrees C.
+Productivity Performance on the Asus ROG Strix Scar 16
+Thanks to its use of a Core Ultra 9 275HX processor, 32GB of DDR5-5600, and a fast
+Western Digital
+SN8000S PCIe 4.0 SSD, the ROG Strix Scar 16 proved to be a top performer in our productivity suite.
+The ROG Strix Scar 16 quickly shot to the top of the Geekbench 6 synthetic CPU benchmark charts. It recorded a single-core score of 3,071 and a multi-core score of 19,597. This put it slightly ahead of the Aorus Master 16 with the same processor, which came in at 3,049 and 19,175, respectively. The Blade 16 with its Ryzen AI 9 HX 370 processor was a bit behind the rest of the pack (2,922, 16,025). The x16 was one of the last laptops we tested with Geekbench 5.x, so it is not represented here.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Switching gears to our file transfer test, which involves copying 25GB of mixed-media files, the ROG Strix Scar 16 delivered a speedy 1,841.40 MBps. For comparison, the Omen 16 led the pack at 1,913 MBps, while the Blade 16 came in at 1,729.51 MBps. The Aorus Master 16 was dead last at 665.26 MBps.
+We use our Handbrake benchmark to transcode a 4K video file to 1080p, with the Aorus Master 16 and ROG Strix Scar 16 handily besting the competition — it wasn’t even close. The former took just 2 minutes and 17 seconds to finish the operation, while the latter took 2 minutes and 22 seconds. The x16 with its older processor took over 4 minutes on the test.
+Display on the Asus ROG Strix Scar 16
+Asus equipped the ROG Strix Scar 16 with a 16-inch 2560 x 1600 display with Mini LED backlighting. Given its gaming aspirations, the panel refreshes at up to 240 Hz, which makes it a great dance partner for the RTX 5080.
+Our tests showed that the ROG Strix Scar 16’s panel covered 81.2 percent of DCI-P3 and 114.7 percent of sRGB. The Mini LED backlighting allowed the laptop to stand far above its peers in brightness, as we saw 457.2 nits with SDR content. Brightness with HDR content topped 1,200 nits, which tracks with Asus’s claim of 1,200 nits.
+
+
+(Image credit: Tom's Hardware)
+I played several games on the display, including
+Forza Horizon 5, Microsoft Flight Simulator 2024
+Call of Duty: Warzone
+, and
+Indiana Jones and the Great Circle
+. Action was smooth and tear-free, with vibrant colors all around.
+Keyboard and Touchpad on the Asus ROG Strix Scar 16
+Asus outfitted the ROG Strix Scar 16 with a full-size keyboard, offering 2mm of key travel. Four media keys are tacked on to the right side of the keyboard: Play, Pause, Previous Track, and Next Track. There are also five programmable “M” keys at the top of the keyboard deck that correspond with volume up/down, microphone off, power mode (which cycles through Silent, Performance, and Turbo), and a shortcut for Armoury Crate. The function of each button can be configured using Armoury Crate.
+
+
+(Image credit: Tom's Hardware)
+Using the keyhero.com typing test, I achieved 90 words per minute at 97.93 percent accuracy with the keyboard. It’s not my best performance with a laptop keyboard, as my fingers had to stretch a bit more than I’m used to, which slowed me down a bit.
+You’ll find a rather large glass trackpad below the keyboard, which I found to operate smoothly, with a satisfying click response. As previously mentioned, the touchpad includes Asus’ nifty NumberPad feature, which instantly displays a touch-enabled number pad when you tap the NUMLK.
+Audio on the Asus ROG Strix Scar 16
+The ROG Strix Scar 16 features four speakers (two tweeters plus two woofers). I found the
+audio
+quite good, with loud and clear volume (I didn’t go past 80 percent to save my hearing) and adequate bass.
+I played some tunes with the laptop, including “Something in My Heart” by Röyksopp. The electronic drums and bass synth sounded pleasing to me along with the quavery vocals. The real test, though, was with
+Indiana Jones and the Great Circle
+, where the sound effects were particularly poignant, from the whip cracks to Indy’s feverish punches, to the grunts he makes when he jumps from ledges. I still prefer to opt for one of the
+best gaming headsets
+when listening to music or gaming, but you won’t be disappointed by the audio system in the ROG Strix Scar 16.
+Upgradeability on the Asus ROG Strix Scar 16
+The ROG Strix Scar 16 is one of the easiest laptops that I’ve ever had the opportunity to open. When I first flipped the laptop over to expose its bottom panel, I was perplexed as to how to open it -- there were no visible screws to remove. I started poking around at the rubber feet to see if those needed to be removed, but they wouldn’t budge. Then, I noticed a small latch at the front of the chassis with an arrow on it.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+I pushed the latch in the direction of the arrow, and it slid over, revealing a red indicator. This red indicator signified that the bottom panel was unlatched. I then slid the panel toward me and was able to lift it off the chassis, exposing the interior. It’s a simple system, and I’m surprised that more manufacturers haven’t integrated something similar.
+
+YouTube
+
+Watch On
+
+With the bottom panel removed, you can access the system's upgradeable components. Unlike more compact ultraportables that have RAM soldered onto the motherboard, the ROG Strix Scar 16 has two SO-DIMM slots — our review unit had both slots occupied with 16GB DDR5-5600 SO-DIMMs.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+In addition, two M.2 slots accommodate full-length 2280 SSDs (only one was populated on our review unit). Even better, the ROG Strix Scar 16 supports the PCIe 5.0 interface, although our review unit was equipped with a Western Digital SN8000S 2TB PCIe 4.0 SSD. However, it’s nice to know that the option is available if you want to upgrade to a faster SSD interface.
+Battery Life on the Asus ROG Strix Scar 16
+The ROG Strix Scar 16 uses a 90 Whr battery. To see how long the laptop can operate on a charge, we ran it through our usual endurance benchmark — our test browses the web, streams videos, and runs light OpenGL tests with the brightness set to 150 nits.
+
+
+(Image credit: Tom's Hardware)
+In the end, the ROG Strix Scar 16 lasted 6 hours and 30 minutes. That put it in second place behind the Blade 16, which lasted 7 hours and 21 minutes.
+The x16 (5:37) and Aorus Master 16 (5:02) were further back in the pack when it comes to endurance.
+Heat on the Asus ROG Strix Scar 16
+The ROG Strix Scar 16 does an excellent job of exhausting heat generated by its top-shelf hardware components with its twin internal fans. While running the Metro Exodus stress test, the bottom of the chassis was warm to the touch but not uncomfortable. The fans audibly spun during the entire test, but the sound was not objectionable and was easily overpowered by the internal speakers (or a pair of the best headphones, if you wish).
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Our temperature measurements showed that the keyboard was 102.9 degrees Fahrenheit between the G and H keys, while the touchpad was much cooler at 82.7 degrees F. The underside of the chassis measured 119.6 degrees F, and the hottest part of the keyboard that we measured was between the F5 and F6 keys (120.3 degrees F).
+Webcam on the Asus ROG Strix Scar 16
+Like most new laptops arriving on the market these days, Asus has outfitted the ROG Strix Scar 16 with a 1080p webcam. Given the $3,300 price tag, it would have been nice to have seen some more impressive hardware – video and images came out slightly grainy, although overall colors and skin tones were accurate.
+The camera is more than adequate for videoconferencing, but I’d look for a third-party setup if you’re into game streaming.
+Software and Warranty on the Asus ROG Strix Scar 16
+Asus includes several apps with the ROG Strix Scar 16, including the oft-maligned Armoury Crate. Armoury Crate is an all-in-one software utility for controlling performance profiles to adjust RGB effects for the chassis and keyboard (with Aura Sync). It can even control the AniMe display on the lid using AniMe Vision. AniMe Vision allows you to upload your own GIFs to customize the LED display on the lid.
+Other apps preinstalled include MyAsus, which allows you to register your device, perform system upgrades, and run hardware diagnostics. CapCut is a short-form video and graphics editing app, ScreenXpert is a window manager for use across multiple displays, while GlideX is a screen sharing app.
+The most annoying preinstalled app, however, is McAfee. The app continually bombards you with pop-ups and warns that your trial period will soon end. I’d immediately ditch the app and rely on Microsoft Defender or any less resource-intensive anti-malware app.
+The ROG Strix Scar 16 comes with a one-year warranty from Asus.
+Asus ROG Strix Scar 16 Configurations
+The ROG Strix Scar 16 is available in two configurations from Asus, with our review unit being the cheapest offering. The system features an Intel Core Ultra 9 275HX processor, 32GB DDR5 memory, 2TB PCIe 4.0 SSD, RTX 5080, and a 16-inch 2560 x 1600 Mini LED 240Hz display. As configured, this system costs a staggering
+
+$3,299.99
+Currently, the only other configuration is this same system with an RTX 5090 instead of the RTX 5080 – all other specifications are the same. The premium to jump from the RTX 5080 to the RTX 5090 is substantial, as the flagship system costs
+
+$4,299
+Both systems are only available directly from the Asus online store.
+Bottom Line
+
+
+(Image credit: Tom's Hardware)
+The Asus ROG Strix Scar 16 has a strong foundation, with a solid chassis, plentiful ports (including 2.5 GbE), Wi-Fi 7 connectivity, a fast SSD (which is further futureproofed with PCIe 5.0-enabled M.2 slots), and a vibrant 1600p Mini LED panel.
+The wildcard with this laptop comes down to the RTX 5080 graphics card. While overall performance was strong, lingering driver issues still prevent consistent playback with some popular video games. It’s likely that future driver issues may lessen or even completely resolve these performance and compatibility issues. However, if you’re spending over $3,000 on a new gaming laptop, you don’t want any barriers to entry in whatever game may be in your library.
+
+TOPICS
+
+See all comments (2)
+
+Brandon Hill
+Senior Editor
+Brandon Hill is a senior editor at Tom's Hardware. He has written about PC and Mac tech since the late 1990s with bylines at AnandTech, DailyTech, and Hot Hardware. When he is not consuming copious amounts of tech news, he can be found enjoying the NC mountains or the beach with his wife and two sons.
+
+2 Comments
+
+Comment from the forums
+
+Notton
+
+Reply
+
+Gio7
+
+Reply
+
+View All 2 Comments

@@ -1,0 +1,206 @@
+Title: HP Spectre x360 13 (2019) Laptop Review: Best Consumer 2-in-1
+Source: https://www.tomshardware.com/reviews/hp-spectre-x360-13-inch-laptop,6083.html
+
+Tom's Hardware Verdict
+
+
+
+
+
+
+
+
+
+HP’s Spectre x360 13-inch offers a best-in-class combination of style, portability and performance.
+
+
+Pros
+
+Long battery life
+
+Attractive design
+
+Lightweight
+
+USB Type-A port
+
+Cons
+
+Dull, noisy webcam
+
+Dim screen for a premium system
+
+Why you can trust Tom's Hardware
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.
+Find out more about how we test
+
+
+
+If you’re looking for a lightweight consumer 2-in-1, it’s hard to argue against the HP Spectre x360 13-inch. Starting at $1,029 (£999), the latest version of this tried-and-true convertible features epic battery life, solid performance and a sleek new design with attractive tapered edges and an eye-popping Poseidon Blue color. While its base-level
+1080p
+screen could be brighter, the Spectre x360 has a slew of helpful features, including a USB Type-A port, a hardware webcam switch and an active stylus in the box.
+Design
+The new HP Spectre x360 13-inch and
+its 15-inch big brother
+are the first laptops I’ve ever seen that have hexagon shapes… well, sort of. At first glance, these computers appear rectangular, but the upper left and right sides of the
+chassis
+are chamfered into mini fifth and six sides, with the power button living on the left corner edge and the USB-C charging port on the right one.
+Image
+These edges are polarizing; I like them a lot because they add an attractive, unique design element and make it easy to feel your way to the power button in the dark. However, some of my coworkers think they are unnecessary design flourishes.
+The rest of the laptop's appearance is unquestionably stunning with an all-aluminum design that comes in two color schemes: Ash Silver and Poseidon Blue. I tested an Ash Silver unit and noted that the word “silver” is a little misleading because the lid and deck are more of a dark brown metal with a shiny, copper-colored metal on the hinges and the sides. Either way, it looks fantastic. But the Poseidon Blue color is even more attractive with a dark subtle blue on the lid and deck to go with a white gold-colored metal around the sides and on the hinges. I’d definitely get the Blue.
+At 12.2 x 8.6 x 0.6 inches (309 x 218 x 15 mm) and just 2.8 pounds (1.3 kg), the Spectre x360 13-inch is really light and compact. It’s notably smaller and lighter than the
+Lenovo Yoga C930
+and thinner but 0.3 pounds heavier than the
+LG Gram 14 2-in-1
+. The
+Dell XPS 13
+is 0.1 pounds lighter and 0.1 inches thinner, but keep in mind that it is not a 2-in-1 and has no USB Type-A ports.
+Speaking of ports, the Spectre x360 13-inch doesn’t have many, but it does provide a USB Type-A port, something that all of its main competitors lack. In addition to the Type-A port, which lives on the left side, there’s a microSD card slot, a 3.5mm headphone jack, a Thunderbolt 3 port and a USB Type-C port for charging.
+HP Spectre x360 Specifications
+Swipe to scroll horizontally
+CPU
+Intel Core i7-8565U
+Graphics
+Intel UHD 620 (integrated)
+Memory
+8GB DDR4-2400
+SSD
+256GB M.2 PCIe-NVMe
+Display
+13.3-inch 1080p (1920x1080) IPS
+Networking
+Intel Wireless-AC 9560, Bluetooth 5
+Video Ports
+Thunderbolt 3
+USB Ports
+2x Thunderbolt 3 / USB Type-C Gen 21x USB Type-A
+Audio
+Quad speakers tuned by Bang & Olufsen
+Camera
+FHD, IR webcam
+Battery
+61 Wh
+Power Adapter
+65 W
+Operating System
+Windows 10 Home
+Dimensions (WxDxH)
+12.2 x 8.6 x 0.57 inches / 309.9 x 218.4 x 14.5 mm
+Weight
+2.9 pounds / 1.3 kg
+Price (as configured)
+$1,349 / £1,099
+Productivity Performance
+
+
+With its Intel Core i7-8565U
+CPU
+, 8GB of
+RAM
+and a 256GB
+SSD
+, our review configuration of the HP Spectre x360 was more than capable of handling everything we threw at it with ease. Even when I had over a dozen tabs open and a
+video streaming in another window, I didn’t notice any lag.
+Image
+On Geekbench 4, a synthetic benchmark that measures overall performance, the Spectre scored a solid 14,935, comfortably above the 13,329 category average, a little better than the Lenovo Yoga C930 (Core i7-8550U CPU) and slightly behind the XPS 13 (Core i7-8565U).
+It took HP’s 2-in-1 a solid 1 minute and 34 seconds to match 65,000 names with their addresses in Excel. That’s about on par with the category average, but 24 seconds slower than the
+Dell
+XPS 13.
+You can crunch videos with the Spectre x360, but you’ll be waiting a while. When we used Handbrake to transcode a 12-minute, 4K video down to 1080p, the process finished in 22 minutes and 30 seconds. That’s actually a bit quicker than the category average (22:54), but the Yoga C930 was 8 percent quicker, and the XPS 13 was 22 percent faster.
+The 256GB SSD copied 4.97 GB of files at a rate of 391.5 MBps, a quick speed but a bit below the 557.9 MBps category average. The Dell XPS 13 was slightly quicker than the average, while the Yoga C930 was a bit behind the Spectre x360.
+With its integrated Intel UHD 620 graphics, the Spectre x360 isn’t fit for serious gaming, but it can handle casual titles and some light media creation. When we fired up a game of
+Dirt 3
+, a low-end racing game, the 2-in-1 managed a very playable frame rate of 56 frames per second (fps), 23 percent less than the category average and 36 percent behind the XPS 13. However, the Yoga C930 fared much worse at 37 fps.
+The Spectre x360 scored 300 on 3DMark Fire Strike Ultra, a synthetic benchmark that measures graphics prowess. That’s less than half the premium
+laptop
+category average, but about on par with the Yoga C930 and Dell XPS 13, both of which also have integrated graphics.
+The Spectre x360 offers fairly consistent performance over time. When we ran Cinebench R15 10 times, the Spectre x360 got an average score of 497.8 with an average CPU temperature of 85.8 degrees Celsius (186.4 degrees Fahrenheit) and average
+clock speed
+of 2.4 GHz. With the exception of the first run, which resulted in a score of 596.8, all other nine instances were close to each other, ranging from 480.9 to 490.2.
+
+
+Display
+The 13.3-inch, 1920x1080 display on our review unit was colorful, but not luminous enough. When I watched a trailer for
+Shazam
+, some shades, like the red in the hero’s costume or the yellow in a lightning bolt, popped, but nothing is as vibrant as it should be when you have below average brightness.
+
+
+The panel measured an unimpressive 287 nits of brightness on our light meter, which is 35 nits below the category average and miles behind the Dell XPS 13’s mark of 357 nits with its 1080p screen.
+
+
+However, our colorimeter confirmed what I saw with my eyes as the Spectre’s panel reproduced an impressive 150 percent of the sRGB color gamut. That’s 27 percent better than the category average, 19 percent above the XPS 13 and 50 percent better than Lenovo’s Yoga C930 with a 4K screen.
+Keyboard, Touchpad and Pen
+
+
+Where
+keyboards
+for previous Spectre x360s I tested had extremely tactile, responsive feels, the current model’s keys seem sturdy but a little stiff. Their 1.4 mm of travel isn’t ideal (above 1.5mm is great, but rare on ultrabooks), but not terrible either. And the 70 grams of required actuation force is normal. However, I found myself bottoming out quite a bit, which made my fingers feel fatigued. When I took the 10fastfingers.com typing test, I reached a rate of 96 words per minute with a 3.6 percent error rate, both of which are within my normal range.
+In our tests, the 4.7 x 2.3-inch touchpad provided accurate navigation around the desktop and responded quickly to all the standard Windows multitouch gestures, including pinch-to-zoom, three-finger swipe and four-finger swipe. However, the laptop does not use
+Microsoft
+’s Windows Precision touchpad driver, instead opting for a Synaptics driver.
+The Spectre x360 13-inch comes with an active stylus that has 4,096 levels of pressure sensitivity (interpolated from 1,028 degrees) and two customizable buttons. The pen offered a very accurate, rich writing and drawing experience. When I used Windows 10’s handwriting keyboard, my strokes registered accurately and immediately. And when I did some sketching in Fresh Paint, lines were thicker or thinner depending on how hard I pressed.
+While I wish there was more friction when pressing the tip against the screen and it would be nice if there was a back eraser button like on the Microsoft Surface Pen, the Spectre provided a really good writing experience. Consider that for Microsoft's
+Surface Pro
+and Surface Book, you have to pay $100 extra for the pen.
+Audio
+The Spectre x360 is loud enough to fill a medium-sized room and accurate enough to dance to. When I played AC/DC’s "Back in Black," the drums were just a little tinny, but not annoyingly so, and the sound was clearly audible from the next room over.
+Audio
+Control gives you manual control over the equalizer and the ability to choose among movie, music or voice profile. When I turned up the treble, the guitar sounded richer and louder than the other instruments. You can also toggle the Bang and Olufsen Experience setting, which is on by default, but turning it off made the music sound a bit hollow.
+Upgradeability
+Just forget about upgrading the HP Spectre x360 13-inch. The screws on the bottom are hidden beneath the glued-on rubber feet. We don’t know if the
+RAM
+or storage are soldered in, but in order to find out, we’d have had to ruin the feet, rendering the laptop wobbly.
+Battery Life
+The HP Spectre x360 can last all day long on a charge and then some. On our battery test, which involves continuous web surfing, video streaming and running OpenGL
+benchmarks
+at 150 nits of brightness, the Spectre endured for an impressive 12 hours and 7 minutes, about 4 hours longer than the average premium laptop. Dell’s XPS 13 with a 1080p, non-touch screen lasted a slightly longer 12 hours and 22 minutes, but let’s keep in mind that touch screens usually consume a lot more power.
+
+
+Webcam
+The built-in 1080p webcam captures images which are unimpressive at best. A shot of my face had a ton of visual noise, and colors, such as the blue stripes in my shirt and my skin tone, were quite inaccurate. At least the picture was fairly bright.
+
+
+The webcam also has an infrared sensor for doing Windows Hello face detection. But if you’d prefer to just use a finger, there’s also a fingerprint reader on the deck.
+
+
+If you’re worried about someone hacking into the computer and taking control of the webcam, you can flip a hardware switch on the right side that completely disables the sensor and even removes it from the device manager.
+Software and Warranty
+HP offers a few first-party utilities, some of which are useful and some of which are not. HP Command Center lets you pick a thermal profile that balances in favor of performance, quiet or coolness. HP Audio Switch lets you choose which device to send sound to, which is something you could also do in Windows settings.
+HP Jumpstart, which appears as a large tile on the Start menu, is a glossy promotion for downloading different paid or trialware apps, including Office 365 and McAfee
+Security
+In addition to the McAfee Security center, there’s the standard dumpster full of free-to-play games, including
+Candy Crush Saga
+and
+Candy Crush Friends Saga
+, that Microsoft shovels onto every
+Windows 10
+machine. You’ll also find the Netflix app, just in case you are a subscriber and didn’t realize that you could just download it yourself in a matter of seconds.
+HP backs the Spectre x360 with a standard one-year warranty on parts and labor.
+Heat
+The HP Spectre x360 stayed pretty cool throughout our anecdotal use, but the bottom surface got a little warm during our heat test. After streaming a video for 15 minutes, the keyboard measured a reasonable 30.4 degrees Celsius (86 degrees Fahrenheit), and the touchpad clocked in at 29.1 degrees Celsius (84.4 degrees Fahrenheit). The bottom hit a toasty 38.7 degrees Celsius (101.7 degrees Fahrenheit).
+
+
+Configuration Options
+Our $1,349 review configuration (on sale for $1,199 at
+Best Buy
+at publish time) of the HP Spectre x360 came with a Core i7-8565U, 8GB of RAM, a 256GB SSD and a 1080p display. When you buy directly from HP.com, you can choose between a 1080p and 4K display, pick 8 or 16GB of RAM, decide between a Core i5 and Core i7 CPU and go for up to 2TB of storage.
+Depending on where you buy from and what configuration you choose, prices range from about $1,029 (£999) to $2,399 (£1,799). You can get the laptop in your choice of Poseideon Blue or Ash Silver. While both are attractive, I highly recommend the former.
+Bottom Line
+If you’re
+shopping for a premium laptop
+with a focus on portability and battery life, the HP Spectre x360 should be near the top of your list. Even if you don’t feel like you need a 2-in-1, this laptop competes very favorably against leading clamshells, like the Dell XPS 13, and, if you get the Poseidon Blue color, you’ll have a system that looks as good as it performs.
+It’s not perfect: a premium system like this should give you more than 300 nits of brightness even on the base model panel, and the keyboard is a little less snappier compared to prior models reviewed. But the Spectre x360 13-inch is one of the best lightweight laptops you can get and the best choice for consumers who want a lightweight system with a heavy dose of style.
+MORE:
+Best Gaming Laptops
+MORE:
+Laptop Reviews
+MORE:
+All Laptop Content
+Photo Credits: Tom's Hardware
+
+TOPICS
+
+Avram Piltch
+Managing Editor: Special Projects
+Avram Piltch is Managing Editor: Special Projects. When he's not playing with the latest gadgets at work or putting on VR helmets at trade shows, you'll find him rooting his phone, taking apart his PC, or coding plugins. With his technical knowledge and passion for testing, Avram developed many real-world benchmarks, including our laptop battery test.

@@ -1,0 +1,66 @@
+Title: MacBook Air 15-inch (M3) Review: More than just a big MacBook Air
+Source: https://www.laptopmag.com/laptops/macbooks/macbook-air-15-inch-m3
+
+MacBook Air 15-inch (M3) Review
+
+Reviewer: Sean Riley
+Review Date: March 19, 2024
+
+Specifications:
+- Processor: 8-core Apple M3 CPU (4 performance, 4 efficiency cores)
+- GPU: 10-core integrated
+- RAM: 8GB, 16GB, or 24GB unified memory
+- Storage: 256GB, 512GB, 1TB, or 2TB SSD
+- Display: 15.3-inch Liquid Retina (2880 x 1864)
+- Ports: 2x Thunderbolt/USB-4, MagSafe 3, headphone jack
+- Webcam: 1080p
+- Dimensions: 13.40 x 9.35 x 0.45 inches
+- Weight: 3.3 pounds
+- Colors: Midnight, Starlight, Space Gray, Silver
+
+Pricing:
+- Base: $1,299 (8GB RAM, 256GB storage)
+- Mid-tier: $1,499 (16GB or 512GB upgrade)
+- Review unit: $1,699 (16GB RAM, 512GB storage)
+- Max config: $2,499 (24GB RAM, 2TB storage)
+
+Design and Build:
+The Air 15 maintains an identical appearance to its M2 predecessor. Key improvements include an improved Midnight finish that sheds fingerprints far more effectively, using a new anodization process. The laptop uses 50% recycled materials, a first for MacBook Air. It remains the world's thinnest 15-inch laptop at 0.45 inches and weighs a notably light 3.3 pounds. The design philosophy embraces utilitarian beauty, with functional engineering prioritized over dramatic visual changes.
+
+Display:
+The 15.3-inch display earned strong marks. Brightness measured 482 nits average, which is 100 nits above the mainstream average. The color gamut covers 77.5% DCI-P3, which is below the 87.2% mainstream average. Color accuracy achieved a Delta-E of 0.3, which is excellent though slightly above the 0.24 average. It uses Liquid Retina technology with True Tone for adaptive color accuracy. The display excels in brightness and contrast, with pitch-black edges and white-hot light rendering effectively even in bright rooms.
+
+Performance:
+Geekbench 6 multi-core score: 12,052. This was outperformed by the MSI Prestige 16 AI Evo at 13,310, but ahead of the Acer Swift Edge 16 at 10,682 and the mainstream average of 9,595. In real-world testing, the M3 Air handles demanding multitasking remarkably well. With typical workloads including 5-6 Google Chrome windows with between 12-20 tabs each, Photoshop, and Slack, the laptop remained responsive. Adobe applications launch with noticeable speed improvements over the M2 model. Video transcoding via Handbrake from 4K to 1080p took 6 minutes 30 seconds. SSD speeds measured 2,968.2 MBps read and 3,167.1 MBps write on the BlackMagic test.
+
+Battery Life:
+The battery lasted 15 hours and 3 minutes on continuous web surfing at 150 nits. This is a modest 4-minute increase over the M2 model. It significantly outpaced competitors: the MSI Prestige 16 AI Evo lasted 13 hours 4 minutes, and the Acer Swift Edge 16 managed only 7 hours 18 minutes. Charging options include a 70W USB-C fast charger or a dual USB-C 35W adapter that includes a secondary port for other devices.
+
+Audio:
+The 15-inch Air features a six-speaker system with force-cancelling woofers, superior to the 13-inch model's four speakers. It supports Spatial Audio with compatible AirPods models. The top-firing speakers maintain clarity at maximum volume. The audio is adequate for general consumption, though external audio devices are still recommended for serious listening.
+
+Keyboard and Trackpad:
+The reviewer preferred the built-in keyboard to external Magic Keyboard alternatives, achieving 86 words per minute with 98% accuracy on typing tests. Keys offer solid rebound and responsive feedback. The 5.9 x 3.6-inch Force Touch trackpad received high praise for responsiveness and reliable palm rejection. Navigation between workspaces and scrolling was described as seamless.
+
+Webcam:
+Notably improved from Apple's historical standards. The reviewer stated it is good enough that they don't feel compelled to recommend purchasing external alternatives. The 1080p camera accurately captures colors and background details, with background blur and replacement available.
+
+Software and Features:
+macOS Sonoma integration provides instantaneous performance across the OS. It includes widgets adapted from iOS. A new capability added with the M3 is dual external monitor support when the laptop is closed. It comes with a one-year limited warranty.
+
+Pros:
+- Thin-and-light chassis maintaining portability
+- Bright Liquid Retina display at 482 nits
+- Exceptional battery life exceeding 15 hours
+- Strong multi-core performance
+- Competitive pricing relative to capabilities
+- Improved Midnight color finish reduces fingerprints
+- Impressive real-world multitasking capability
+
+Cons:
+- Limited port selection with only two Thunderbolt/USB-4 ports
+- Display color gamut below mainstream standards at 77.5%
+- Color accuracy slightly behind competitors
+
+Verdict:
+This is another excellent laptop from Apple with notable performance improvements over the M2 generation. For M1 and Intel MacBook Air owners, upgrading is strongly recommended since the performance leap is substantial. For M2 owners, most can likely hold out for an M4 upgrade, unless professional dual-monitor capability justifies the cost. The Air 15 M3 combines size, performance, battery life, and affordability, landing on multiple best laptop lists. The reviewer notes it should last you for years to come despite premium pricing. It received an Editor's Choice award reflecting a compelling balance of portability, performance, and practical features for productivity-focused users.

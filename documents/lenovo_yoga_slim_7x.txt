@@ -1,0 +1,68 @@
+Title: Lenovo Yoga Slim 7x Review: A Copilot+ PC that hits all the right notes
+Source: https://www.laptopmag.com/laptops/lenovo-yoga-slim-7x
+
+Lenovo Yoga Slim 7x (Gen 9) Review
+
+Price: $1,199 (base model); $1,289 (1TB storage)
+
+Specifications:
+- CPU: Qualcomm Snapdragon X Elite X1E-78-100
+- RAM: 16GB
+- Storage: 512GB SSD (base); 1TB option
+- Display: 14.5-inch 3K OLED (2994 x 1840) touch display, 90Hz
+- Battery: 14 hours 14 minutes
+- Weight: 2.8 pounds
+- Dimensions: 12.8 x 8.8 x 0.51 inches
+
+Design:
+The Yoga Slim 7x features a sleek aluminum chassis in cosmic blue with clean lines and a professional appearance. It has earned MIL-STD 810H durability certification, meaning it has been tested against military-grade standards for durability. At just 2.8 pounds and 0.51 inches thin, it is extremely portable. The build quality feels premium throughout, with tight tolerances and no flex in the lid or chassis.
+
+Display:
+The OLED panel delivers vibrant, stunning colors, covering 155% of the DCI-P3 color gamut, which is exceptional and far beyond what most laptops offer. Average brightness measured 464 nits in SDR mode, with peak HDR brightness reaching 785 nits. The 90Hz refresh rate ensures smooth operation for everyday tasks. However, the display exhibits notable reflections in low-light scenarios due to the lack of an anti-reflective coating. The 3K resolution provides crisp text and detailed images.
+
+Performance:
+The Snapdragon X Elite processor delivers strong results across benchmarks:
+- Geekbench 6 single-core: 2,448
+- Geekbench 6 multi-core: 13,750
+- HandBrake transcoding: 5 minutes 16 seconds
+- 3DMark FireStrike: 5,800
+
+The multi-core score outperformed both the MacBook Air M3 and the MacBook Pro M3 by over 1,600 points, demonstrating the Snapdragon chip's competitive performance. The processor handles productivity workloads like document editing, web browsing, and light photo editing with ease.
+
+Gaming:
+Gaming capabilities are limited. Civilization VI at 1080p managed only 20.8 fps. Some games are broadly incompatible with the ARM-based Snapdragon processor, specifically those requiring kernel-level anti-cheat software like Apex Legends and Valorant. However, lightweight casual gaming with compatible titles is possible. This is not a laptop you buy for gaming.
+
+Battery Life:
+The laptop achieved an impressive 14 hours and 14 minutes on the battery test, surpassing the premium laptop average of 10 hours 8 minutes by a wide margin. This trails the Surface Laptop 7 at 15:44 but remains excellent. The Snapdragon processor's efficiency is the key factor here, making this a true all-day laptop that can handle a full work day and then some without needing a charger.
+
+Keyboard:
+The keyboard features outstanding typing quality with 1.5mm key travel and satisfying tactile feedback. The reviewer achieved a record 105 wpm typing speed, which is remarkable. The keys have a comfortable spacing and responsive feel that makes extended typing sessions enjoyable. One dedicated Copilot key replaces a standard Control key for AI features.
+
+Trackpad:
+The trackpad is spacious and responsive, supporting all Windows 11 gestures reliably. Click feedback is consistent and satisfying.
+
+Audio:
+The speakers provide clear sound with decent volume for a thin laptop. They handle dialogue and music adequately, though bass response is limited as expected from a slim chassis.
+
+Ports:
+Port selection includes three USB4 Type-C ports and a 3.5mm headphone jack. There are no USB Type-A ports, no HDMI, and no SD card reader. Users relying on older peripherals will need adapters.
+
+Software:
+Windows 11 with Copilot+ features, including on-device AI processing through the Snapdragon NPU (Neural Processing Unit). The NPU enables AI features that run locally without cloud connectivity. App compatibility through emulation is generally good, though some specialized Windows applications may have issues with the ARM-based processor.
+
+Pros:
+- Exceptional battery endurance at over 14 hours
+- Outstanding keyboard experience with record typing speeds
+- Sharp, colorful OLED display with 155% DCI-P3 coverage
+- Robust multi-core processing that rivals Apple M3
+- Lightweight at 2.8 pounds with durable build
+- Competitive pricing at $1,199
+
+Cons:
+- Limited gaming capabilities due to ARM architecture
+- No USB Type-A ports requiring adapters for legacy devices
+- Highly reflective display surface without anti-reflective coating
+- Some Windows application compatibility issues with Snapdragon
+
+Verdict:
+The Lenovo Yoga Slim 7x is a fantastic all-around Windows 11 laptop offering strong value at its price point. It delivers solid everyday performance alongside meaningful AI features through the Copilot+ platform. The combination of outstanding battery life, a gorgeous OLED display, and an excellent keyboard makes it one of the best ultraportable laptops available. It was named the reviewer's favorite laptop of 2024. The only significant caveats are the limited gaming support and the need for USB-C adapters.

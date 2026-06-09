@@ -1,0 +1,1047 @@
+[
+  {
+    "text": "Title: Asus ROG Strix Scar 16 (2025) RTX 5080 gaming laptop review: Flashy lights, huge price, strong performance\nSource: https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-16-2025-rtx-5080-gaming-laptop-review\n\nTom's Hardware Verdict\n\nThe ROG Strix Scar 16 is just a driver update (or two) away from greatness.\n\nBrilliant display\n\nSecond M.2 SSD slot with PCIe 5.0 support\n\nTool-free access to hardware components\n\nStrong game performance\n\nSome game compatibility issues with RTX 5080\n\nWhen it comes to the\nbest gaming laptops\n, there’s been a heavy focus on systems featuring Nvidia’s GeForce RTX 40 Series GPUs for the past two years. However, Nvidia launched new “Blackwell” gaming GPUs for laptops as part of the new RTX 50 Series. As a result, a new wave of gaming laptops ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "o years. However, Nvidia launched new “Blackwell” gaming GPUs for laptops as part of the new RTX 50 Series. As a result, a new wave of gaming laptops is starting to hit the market, and Asus is among the first to jump on the bandwagon.\nEnter the ROG Strix Scar 16, a 16-inch class gaming laptop featuring an Intel Core Ultra 9 275HX processor, 32GB of RAM, and an RTX 5080 GPU. While the RTX 5080 isn’t the top entry in Nvidia’s laptop GPU family, as you’ll see, it still packs a punch. However, you will pay a significant price premium ($3,299 as reviewed) to enjoy the latest that Nvidia has to offer.\nDesign of the Asus ROG Strix Scar 16\nAsus’s ROG family of products is often infused with rather outlandish design touches that help them stand out from the crowded field of gaming laptops, and the ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": " family of products is often infused with rather outlandish design touches that help them stand out from the crowded field of gaming laptops, and the ROG Strix Scar 16 is no exception. The first thing you’ll notice when removing the laptop from the box is the ROG logo on the lid, which initially looks like a standard reflective chrome badge. However, as soon as you turn the machine on, it lights up in all its RGB glory to add color to the black exterior of the laptop.\n\nBut that’s not the only illumination on the aluminum lid – Asus also has included a diagonal strip of white LEDs that dance around with a scrolling effect when the laptop is in standby mode. Asus calls it AniMe Vision, which features an array of 810 LED lights that shine through the milled holes in the lid. When the laptop i",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": " standby mode. Asus calls it AniMe Vision, which features an array of 810 LED lights that shine through the milled holes in the lid. When the laptop is turned on, flashes of light display “STRIX” branding by default. There are several premade animations you can select from, or you can import a GIF of your own to customize your laptop further.\n\nWait, there’s more! An RGB light ring runs around the entire perimeter of the bottom half of the enclosure, and the keyboard features per-key RGB lighting. The ROG Strix Scar 16’s lighting can be configured using Aura Sync in Armory Crate.\nThe ROG Strix Scar 16 features a 16-inch 2560 x 1600 display with thin bezels along the sides. The top bezel is thicker to accommodate the 1080p webcam and infrared sensors for Windows Hello that are front and cent",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "h thin bezels along the sides. The top bezel is thicker to accommodate the 1080p webcam and infrared sensors for Windows Hello that are front and center. The bottom bezel is larger still, roughly twice as wide as the top bezel, and incorporates ROG STRIX branding.\nThe keyboard deck and the chassis bottom are constructed of plastic. Although I would have preferred an aluminum unibody at this price point, the plastic at least feels high quality.\nA massive touchpad sits below the keyboard and features Asus’ virtual NumberPad feature. After pressing NUMLK on the top right-hand corner of the touchpad, it lights up with a full number pad that you can use to make quick entries in apps like Calculator or\nExcel. It works well enough, and I find it a suitable alternative to including a full physical",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "an use to make quick entries in apps like Calculator or\nExcel. It works well enough, and I find it a suitable alternative to including a full physical number pad on the keyboard, especially if it’s a feature you won’t use frequently.\nThe ROG Strix Scar 16 is a big laptop, and Asus thankfully puts the space to use by incorporating a large assortment of ports for connectivity. You’ll find just two USB 3.2 Type-A ports on the right side. However, the bulk of the connections are on the left side, which is home to a proprietary power connector, a full-size 2.5 GbE LAN port, an HDMI 2.1 port, another USB 3.2 Type-A port, two Thunderbolt 5 ports, and a 3.5mm headphone jack. Regarding wireless connectivity, the ROG Strix Scar 16 has an\n\nIntel BE200\ncard, which combines Wi-Fi 7 with Bluetooth 5.4.\n",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "d a 3.5mm headphone jack. Regarding wireless connectivity, the ROG Strix Scar 16 has an\n\nIntel BE200\ncard, which combines Wi-Fi 7 with Bluetooth 5.4.\nThe ROG Strix Scar 16 measures 13.94 x 10.55 x 0.90 inches and weighs 6.28 pounds. For comparison, the\nRazer Blade 16\nis 13.98 x 9.86 x 0.69 inches and weighs 4.72 pounds, while the 5.67-pound\nAlienware x16\nis 14.36 x 11.41 x 0.73 inches. The Gigabyte Aorus Master 16 weighs 5.4 pounds and measures 14.06 x 10.0 x 1.18 inches.\nAsus ROG Strix Scar 16 Specifications\n\nIntel Core Ultra 9 275HX\nNvidia GeForce RTX 5080 (16GB GDDR7, 1,500 MHz Boost Clock, 175 W Max TGP)\n32GB DDR5-5600 (2x 16GB)\n2TB PCIe 4.0 NVMe M.2 SSD\n16-inch, 2560x1600, 165 Hz, 16:10\nNetworking\nIntel Wi-Fi 7 (BE200), Bluetooth 5.4\n2x Thunderbolt 5, 3x USB 3.2 Type-A Gen 2, 1x HDMI ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "4.0 NVMe M.2 SSD\n16-inch, 2560x1600, 165 Hz, 16:10\nNetworking\nIntel Wi-Fi 7 (BE200), Bluetooth 5.4\n2x Thunderbolt 5, 3x USB 3.2 Type-A Gen 2, 1x HDMI 2.1, 3.5mm headphone jack, 2.5 Gbps Ethernet\n1080p IR webcam\nPower Adapter\nOperating System\nWindows 11 Home\nDimensions (WxDxH)\n13.94 x 10.55 x 0.90 inches\n6.28 pounds\nPrice (as configured)\nGaming and Graphics on the Asus ROG Strix Scar 16\nThe ROG Strix Scar 16 features high-end hardware, including an Intel Core Ultra 9 275HX processor, a GeForce RTX 5080 laptop GPU, and 32GB of DDR5-5600 memory. The Core Ultra 9 275HX has 8 performance cores and 16 efficiency cores. The performance cores have a base clock of 2.7 GHz and a maximum turbo clock of 5.4 GHz, while the efficiency cores have a 2.1-GHz base clock and a maximum 4.6 GHz turbo clock. Th",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "base clock of 2.7 GHz and a maximum turbo clock of 5.4 GHz, while the efficiency cores have a 2.1-GHz base clock and a maximum 4.6 GHz turbo clock. The RTX 5080 has a 175W TGP and a 1,500 MHz boost clock.\nI had time to play various games on the ROG Strix Scar 16, but I spent most of my time running and gunning in\nIndiana Jones and the Great Circle\n. The game is a visual masterpiece with its lush environment, high-quality textures, realistic reflections, and intricate detail of real-world objects. With the resolution set to 1440p and the detail setting cranked to “Ultra,” I averaged between 70 and 100 fps in the game, depending on how much action took place on-screen.\n\nThe ROG Strix Scar 16 started strong in our\nShadow of the Tomb Raider\n(Highest setting) benchmark, delivering 177 fps at 10",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": "ion took place on-screen.\n\nThe ROG Strix Scar 16 started strong in our\nShadow of the Tomb Raider\n(Highest setting) benchmark, delivering 177 fps at 1080p. Performance at 1600p fell sharply to just 112 fps. The Aorus Master 16 (Core Ultra 9 275HX, RTX 5080) took the crown at 1080p (185 fps), and scored slightly more than Asus at 1600p (114 fps). For comparison, the Blade 16 (Ryzen AI 9 HX 370, RTX 5090) delivered 166 fps at 1080p, but vastly outperformed at 1600p (161 fps). The x16 (Core i9-13900HK, RTX 4080) was at the back of the pack, achieving 117 fps at 1080p and 79 fps at 1600p.\nCyberpunk 2077\n(Ray Tracing Ultra settings) was the most recent game added to our benchmark suite, so the x16 didn't make the cutoff for testing. However, we do have a showdown between the systems with Blackwe",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 9
+  },
+  {
+    "text": "cent game added to our benchmark suite, so the x16 didn't make the cutoff for testing. However, we do have a showdown between the systems with Blackwell GPUs. The ROG Strix Scar 16 hit 61 fps at 1800p and 35 fps at 1600p. The Aorus Master 16 performed similarly, with 62 fps at 1080p and 38 fps at 1600p. The Blade 16 surpassed those numbers by around 10 percent at both resolutions, with 66 fps at 1080p and 43 fps at 1600p.\n(Ultra settings) saw another flip-flop in the rankings, with the Aorus Master 16 besting all competitors, including the RTX 5090-equipped Blade 16. It averaged 120 fps at 1080p and 113 fps at 1600p. The ROG Strix Scar 16 was a few ticks behind at 112 fps and 103 fps, respectively. The Blade 16 performed more in line with the x16 at 1080p (each hitting 97 fps), while its 9",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 10
+  },
+  {
+    "text": " a few ticks behind at 112 fps and 103 fps, respectively. The Blade 16 performed more in line with the x16 at 1080p (each hitting 97 fps), while its 94 fps at 1600p was enough to earn second place.\nRed Dead Redemption 2\n(Medium settings) proved to be a challenge for the ROG Strix Scar 16, and is a testament to the\nearly driver issues\nthat have plagued Nvidia’s RTX 50 Series laptops GPUs (as we noted in our Blade 16 review). The system would not run the benchmark at 1080p resolution. It would, however, run at 2560 x 1600, and we recorded 77 fps at that resolution. The Aorus Master 16 fared even worse, managing just 54 fps at 1600p.\nThe Aorus Master 16 won the\nBorderlands 3\n(Badass settings) benchmark showdown by default — our Blade 16 couldn't even run the benchmark, achieving a heady 172 f",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 11
+  },
+  {
+    "text": "aster 16 won the\nBorderlands 3\n(Badass settings) benchmark showdown by default — our Blade 16 couldn't even run the benchmark, achieving a heady 172 fps at 1080p and 121 fps at 1600p. The ROG Strix Scar 16 was the next-closest competitor with 156 fps and 113 fps at 1080p and 1600p, respectively.\nMetro Exodus\nfor our stress testing, running the in-game benchmark 10 consecutive times using the RTX preset. During the test, the ROG Strix Scar 16's efficiency and performance cores averaged 3.11 GHz and 4.61 GHz, respectively, with a CPU temperature of 74 degrees Celsius. The RTX 5080 averaged 1.845 GHz with a core temperature of 72 degrees C.\nProductivity Performance on the Asus ROG Strix Scar 16\nThanks to its use of a Core Ultra 9 275HX processor, 32GB of DDR5-5600, and a fast\nWestern Digital\n",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 12
+  },
+  {
+    "text": "uctivity Performance on the Asus ROG Strix Scar 16\nThanks to its use of a Core Ultra 9 275HX processor, 32GB of DDR5-5600, and a fast\nWestern Digital\nSN8000S PCIe 4.0 SSD, the ROG Strix Scar 16 proved to be a top performer in our productivity suite.\nThe ROG Strix Scar 16 quickly shot to the top of the Geekbench 6 synthetic CPU benchmark charts. It recorded a single-core score of 3,071 and a multi-core score of 19,597. This put it slightly ahead of the Aorus Master 16 with the same processor, which came in at 3,049 and 19,175, respectively. The Blade 16 with its Ryzen AI 9 HX 370 processor was a bit behind the rest of the pack (2,922, 16,025). The x16 was one of the last laptops we tested with Geekbench 5.x, so it is not represented here.\n\nSwitching gears to our file transfer test, which in",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 13
+  },
+  {
+    "text": " The x16 was one of the last laptops we tested with Geekbench 5.x, so it is not represented here.\n\nSwitching gears to our file transfer test, which involves copying 25GB of mixed-media files, the ROG Strix Scar 16 delivered a speedy 1,841.40 MBps. For comparison, the Omen 16 led the pack at 1,913 MBps, while the Blade 16 came in at 1,729.51 MBps. The Aorus Master 16 was dead last at 665.26 MBps.\nWe use our Handbrake benchmark to transcode a 4K video file to 1080p, with the Aorus Master 16 and ROG Strix Scar 16 handily besting the competition — it wasn’t even close. The former took just 2 minutes and 17 seconds to finish the operation, while the latter took 2 minutes and 22 seconds. The x16 with its older processor took over 4 minutes on the test.\nDisplay on the Asus ROG Strix Scar 16\nAsus ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 14
+  },
+  {
+    "text": "he latter took 2 minutes and 22 seconds. The x16 with its older processor took over 4 minutes on the test.\nDisplay on the Asus ROG Strix Scar 16\nAsus equipped the ROG Strix Scar 16 with a 16-inch 2560 x 1600 display with Mini LED backlighting. Given its gaming aspirations, the panel refreshes at up to 240 Hz, which makes it a great dance partner for the RTX 5080.\nOur tests showed that the ROG Strix Scar 16’s panel covered 81.2 percent of DCI-P3 and 114.7 percent of sRGB. The Mini LED backlighting allowed the laptop to stand far above its peers in brightness, as we saw 457.2 nits with SDR content. Brightness with HDR content topped 1,200 nits, which tracks with Asus’s claim of 1,200 nits.\n\nI played several games on the display, including\nForza Horizon 5, Microsoft Flight Simulator 2024\nCall",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 15
+  },
+  {
+    "text": " which tracks with Asus’s claim of 1,200 nits.\n\nI played several games on the display, including\nForza Horizon 5, Microsoft Flight Simulator 2024\nCall of Duty: Warzone\nIndiana Jones and the Great Circle\n. Action was smooth and tear-free, with vibrant colors all around.\nKeyboard and Touchpad on the Asus ROG Strix Scar 16\nAsus outfitted the ROG Strix Scar 16 with a full-size keyboard, offering 2mm of key travel. Four media keys are tacked on to the right side of the keyboard: Play, Pause, Previous Track, and Next Track. There are also five programmable “M” keys at the top of the keyboard deck that correspond with volume up/down, microphone off, power mode (which cycles through Silent, Performance, and Turbo), and a shortcut for Armoury Crate. The function of each button can be configured usi",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 16
+  },
+  {
+    "text": " power mode (which cycles through Silent, Performance, and Turbo), and a shortcut for Armoury Crate. The function of each button can be configured using Armoury Crate.\n\nUsing the keyhero.com typing test, I achieved 90 words per minute at 97.93 percent accuracy with the keyboard. It’s not my best performance with a laptop keyboard, as my fingers had to stretch a bit more than I’m used to, which slowed me down a bit.\nYou’ll find a rather large glass trackpad below the keyboard, which I found to operate smoothly, with a satisfying click response. As previously mentioned, the touchpad includes Asus’ nifty NumberPad feature, which instantly displays a touch-enabled number pad when you tap the NUMLK.\nAudio on the Asus ROG Strix Scar 16\nThe ROG Strix Scar 16 features four speakers (two tweeters p",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 17
+  },
+  {
+    "text": "ys a touch-enabled number pad when you tap the NUMLK.\nAudio on the Asus ROG Strix Scar 16\nThe ROG Strix Scar 16 features four speakers (two tweeters plus two woofers). I found the\nquite good, with loud and clear volume (I didn’t go past 80 percent to save my hearing) and adequate bass.\nI played some tunes with the laptop, including “Something in My Heart” by Röyksopp. The electronic drums and bass synth sounded pleasing to me along with the quavery vocals. The real test, though, was with\nIndiana Jones and the Great Circle\n, where the sound effects were particularly poignant, from the whip cracks to Indy’s feverish punches, to the grunts he makes when he jumps from ledges. I still prefer to opt for one of the\nbest gaming headsets\nwhen listening to music or gaming, but you won’t be disappoin",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 18
+  },
+  {
+    "text": "kes when he jumps from ledges. I still prefer to opt for one of the\nbest gaming headsets\nwhen listening to music or gaming, but you won’t be disappointed by the audio system in the ROG Strix Scar 16.\nUpgradeability on the Asus ROG Strix Scar 16\nThe ROG Strix Scar 16 is one of the easiest laptops that I’ve ever had the opportunity to open. When I first flipped the laptop over to expose its bottom panel, I was perplexed as to how to open it -- there were no visible screws to remove. I started poking around at the rubber feet to see if those needed to be removed, but they wouldn’t budge. Then, I noticed a small latch at the front of the chassis with an arrow on it.\n\nI pushed the latch in the direction of the arrow, and it slid over, revealing a red indicator. This red indicator signified that",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 19
+  },
+  {
+    "text": "with an arrow on it.\n\nI pushed the latch in the direction of the arrow, and it slid over, revealing a red indicator. This red indicator signified that the bottom panel was unlatched. I then slid the panel toward me and was able to lift it off the chassis, exposing the interior. It’s a simple system, and I’m surprised that more manufacturers haven’t integrated something similar.\n\nWith the bottom panel removed, you can access the system's upgradeable components. Unlike more compact ultraportables that have RAM soldered onto the motherboard, the ROG Strix Scar 16 has two SO-DIMM slots — our review unit had both slots occupied with 16GB DDR5-5600 SO-DIMMs.\n\nIn addition, two M.2 slots accommodate full-length 2280 SSDs (only one was populated on our review unit). Even better, the ROG Strix Scar ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 20
+  },
+  {
+    "text": " SO-DIMMs.\n\nIn addition, two M.2 slots accommodate full-length 2280 SSDs (only one was populated on our review unit). Even better, the ROG Strix Scar 16 supports the PCIe 5.0 interface, although our review unit was equipped with a Western Digital SN8000S 2TB PCIe 4.0 SSD. However, it’s nice to know that the option is available if you want to upgrade to a faster SSD interface.\nBattery Life on the Asus ROG Strix Scar 16\nThe ROG Strix Scar 16 uses a 90 Whr battery. To see how long the laptop can operate on a charge, we ran it through our usual endurance benchmark — our test browses the web, streams videos, and runs light OpenGL tests with the brightness set to 150 nits.\n\nIn the end, the ROG Strix Scar 16 lasted 6 hours and 30 minutes. That put it in second place behind the Blade 16, which las",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 21
+  },
+  {
+    "text": "ightness set to 150 nits.\n\nIn the end, the ROG Strix Scar 16 lasted 6 hours and 30 minutes. That put it in second place behind the Blade 16, which lasted 7 hours and 21 minutes.\nThe x16 (5:37) and Aorus Master 16 (5:02) were further back in the pack when it comes to endurance.\nHeat on the Asus ROG Strix Scar 16\nThe ROG Strix Scar 16 does an excellent job of exhausting heat generated by its top-shelf hardware components with its twin internal fans. While running the Metro Exodus stress test, the bottom of the chassis was warm to the touch but not uncomfortable. The fans audibly spun during the entire test, but the sound was not objectionable and was easily overpowered by the internal speakers (or a pair of the best headphones, if you wish).\n\nOur temperature measurements showed that the keyb",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 22
+  },
+  {
+    "text": "nd was easily overpowered by the internal speakers (or a pair of the best headphones, if you wish).\n\nOur temperature measurements showed that the keyboard was 102.9 degrees Fahrenheit between the G and H keys, while the touchpad was much cooler at 82.7 degrees F. The underside of the chassis measured 119.6 degrees F, and the hottest part of the keyboard that we measured was between the F5 and F6 keys (120.3 degrees F).\nWebcam on the Asus ROG Strix Scar 16\nLike most new laptops arriving on the market these days, Asus has outfitted the ROG Strix Scar 16 with a 1080p webcam. Given the $3,300 price tag, it would have been nice to have seen some more impressive hardware – video and images came out slightly grainy, although overall colors and skin tones were accurate.\nThe camera is more than ade",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 23
+  },
+  {
+    "text": "ore impressive hardware – video and images came out slightly grainy, although overall colors and skin tones were accurate.\nThe camera is more than adequate for videoconferencing, but I’d look for a third-party setup if you’re into game streaming.\nSoftware and Warranty on the Asus ROG Strix Scar 16\nAsus includes several apps with the ROG Strix Scar 16, including the oft-maligned Armoury Crate. Armoury Crate is an all-in-one software utility for controlling performance profiles to adjust RGB effects for the chassis and keyboard (with Aura Sync). It can even control the AniMe display on the lid using AniMe Vision. AniMe Vision allows you to upload your own GIFs to customize the LED display on the lid.\nOther apps preinstalled include MyAsus, which allows you to register your device, perform sy",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 24
+  },
+  {
+    "text": "ad your own GIFs to customize the LED display on the lid.\nOther apps preinstalled include MyAsus, which allows you to register your device, perform system upgrades, and run hardware diagnostics. CapCut is a short-form video and graphics editing app, ScreenXpert is a window manager for use across multiple displays, while GlideX is a screen sharing app.\nThe most annoying preinstalled app, however, is McAfee. The app continually bombards you with pop-ups and warns that your trial period will soon end. I’d immediately ditch the app and rely on Microsoft Defender or any less resource-intensive anti-malware app.\nThe ROG Strix Scar 16 comes with a one-year warranty from Asus.\nAsus ROG Strix Scar 16 Configurations\nThe ROG Strix Scar 16 is available in two configurations from Asus, with our review ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 25
+  },
+  {
+    "text": "ne-year warranty from Asus.\nAsus ROG Strix Scar 16 Configurations\nThe ROG Strix Scar 16 is available in two configurations from Asus, with our review unit being the cheapest offering. The system features an Intel Core Ultra 9 275HX processor, 32GB DDR5 memory, 2TB PCIe 4.0 SSD, RTX 5080, and a 16-inch 2560 x 1600 Mini LED 240Hz display. As configured, this system costs a staggering\n\nCurrently, the only other configuration is this same system with an RTX 5090 instead of the RTX 5080 – all other specifications are the same. The premium to jump from the RTX 5080 to the RTX 5090 is substantial, as the flagship system costs\n\nBoth systems are only available directly from the Asus online store.\nBottom Line\n\nThe Asus ROG Strix Scar 16 has a strong foundation, with a solid chassis, plentiful ports ",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 26
+  },
+  {
+    "text": "available directly from the Asus online store.\nBottom Line\n\nThe Asus ROG Strix Scar 16 has a strong foundation, with a solid chassis, plentiful ports (including 2.5 GbE), Wi-Fi 7 connectivity, a fast SSD (which is further futureproofed with PCIe 5.0-enabled M.2 slots), and a vibrant 1600p Mini LED panel.\nThe wildcard with this laptop comes down to the RTX 5080 graphics card. While overall performance was strong, lingering driver issues still prevent consistent playback with some popular video games. It’s likely that future driver issues may lessen or even completely resolve these performance and compatibility issues. However, if you’re spending over $3,000 on a new gaming laptop, you don’t want any barriers to entry in whatever game may be in your library.\n\nSee all comments (2)\n\nBrandon Hi",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 27
+  },
+  {
+    "text": "ng over $3,000 on a new gaming laptop, you don’t want any barriers to entry in whatever game may be in your library.\n\nSee all comments (2)\n\nBrandon Hill\nSenior Editor\nBrandon Hill is a senior editor at Tom's Hardware. He has written about PC and Mac tech since the late 1990s with bylines at AnandTech, DailyTech, and Hot Hardware. When he is not consuming copious amounts of tech news, he can be found enjoying the NC mountains or the beach with his wife and two sons.\n\n2 Comments\n\nComment from the forums\n\nView All 2 Comments",
+    "source": "asus_rog_strix_scar_16_2025.txt",
+    "chunk_index": 28
+  },
+  {
+    "text": "Title: Dell G15 (5520) Gaming Laptop Review: Strong 1080p Performer\nSource: https://www.tomshardware.com/reviews/dell-g15-5520\n\nTom's Hardware Verdict\n\nDell G15 is a middle-of-the pack budget gaming laptop that delivers sharp, smooth 1080p gaming in a no-frills package, but you'll have to turn settings down for intense games.\n\nStrong performance for the price\n\nCool temperatures\n\nRelatively bright screen\n\nMushy keyboard and sticky touchpad\n\nToo little RAM in our config\n\nIf you want to buy a mobile gaming rig on the cheap, you’re going to have to make some compromises. However, the best gaming laptops under $1,000 trade off creature comforts such as snappy keyboards and RGB bling in favor of solid performance that allows you to play your favorite titles at reasonable settings.\nStarting at $8",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "ch as snappy keyboards and RGB bling in favor of solid performance that allows you to play your favorite titles at reasonable settings.\nStarting at $899.99 (as tested), the\nG15 (5520) provides smooth frame rates at 1080p and high settings, along with a relatively bright screen and immersive\n. And if you’re willing to turn the settings down in order to achieve even higher frame rates, the 120 Hz screen makes it possible to play games incredibly smoothly.\nHowever, the design is mostly bland and the keyboard / touchpad combo will make you want to attach some peripherals. Low-end configs, like the one we tested, have just 8GB of RAM, which is serviceable in a pinch, but you would be wise to spend another few dollars to upgrade the memory and the SSD either at purchase time or with aftermarket ",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "viceable in a pinch, but you would be wise to spend another few dollars to upgrade the memory and the SSD either at purchase time or with aftermarket parts.\nDesign of Dell G15\nThe Dell G15 (5520) has a less-premium design than many other gaming laptops, but it still has a little flair. The G15’s default \"dark shadow\" gray colorway couldn’t be much blander – you can also get some configurations in obsidian black or camouflage green colorways – and all surfaces are made from a mediocre-looking plastic resin material.\n\nThe laptop has a thick, rectangular shape with a little bit of tapering on the sides. But there’s a little bit of a party in the back: a large black back piece houses twin exhaust vents that look like they belong on a stealth fighter. In between these jets sit the power port, a",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": " back: a large black back piece houses twin exhaust vents that look like they belong on a stealth fighter. In between these jets sit the power port, an HDMI 2.1 connection, a USB Type-A port and a USB Type-C port that can output DisplayPort. The left side houses a 3.5 mm audio jack and an Ethernet port while the right side has two USB Type-A ports. All of the USB ports are\nGen 1, which means that they output at a maximum of 5 Gbps.\nWhile some higher-end configurations of the Dell G15 come with a 4-zone RGB keyboard, the default keyboard backlight is orange. And there are no accent lights on the rest of the chassis.\nIf you want a thin-and-light gaming laptop, you’ll need to buy a more expensive laptop. The Dell G15 (5520) is on the thick and heavy side, even for a budget-focused, 15-inch ga",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "t gaming laptop, you’ll need to buy a more expensive laptop. The Dell G15 (5520) is on the thick and heavy side, even for a budget-focused, 15-inch gaming laptop. It weighs 5.5 pounds and is 14.1 x 10.8 x 1.1 inches, which is about 0.4 pounds heavier and 0.25 inches thicker than the\nLenovo IdeaPad Gaming 3\n(5.1 pounds, 14.16 x 10.49 x 0.86 inches) and about 0.6 pounds heavier than the\nMSI Sword 15\n(4.96 pounds, 14.13 x 10.20 x 0.98 inches). The\nAcer Nitro 5\n(5.51 pounds, 14.19 x 10.67 x 1.06 inches) is about the same size.\nDell G15 (5520) Specs\n\nIntel Core i5-12500H\nNvidia GeForce RTX 3050 Ti (4GB GDDR6, 1,695 MHz boost clock, 95W max graphics power)\n8GB DRR5-4800 (single channel)\n512GB NVMe SSD\n1920 x 1080, 120 Hz\nNetworking\nIntel AX201 Wi-Fi 6, Bluetooth 5.2\n3x USB Type-A 3.2 Gen 1 (5 Gb",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "s power)\n8GB DRR5-4800 (single channel)\n512GB NVMe SSD\n1920 x 1080, 120 Hz\nNetworking\nIntel AX201 Wi-Fi 6, Bluetooth 5.2\n3x USB Type-A 3.2 Gen 1 (5 Gbps), USB-C 3.2 Gen 1 (5 Gbps) with DP out, HDMI 2.1, Ethernet, 3.5mm audio\nPower Adapter\nOperating System\nWindows 11 Home\nDimensions\n14.07 x 10.74 x 1.06 inches (357.3 x 272.1 x 26.9 mm)\n5.89 pounds (2.6 kg)\nPrice (as configured)\nGaming Performance of Dell G15\n\nA budget system we tested in a budget-minded configuration, the Dell G15 (5520) isn’t going to set any frame-rate records, but it’s more than adequate for playing mainstream games, especially esports titles. Our Dell G15 (5520)’s RTX 3050 Ti graphics card, combined with its Core i5-12500H CPU to offer smooth frame rates in the 40 to 60 fps range at 1080p and mostly high or ultra settin",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": " Ti graphics card, combined with its Core i5-12500H CPU to offer smooth frame rates in the 40 to 60 fps range at 1080p and mostly high or ultra settings in the games we tested.\nWhen I played\nOverwatch 2\nat 1080p Ultra settings, I got an average frame rate of around 60  frames per second with a 99th percentile rate of 52 fps. Whether I was shooting targets or chasing after a slew of enemies, this speed was more than reasonable for me to react in time. However, competitive gamers might want to tweak the settings to go for a higher frame rate (I was unable to disable the 60 fps frame rate lock even after turning it off in settings).\nThe G15 ran\nGrand Theft Auto V\n(1080p, Very High settings) at a smooth 60 fps, which is nearly identical to the rates we got on the Lenovo IdeaPad Gaming 3 (61 fp",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "Grand Theft Auto V\n(1080p, Very High settings) at a smooth 60 fps, which is nearly identical to the rates we got on the Lenovo IdeaPad Gaming 3 (61 fps) and Acer Nitro 5 (61 fps), both of which have the same CPU and GPU combination as our G15. However, the MSI Sword 15 with its RTX 3060 GPU and Core i7-12650H CPU blew away the field with a rate of 90 fps.\nShadow of the Tomb Raider\nbenchmark (highest settings at 1080p) ran at 52 fps on the G15, which is way ahead of the IdeaPad Gaming 3, identical to the Acer Nitro 5 and notably behind the more powerful MSI Sword 15. Dell’s laptop managed a very smooth rate of 66 fps on\n, running at 1080p ultra settings. That was slightly behind, but within a few fps of  the IdeaPad Gaming 3 (72 fps) and Acer Nitro 5 (79 fps). With its superior graphics car",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "a settings. That was slightly behind, but within a few fps of  the IdeaPad Gaming 3 (72 fps) and Acer Nitro 5 (79 fps). With its superior graphics card, the MSI Sword 15 led the pack (97 fps).\nWhen we ran the\nBorderlands 3\nbenchmark at 1080p, Badass settings, the Dell G15 registered 45 fps, which was identical to the Nitro 5 and slightly ahead of the IdeaPad Gaming 3 (42 fps). The Sword 15 got a much-stronger, 69 fps.\nThe Dell G15 also provided a very-playable 40 fps average in\nRed Dead Redemption 2\n, which is about on par with the Lenovo IdeaPad Gaming 3 (39 fps) and Acer Nitro 5 (39 fps). The MSI Sword 15 was much quicker at 57 fps.\nThe mark of a well-cooled gaming laptop is its ability to maintain performance over time, rather than throttling down once the components start to warm up. T",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": "k of a well-cooled gaming laptop is its ability to maintain performance over time, rather than throttling down once the components start to warm up. To see how the Dell G15 (5520) did during an extended play session, we ran the\nMetro Exodus\nbenchmark 15 times at Ultra Settings in 1080p resolution with ray tracing enabled. The results were remarkably consistent, with an average 99th percentile frame rate of 40.2 fps, ranging from a high of 40.4 fps during the first run to a low of 40.1 fps in a few other runs.\nWhile running the\nMetro Exodus\ntest, the G15’s four performance cores averaged 3.93 GHz while its eight efficiency Cores averaged 2.41 GHz. The CPU package temperature was an average of 89.1 degrees Celsius. The RTX 3050 Ti graphics card averaged 1.68 GHz with a temperature of 73.4 de",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 9
+  },
+  {
+    "text": "GHz. The CPU package temperature was an average of 89.1 degrees Celsius. The RTX 3050 Ti graphics card averaged 1.68 GHz with a temperature of 73.4 degrees Celsius.\nProductivity Performance of Dell G15\nOur configuration of the Dell G15 (5520) is more than adequate for light web surfing and productivity work. It could even be used for image editing or video crunching, but the 8GB of single-channel RAM on our unit could be a problem if you do a lot of multitasking. That said, I was able to work with 20 tabs open and a streaming video going without using all the memory or experiencing any slowdowns.\n\nOn Geekbench 5.4, a synthetic benchmark that measures overall processing performance, the Dell G15 (5520) achieved a single-core score of 1,659 and a multi-core mark of 8,342. That’s a bit higher",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 10
+  },
+  {
+    "text": "measures overall processing performance, the Dell G15 (5520) achieved a single-core score of 1,659 and a multi-core mark of 8,342. That’s a bit higher than the Lenovo IdeaPad Gaming 3, which we tested with the same Core i5-12500H CPU and 8GB of RAM as the G15. The Acer Nitro 5, which also had a Core i5-12500H but with 16GB of RAM had a noticeably higher multi-core score while the Core i7-12650H-enabled MSI Sword blew away the field of scores of 1,760 and 10,259.\nThe Dell G15’s 512GB NVMe SSD copied 25GB at a rate of 940.3 MBps, which compares favorably to the IdeaPad’s 828.7 MBps speed. However, it’s a bit behind the Sword’s 1,080.5 MBps speed and the Nitro 5’s 1,240.7 MBps.\nIt took the Dell G15 just 6 minutes and 2 seconds to transcode a 4K video to 1080p in Handbrake. That time is about ",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 11
+  },
+  {
+    "text": "d and the Nitro 5’s 1,240.7 MBps.\nIt took the Dell G15 just 6 minutes and 2 seconds to transcode a 4K video to 1080p in Handbrake. That time is about on par with the Acer Nitro 5’s mark of 5:58 and much faster than the Sword (7:26) and IdeaPad (6:46).\nDisplay on the Dell G15\nWith a 120 Hz refresh rate, the 15.6-inch, 1080pdisplay on the Dell G15 can deliver smooth, tear-free gaming with decent viewing angles and solid brightness. Just don’t expect vibrant colors or great contrast out of a budget system like this one.\n\nWhen I played the trailer for\nAnt-Man and the Wasp: Quantumania\n, colors like the blue in an explosion, the orange in a fire and the red in Ant-man’s suit seemed pretty dull and details like the lines in the character’s super suit were not particularly sharp.\nOverwatch 2\nlook",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 12
+  },
+  {
+    "text": "nd the red in Ant-man’s suit seemed pretty dull and details like the lines in the character’s super suit were not particularly sharp.\nOverwatch 2\nlooked a little better as the green in hero Lucio’s armor and the orange in Tracer’s goggles were passable but not eye-popping.\nWhether I was watching a game or a video, viewing angles were OK as colors washed out only slightly at greater than 45 degrees to the left or right. The fact that the panel is matte helps limit reflections.\nThe G15’s display registered 260 nits on our light meter, which puts it slightly ahead of the MSI Sword’s panel (247 nits) and slightly behind the IdeaPad’s 281-nit score. The Nitro 5 was noticeably more luminous at 314 nits.\nAccording to our colorimeter, the screen can reproduce a modest 68 percent of the sRGB color ",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 13
+  },
+  {
+    "text": "e. The Nitro 5 was noticeably more luminous at 314 nits.\nAccording to our colorimeter, the screen can reproduce a modest 68 percent of the sRGB color gamut and 48 percent of the wider, DCI-P3 gamut. Those numbers are unimpressive overall, but compare favorably to other budget gaming laptops. The Nitro 5 and Sword 15 both registered 64 percent of DCI-P3 and 45 percent of the sRGB gamut while the IdeaPad trailed the field at 60 and 42.5 percent respectively.\nKeyboard and Touchpad on the Dell G15\n\nThe Dell G15 (5520)’s keyboard feels shallow and mushy, which is not a great combination for typing comfort and gaming accuracy. However, I managed a strong 105 words per minute on the 10fastfingers typing test, which is 5 to 10 wpm above my typical score. I also was able to move easily and accurate",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 14
+  },
+  {
+    "text": "strong 105 words per minute on the 10fastfingers typing test, which is 5 to 10 wpm above my typical score. I also was able to move easily and accurately in Overwatch 2.\nThe 2.4 x 4.1-inch touchpad is adequate for productivity work, but if you’re playing games, you’ll want a mouse, possibly one of the\nbest gaming mice\n. When I was navigating around the desktop and browsing the web, I found that the pad registered gestures such as two-finger scroll and three-finger swipe every time, but pinch-to-zoom was inconsistent.\nAudio on the Dell G15\nThe Dell G15’s speakers provide sound that’s loud enough to fill a small room and rich enough for gaming or music listening. When I listened to AC/DC’s \"Back in Black,\" there was a clear separation of sound with guitars and drums appearing to come from dif",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 15
+  },
+  {
+    "text": "r music listening. When I listened to AC/DC’s \"Back in Black,\" there was a clear separation of sound with guitars and drums appearing to come from different sides of the computer. However, at maximum volume, the guitar and percussion were a little bit tinny. Earth, Wind and Fire’s bass-heavy \"September\" had a much cleaner sound with a rich bassline.\nThe preloaded Dolby Access software allows you to switch between different sound profiles, including those for games, music and movies. I found the sound quality for songs was definitely richest under the music profile.\nWhen I played\nOverwatch 2\nMetro Exodus\n, the sound of gunfire was loud and clear and not particularly harsh. I was also able to hear environmental sounds like blowing wind or an airship flying by and feel like they were coming f",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 16
+  },
+  {
+    "text": "ar and not particularly harsh. I was also able to hear environmental sounds like blowing wind or an airship flying by and feel like they were coming from all around my character. Changing the sound profile to “games,” in Dolby Access made the sound a bit richer.\nBattery Life of Dell G15 (5520)\nWe don’t expect long battery life from any gaming laptop, particularly a bulky model like the Dell G15. However, if you need to do some web surfing or productivity work while unplugged, this laptop will give you a few hours of endurance.\n\nOn our battery test, which involves web surfing and video playback over Wi-Fi at 150 nits of brightness, the Dell G15 (5520) lasted a modest 4 hours and 28 minutes. That time is a few minutes longer than the Lenovo IdeaPad Gaming 3 (4:03) and MSI Sword 15 (3:55) del",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 17
+  },
+  {
+    "text": "5 (5520) lasted a modest 4 hours and 28 minutes. That time is a few minutes longer than the Lenovo IdeaPad Gaming 3 (4:03) and MSI Sword 15 (3:55) delivered but about an hour shy of the Acer Nitro 5 (5:33).\nHeat on the Dell G15 (5520)\nUnless you plan to use an external keyboard and mouse at all times, the skin temperature of your laptop matters a great deal. If it’s too warm, you’ll have an uncomfortable experience, but when you’re playing games which tax the GPU and CPU, you can’t expect the laptop’s touch points to sit at room temperature either.\nTo find out how warm the G15 can get, we used a FLIR One thermal camera to measure the keyboard, touchpad and bottom temperatures after running the Metro Exodus benchmark 15 times in a row. We found the temperatures to be reasonable and, though ",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 18
+  },
+  {
+    "text": ", touchpad and bottom temperatures after running the Metro Exodus benchmark 15 times in a row. We found the temperatures to be reasonable and, though the fan noise was fairly loud, it wasn’t grating.\n\nThe space between the G and H keys peaked at 97.4 degrees Fahrenheit (36.3 Celsius), which wasn't unpleasantly warm.. We’ve seen laptops that hit well over 100 degrees Fahrenheit on the keyboard. The hottest area on the top of the laptop was the area above the keyboard, which hit 109.3 F (42.9 C), but you likely wouldn’t touch that.\nThe touchpad was just 82.2 degrees Fahrenheit (30.8 C), which is barely even perceptible as warm.\n\nAs with most laptops, the G15’s bottom surface has its hottest point. On our tests, that warm point was the bottom of the back, which got as warm as 108.9 degrees Fa",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 19
+  },
+  {
+    "text": "ptops, the G15’s bottom surface has its hottest point. On our tests, that warm point was the bottom of the back, which got as warm as 108.9 degrees Fahrenheit (42.7 C). You probably won’t be balancing the G15 on your lap while gaming, though.\n\nUpgradeability of Dell G15\nGiven the typically paltry storage and RAM allotments of budget gaming laptops, upgradeability is arguably more important here than in many other system categories. And pleasingly, the Dell G15 is easy to open up and get to the internals. Removing eight Philips screws (four of them captive), we were able to pry the bottom off with our fingers, to reveal a surprisingly pretty bright blue motherboard.\n\nImmediately obvious inside the Dell G15 is the option to add a second DDR5 RAM module. Or you could\nupgrade the RAM on the la",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 20
+  },
+  {
+    "text": "right blue motherboard.\n\nImmediately obvious inside the Dell G15 is the option to add a second DDR5 RAM module. Or you could\nupgrade the RAM on the laptop\n., up to 32GB according to the \"DIMM B DDR 5 8/16G Only\" printed on the board above the top slot. Adding a second, 8GB DIMM of DDR5-4800 RAM would cost around $39, but if the timings don’t exactly match those on the preloaded DIMM, the system may drop both chips down to a slower speed.\nTo the left of the lower RAM module is the M.2 SSD, hidden under a black metal heat spreader and held in by two screws. Note the drive here is a tiny 30mm (2230) drive. But if you remove it, there is a mounting hole and a stamp in the metal below the SSD area indicating the system supports more standard 80mm (2280) SSDs. You will just have to remove the su",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 21
+  },
+  {
+    "text": "ng hole and a stamp in the metal below the SSD area indicating the system supports more standard 80mm (2280) SSDs. You will just have to remove the support post under the drive from its current 30mm location to the 80mm screw hole 50mm to the left.\nAlso replaceable here, above the SSD, is the Wi-Fi module in the standard Key E M.2 slot. It shouldn't be a problem down the road if you want to swap the existing module out for something like a Wi-Fi 6E model.\nWebcam on the Dell G15 (5520)\n\nThe Dell G15’s 720p camera is more than adequate for video conferencing, but serious streamers should invest in one of the\nbest external webcams\n. When I took a picture of myself indoors in decent lighting, colors like the red of my shirt and the green of the wall behind me were accurate. Fine details like t",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 22
+  },
+  {
+    "text": "a picture of myself indoors in decent lighting, colors like the red of my shirt and the green of the wall behind me were accurate. Fine details like the hairs in my beard were prominent but not as sharp as they would be on a 1080p webcam.\nSoftware and Warranty on the Dell G15 (5520)\nDell bundles the G15 with a handful of not-very-useful utilities and some bloatware. My Dell is the main utility app, but it doesn’t offer much value. There are six main tiles: Explore, Media, Power, Essential, Alienware Command Center and Support. The Explore section is a bunch of boring documentation filled with Windows tips and other “keep your system healthy” stuff. The Media tile, which appears to be for adjusting playback settings, just said there were “no apps available at this time” as did the Essential",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 23
+  },
+  {
+    "text": "stuff. The Media tile, which appears to be for adjusting playback settings, just said there were “no apps available at this time” as did the Essentials tab, which is supposed to show you software you might like. Power gives you a handful of power settings and your battery health while Support gives you access to Dell’s tech support services.\nAlienware Command Center allows you to view CPU, GPU and memory usage, along with the system temperature and fan speeds. You can also tweak the thermal profile for better performance, less noise or better battery life. There’s a Library feature which shows all the games on your PC and lets you launch them.\nDell Mobile Connect allows you to control your smartphone from the desktop, a nice feature that we’ve seen on other Dell computers. Dell Update chec",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 24
+  },
+  {
+    "text": ".\nDell Mobile Connect allows you to control your smartphone from the desktop, a nice feature that we’ve seen on other Dell computers. Dell Update checks for new drivers and Dolby Access lets you fine-tune the audio output.\nThe system also comes with a trial of McAfee Personal\n, along with perennial Windows bloatware such as Instagram, Tiktok, Solitaire and Adobe Express.\nDell backs the G15 with a one year on parts and labor, but you can pay extra to extend that term up to four years, add accidental damage protection or add enhanced support.\nDell G15 Configurations of the Dell G15\nThe Dell G15 (5520) is available in a variety of configurations and, if you purchase it from Dell.com, you can configure it to order selecting the CPU, GPU, RAM, storage, screen and chassis color. At press time, t",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 25
+  },
+  {
+    "text": " and, if you purchase it from Dell.com, you can configure it to order selecting the CPU, GPU, RAM, storage, screen and chassis color. At press time, the cheapest available configuration was our $899 test build, which\nincludes an RTX 3050 Ti GPU, Core i5-12500H, 512GB SSD, 8GB of RAM and a 120 Hz, 1080p display. However, during our test period, the price started at $899 and then shot up to $1,099 before going down again so it could be more or less expensive when you read this. Increasing the RAM to 16GB and upping the CPU to a Core i7-12700H would bring the cost to $1,049.\nDell also offers the G15 with a lesser, RTX 3050 (non Ti) graphics card, but at the moment, it’s actually $50 more expensive than one with the 3050 Ti.\nIf you configure-to-order, you can choose from either a Core i5-12500",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 26
+  },
+  {
+    "text": ", but at the moment, it’s actually $50 more expensive than one with the 3050 Ti.\nIf you configure-to-order, you can choose from either a Core i5-12500H, Core i7-12700H or Core i9-1900H CPU. You can have RTX 3050, 3050 Ti, 3060 or 3070 Ti graphics, up to 16GB of RAM and up to 1TB of storage. The screen can have a 1080p 120 Hz, 1080p 165 Hz or a 2K 240 Hz panel. Maxxed out, it can go as high as $1,999.99.\nBottom Line\n\nThe Dell G15 (5520), as tested, offers really good performance for the money. Someone who likes to play competitive games like\nOverwatch 2\nLeague of Legends\nwould be able to easily get close to 60 fps at high settings or even go above that by turning off some special effects. The 120 Hz display is perfectly serviceable and the immersive audio is a plus.\nYou don’t normally find ",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 27
+  },
+  {
+    "text": "bove that by turning off some special effects. The 120 Hz display is perfectly serviceable and the immersive audio is a plus.\nYou don’t normally find a great keyboard / touchpad combo on budget gaming laptops and the Dell G15 doesn’t buck this trend. If you plan to use this in a fixed place like your desk, you should definitely invest in one of the\nbest gaming keyboards\nbest gaming mice\n. And I strongly suggest you eventually upgrade the RAM if you buy this with just 8GB, especially because it's single-channel.\nDell’s laptop is hardly the only model in its price range. You’ll get very similar performance from the Acer Nitro 5, which costs $100 more right now but has a brighter screen, an RGB keyboard and 16GB of RAM. The Lenovo IdeaPad Gaming 3 starts at a much lower price (just over $700 ",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 28
+  },
+  {
+    "text": "0 more right now but has a brighter screen, an RGB keyboard and 16GB of RAM. The Lenovo IdeaPad Gaming 3 starts at a much lower price (just over $700 right now), but uses slower, DDR4 RAM and comes standard with an unacceptably tiny 256GB SSD that you’ll have to upgrade immediately. At the moment, the G15 (5520) sits between these two competitors in price but, on any given day due to sales and coupons, that could change. If you’re looking for a solid PC gaming laptop on a sub-$1000 budget, the Dell G15 is a good choice and you could probably get it for less with a\nDell coupon code\n\nSee all comments (1)\n\nAvram Piltch\nManaging Editor: Special Projects\nAvram Piltch is Managing Editor: Special Projects. When he's not playing with the latest gadgets at work or putting on VR helmets at trade sho",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 29
+  },
+  {
+    "text": "rojects\nAvram Piltch is Managing Editor: Special Projects. When he's not playing with the latest gadgets at work or putting on VR helmets at trade shows, you'll find him rooting his phone, taking apart his PC, or coding plugins. With his technical knowledge and passion for testing, Avram developed many real-world benchmarks, including our laptop battery test.\n\nComment from the forums\n\nView All 1 Comment",
+    "source": "dell_g15_5520.txt",
+    "chunk_index": 30
+  },
+  {
+    "text": "Title: Dell XPS 14 (2024) Review: A slick design is slowed by an underperforming display\nSource: https://www.laptopmag.com/laptops/dell-xps-14-2024\n\nDell XPS 14 (2024) Review\n\nPrice: $1,799 (base model $1,499; top configuration $3,399)\n\nSpecifications:\n- CPU: Intel Core Ultra 7 155H\n- GPU: Nvidia GeForce RTX 4050 (6GB VRAM)\n- RAM: 16GB\n- Storage: 512GB SSD\n- Display: 14.5-inch, 1920 x 1200, 120Hz, non-touch\n- Battery: 10:09 to 10:58 hours\n- Weight: 3.7 pounds\n- Dimensions: 12.6 x 8.5 x 0.7 inches\n\nThe reviewer praises the machine's aesthetic, calling it how you do a black/gray laptop. The graphite chassis features an anodized metal lid with a flat deck design that resembles the Tesla Cybertruck of laptops. Minimal display bezels and integrated vents create a sleek, futuristic appearance. H",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": " flat deck design that resembles the Tesla Cybertruck of laptops. Minimal display bezels and integrated vents create a sleek, futuristic appearance. However, at 3.7 pounds, it is heavier than comparable models like the HP Spectre x360 at 3.2 lbs.\n\nThe 14.5-inch panel delivers strong brightness at 461 nits, surpassing the premium laptop average of 442 nits. However, color reproduction is disappointingly dull, covering only 64.5% of the DCI-P3 color gamut versus the 95.2% category average. The reviewer notes that everything is less colorful than it is meant to be despite adequate contrast and clarity.\n\nPerformance:\nThe Intel Core Ultra 7 processor delivers exceptional results. On Geekbench 6.2, the XPS 14 scored 12,711 points, dominating the category average of 8,132. Video transcoding compl",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "sor delivers exceptional results. On Geekbench 6.2, the XPS 14 scored 12,711 points, dominating the category average of 8,132. Video transcoding completed in 5:44 on HandBrake, significantly faster than the 8:01 average. Storage transfer rates reached 1,503 MBps.\n\nThe RTX 4050 GPU handles light gaming and video editing competently. Shadow of the Tomb Raider achieved 50 fps at highest settings at 1080p, while Civilization VI reached 88 fps on medium settings, which is double the category average. The 3DMark Fire Strike score of 12,932 crushed the average of 8,344.\n\nBattery Life:\nTesting yielded mixed results across benchmarks: 10:09 hours on the Laptop Mag battery test and 10:58 on PC Mark 10, placing it near the 10:38-hour premium laptop average. Performance lagged behind the MacBook Pro a",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "he Laptop Mag battery test and 10:58 on PC Mark 10, placing it near the 10:38-hour premium laptop average. Performance lagged behind the MacBook Pro at 17:16 but exceeded the Acer Swift X at 7:26.\n\nKeyboard and Touchpad:\nThe low-profile keyboard features a futuristic flat design but suffers from mushy keystrokes. The reviewer achieved 76 wpm, below their typical 81 wpm average, attributing the difference to tight key spacing and inadequate tactile feedback. The haptic touchpad eliminated the traditional touchpad while maintaining a clean aesthetic.\n\nBottom-firing speakers deliver adequate volume with clear vocals, though bass instruments lack definition. The reviewer noted the opening bass guitar in a test song was loud but sharp, with some loss of percussion clarity throughout playback.\n\n",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": " definition. The reviewer noted the opening bass guitar in a test song was loud but sharp, with some loss of percussion clarity throughout playback.\n\nThe XPS 14 offers three Thunderbolt 4 ports, a 3.5mm headphone jack, and a microSD card slot. Notably absent is any USB Type-A port or HDMI connection, requiring external hubs for legacy device compatibility.\n\nThe 1080p webcam produces detailed images but suffers from skin tone oversaturation and blown-out contrast, rendering window backgrounds pure white.\n\nAfter streaming video for 15 minutes, the underside reached 94 degrees Fahrenheit, just below the 95-degree comfort threshold. The keyboard center measured 94 degrees and the warmest spot, the 5 key, reached 101 degrees.\n\n- Striking interstellar design with premium materials\n- Excellent CP",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "center measured 94 degrees and the warmest spot, the 5 key, reached 101 degrees.\n\n- Striking interstellar design with premium materials\n- Excellent CPU and GPU performance\n- Respectable battery life for portability\n- Bright display suitable for outdoor use\n\n- Display lacks color vibrancy and saturation\n- Mushy keyboard with tight key spacing\n- No USB Type-A ports\n- Webcam produces unflattering skin tones\n\nThe Dell XPS 14 represents a strong portable machine with exceptional performance and battery endurance. However, the reviewer remains disappointed by the display's muted color palette, describing it as duller than budget Chromebooks. For users prioritizing portability and outdoor brightness over color accuracy, the XPS 14 is suitable. Those demanding superior color reproduction should co",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "ers prioritizing portability and outdoor brightness over color accuracy, the XPS 14 is suitable. Those demanding superior color reproduction should consider the HP Spectre x360 instead.",
+    "source": "dell_xps_14_2024.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "Title: Gigabyte G6X gaming laptop review: Competent performance, but no standout features\nSource: https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-g6x-gaming-laptop-review\n\nTom's Hardware Verdict\n\nAt $1,299, the Gigabyte G6X, we expect more from the display and battery endurance.\n\nAttractive and sturdy chassis design\n\nStrong productivity performance\n\n32GB of RAM (2x 16GB) using SO-DIMMs\n\nDisplay performance is average\n\nSub-4-hour battery life\n\nGaming performance limited by 105-watt RTX 4060\n\nIf you’re looking for an attractively-priced gaming laptop, a wealth of options are currently available. Of course, lowering the pricing barrier means that the Gigabyte G6X uses a 13th-generation Intel Core processor and a lower-end Nvidia GeForce RTX 4060 GPU to hit a $1,299 price point.\nT",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "ier means that the Gigabyte G6X uses a 13th-generation Intel Core processor and a lower-end Nvidia GeForce RTX 4060 GPU to hit a $1,299 price point.\nThe G6X's primary specs include a 165Hz 16-inch 1920 x 1200 display, a generous 32GB of DDR5-4800 memory, and a 1TB SSD. However, a fair number of compromises prevent the G6X from landing on our coveted\nbest gaming laptops under $1,500\nDesign of the Gigabyte G6X\nThe G6X is a mid-range gaming laptop, and you won’t find copious amounts of aluminum used in its chassis or lid. Instead, the chassis and lid are made of thick plastic. It gives the laptop a beefy and rugged appearance without feeling cheap.\n\nThe entire exterior of the laptop is finished in a matte black color, but Gigabyte has chosen to give it a bit of flair. The lid has \"GIGABYTE\" s",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "ap.\n\nThe entire exterior of the laptop is finished in a matte black color, but Gigabyte has chosen to give it a bit of flair. The lid has \"GIGABYTE\" spelled in capital letters, while an \"X\" is etched into the lower left corner of the lid. The \"X\" is surrounded by etched graphics -- that same design is mirrored on the left side of the palm rest.\n\nGigabyte incorporates a single-zone RGB keyboard and a number pad for those who like to use them for data entry (myself included). A smallish touchpad is positioned just off-center below the keyboard.\nKeeping a gaming laptop cool is incredibly important, and Gigabyte provides plenty of vents to exhaust hot air. Three-slot vents are on both sides of the chassis, while two four-slot vents are in the back.\nThere are a USB 3.0 Type-A and USB-C port on ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "t hot air. Three-slot vents are on both sides of the chassis, while two four-slot vents are in the back.\nThere are a USB 3.0 Type-A and USB-C port on the left side of the chassis, while another USB 3.0 Type-A port and a 3.5 mm\njack are found on the opposite side. On the rear panel, you'll find the proprietary barrel-style input for the power adapter, a full-size Ethernet port, and another USB-C port.\nThe G6X measures 14.21 x 10.19 x 1.13 inches and weighs 5.64 pounds. For comparison,\n\nDell's G15 5530\nweighs  6.19 pounds and measures 14.07 x 10.8 x 1.06 inches. The\n\nAcer Nitro 16\n(5.95 pounds) measures 14.8 x 11.02 x 1.1 inches, while the\n\nMSI Katana 15\nis 14.13 x 10.20 x 0.98 inches and 4.96 pounds.\nGigabyte G6X Specifications\n\nIntel Core i7-13650HX\nNvidia GeForce RTX 4060 Laptop GPU (8GB ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": " Katana 15\nis 14.13 x 10.20 x 0.98 inches and 4.96 pounds.\nGigabyte G6X Specifications\n\nIntel Core i7-13650HX\nNvidia GeForce RTX 4060 Laptop GPU (8GB GDDR6, 105W max graphics power, 2,370 MHz max boost clock)\n32GB DDR5-4800 (2x 16GB)\n1TB PCIe 4.0 NVMe SSD\n16-inch, 1920 x 1200, IPS, 16:10, 165 Hz\nNetworking\nIntel Wi-Fi 6E AX211, Bluetooth 5.2\n2x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5 mm audio jack, Gigabit Ethernet\nPower Adapter\nOperating System\nWindows 11 Home\nDimensions (WxDxH)\n14.21 x 10.19 x 1.13 inches (361 x 259 x 289 mm)\n5.64 pounds, 2.5 kg\nPrice (as configured)\nGaming Performance on the Gigabyte G6X\nThe G6X is powered by an Intel Core i7-13650HX processor, 32GB of DDR5-4800 memory (2x 16GB), and an Nvidia GeForce RTX 4060 (105 watts). The assembled competition ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "ered by an Intel Core i7-13650HX processor, 32GB of DDR5-4800 memory (2x 16GB), and an Nvidia GeForce RTX 4060 (105 watts). The assembled competition includes the Acer Nitro 16 (Ryzen 5 7640HS, 16GB DDR5-5600, 140-watt RTX 4050, 1200p), the\nG15 5530 (Core i7-13650HX, 16GB DDR5-4800, 140-watt RTX 4060, 1080p), and the MSI Katana 15 (Core i7-13620H, 16GB DDR5-5200, 105-watt RTX 4050, 1080p).\nOne thing to keep in mind before we delve into the gaming\nbenchmarks\nis that despite its beefy chassis and adequate cooling, Gigabyte has only fitted the G6X with a GeForce RTX 4060 that is limited to 105 watts. Both the RTX 4050 in the Nitro 16 and the RTX 4060 in the G15 have much higher performance overhead, as they’re rated at 140 watts.\nDespite its age, I still play\nGrand Theft Auto V\nfrequently and",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": " 4060 in the G15 have much higher performance overhead, as they’re rated at 140 watts.\nDespite its age, I still play\nGrand Theft Auto V\nfrequently and witnessed performance exceeding 150 frames per second (fps)  with Very High settings at 1080p. Frame rates were consistent in most areas of the game except in areas when massive explosions took place, which saw frame rates briefly dip below 100 fps.\n\nThe first game in our benchmark suite is\nShadow of the Tomb Raider\n(Highest setting), and the G6X delivered 96 fps at 1080p and dropped to 88 fps at 1200p. This put the laptop comfortably ahead of the Nitro 16 and Katana 15, which came in at 75 fps and 73 fps, respectively. However, the G6X was behind the G15’s 140-watt GeForce RTX 4060, which hit 103 fps at 1080p.\nCyberpunk 2077\n(Ray Tracing Ul",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": " and 73 fps, respectively. However, the G6X was behind the G15’s 140-watt GeForce RTX 4060, which hit 103 fps at 1080p.\nCyberpunk 2077\n(Ray Tracing Ultra settings) is one of the newer entries in our gaming suite; thus, the Nitro 16, G15, and Katana 15 were tested before we made the switch. However, the G6X struggled to 32 fps at 1080p and mustered just 29 fps at 1200p.\n(Ultra settings) saw the G6X take a win, averaging 92 fps at 1080p and 87 fps at 1200p. In fact, the G6X scored the same at 1200p as the G15 at 1080p. The Katana 15 and Nitro 16 hit 81 fps and 73 fps, respectively, at 1080p.\nRed Dead Redemption 2\n(Medium settings) saw some shuffling of the rankings and highlights the difference between the 105-watt GPU in the G6X and the 140-watt GPUs in the Nitro 16 and G15. The G6X achieve",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "fling of the rankings and highlights the difference between the 105-watt GPU in the G6X and the 140-watt GPUs in the Nitro 16 and G15. The G6X achieved 63 fps at 1080p and 59 fps at 1200p — this was the same performance (at both resolutions) as the Nitro 16 with its 140-watt GeForce RTX 4050. The Dell won this test with 68 fps at 1080p resolution.\nBorderlands 3\n(Badass setting) saw the G6X score 81 fps at 1080p and 77 fps at 1200p, putting it well ahead of the Nitro 16 and Katana 15. However, the Dell won, delivering 85 fps at 1080p.\nTo stress-test gaming laptops, we perform 15 runs of Metro Exodus using the RTX preset. This simulates roughly 30 minutes of gameplay, allowing us to measure performance and heat levels. Throughout the 15 runs, the G6X averaged 69.18 fps, with a minimum frame ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": " 30 minutes of gameplay, allowing us to measure performance and heat levels. Throughout the 15 runs, the G6X averaged 69.18 fps, with a minimum frame rate of 35.87 fps and a maximum of 113.71 fps.\nThe Core i7-13650HX processor averaged 4.10 GHz across the six performance cores and 3.23 GHz across the eight efficiency cores. The CPU package measured an average of 83.22 degrees Celsius (181.78 degrees Fahrenheit). As for the GeForce RTX 4060, we clocked it at 2.26 GHz and measured an average of 69.08 C (156.34 F).\nProductivity Performance on the Gigabyte G6X\nOur G6X review unit came equipped with an Intel Core i7-13650HX processor, 32GB of DDR5-4800 memory, and a 1TB PCIe 4.0 SSD.\nIn the Geekbench 5.5 synthetic CPU benchmark, the G6X (1,833) was just a step behind Nitro 16 in single-core per",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 9
+  },
+  {
+    "text": "-4800 memory, and a 1TB PCIe 4.0 SSD.\nIn the Geekbench 5.5 synthetic CPU benchmark, the G6X (1,833) was just a step behind Nitro 16 in single-core performance (1873). The G15 and Katana 15 weren’t too far behind in single-core performance; however, the G6X blew away the competition in the multi-core benchmark with a score of 14,385.\n\nThe G6X was no slouch regarding SSD performance, as it hit 1,408.34 MBps in our in-house 25GB file transfer tests, which was just within earshot of the first-place G15 (1,417.51 MBps). The Katana 15 came in third place (1,045.33 MBps), while the Nitro 16 was dead last at 763.3 MBps.\nFinally, the G6X came in second place in the Handbrake benchmark, which involves transcoding a 4K video file to 1080p. The G6X completed the task in 4:35 compared to 4:27 for the K",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 10
+  },
+  {
+    "text": "d place in the Handbrake benchmark, which involves transcoding a 4K video file to 1080p. The G6X completed the task in 4:35 compared to 4:27 for the Katana 15. The Nitro 16, with its Ryzen 5 7640HS, took the longest at 4:27.\nDisplay on the Gigabyte G6X\nOLED might be all the rage with ultrabooks and high-performance gaming laptops, but the tech hasn’t yet filtered down to many affordable gaming laptops. The G6X is no exception, as it uses a 16-inch 1920 x 1200 IPS panel with a 165 Hz refresh rate.\nGigabyte isn’t opting for higher quality panels to reach lower price points with the G6X, as the display’s color performance wasn’t impressive with our instrumented testing. We measured 47.3% of the DCI-P3 color space and 67% of sRGB. That performance put it just slightly behind the Katana 15. The",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 11
+  },
+  {
+    "text": "our instrumented testing. We measured 47.3% of the DCI-P3 color space and 67% of sRGB. That performance put it just slightly behind the Katana 15. The panels in the Nitro 16 and G15 were far more vivid. On the other hand, out light meter gave the G6X a chance to redeem itself, generating 325 nits, putting it in second place behind the Nitro 16 (371 nits).\n\nThe display's colors looked slightly washed out compared to its peers, as I noticed reds, greens, and blues that were off-hue when watching\nToy Story 2\non Disney Plus. It wasn’t enough to make the viewing experience unenjoyable, but it was enough to catch my eye in a movie I’ve seen dozens of times over the past 20+ years. I also noticed similar performance in games like\nCyberpunk 2077\nGrand Theft Auto V\nAnother peculiarity I noticed was",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 12
+  },
+  {
+    "text": "of times over the past 20+ years. I also noticed similar performance in games like\nCyberpunk 2077\nGrand Theft Auto V\nAnother peculiarity I noticed was off-axis brightness levels that dropped slightly more than similar panels. Moving a foot or two to the left/right of center saw a very noticeable drop in brightness.\nWith that said, Gigabyte is banking on enthusiasts who do not care too much about color accuracy and vividness. Instead, they will be wowed by the 165 Hz refresh rate for gaming.\nKeyboard and Touchpad on the Gigabyte G6X\nGigabyte has implemented a full keyboard and a number pad on the G6X. I like number pads on laptops, as I frequently use them for data entry when writing reviews. The keyboard features single-zone RGB lighting which is controlled via the Gigabyte Control Center.",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 13
+  },
+  {
+    "text": "ntly use them for data entry when writing reviews. The keyboard features single-zone RGB lighting which is controlled via the Gigabyte Control Center.\n\nThe keys wobble around quite freely with just the slightest touch. The left shift key was particularly loosey-goosey, which was infuriating while typing. Despite this, I hit 88 words per minute with 97 percent accuracy using keyhero.com, which aligns with my usual typing speed.\nThe touchpad on the G6X measures 3.4 x 5.9 inches and was fine for navigating around\nWindows 11\nand performing various OS-specific gestures. Although I prefer larger glass touchpads with haptic feedback, I quickly got used to the smaller touch area on the G6X. Most people will be using one of the\nbest gaming mice\nto play games, but it's nice to have a good touchpad f",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 14
+  },
+  {
+    "text": "sed to the smaller touch area on the G6X. Most people will be using one of the\nbest gaming mice\nto play games, but it's nice to have a good touchpad for when you work.\nAudio on the Gigabyte G6X\nThe G6X is equipped with dual two-watt speakers mounted on either side of the keyboard. I could dial the volume up, but the sound was still a bit flat to my ears. Still, the speakers sound good for a budget gaming rig.\nI played Marvin Gaye's \"Right On\" from the groundbreaking album\nWhat's Going On\n. The song is a melodic triumph with Gaye's soulful crooning, the background piano and drums along with the ever-present güiro percussion instrument that builds in intensity as the song progresses. The drum beats just lacked the depth heard with pricier systems. But again, it's more than adequate at the $1",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 15
+  },
+  {
+    "text": "lds in intensity as the song progresses. The drum beats just lacked the depth heard with pricier systems. But again, it's more than adequate at the $1,299 price point. I also played a bit of\nCyberpunk 2077\n, and the lack of bass meant that the aural effects from gunfire and explosive devices were less impactful.\nUpgradeability of the Gigabyte G6X\nThe G6X’s bottom plastic panel is affixed with 13 screws. Two of the screws (at the front center of the laptop) have a tiny black sticker on top of the head. I’d assume that it’s to void your warranty — or at least let the company know you've opened the laptop — if the computer is sent in for repair with a broken sticker.\n\nOnce inside the laptop, you’re presented with an increasing rarity in the laptop world: two SO-DIMM slots. In this case, each ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 16
+  },
+  {
+    "text": "with a broken sticker.\n\nOnce inside the laptop, you’re presented with an increasing rarity in the laptop world: two SO-DIMM slots. In this case, each was filled with a 16GB module, giving a total of 32GB of DDR5-4800. You’ll also notice the replaceable M.2 SSD on the left side of the chassis and a second, empty M.2 slot.\nBattery Life on the Gigabyte G6X\nGigabyte equipped the G6X with a 70 WHr battery, compared to 86 WHr for the G15, 90 WHr for the Nitro 16, and 53.5 WHr for the Katana 15. As you might expect, the capacities of the laptops match up precisely with their ranking in battery life.\n\nThe laptop with the smallest battery, the Katana 15, had the shortest battery life at two hours and 39 minutes. The G6X lasted over an hour longer (3:43), while the Nitro 16 was the champion in this ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 17
+  },
+  {
+    "text": "15, had the shortest battery life at two hours and 39 minutes. The G6X lasted over an hour longer (3:43), while the Nitro 16 was the champion in this test (8:24).\nHeat on the Gigabyte G6X\nWe measure heat on gaming laptops along multiple spots on their chassis while running the\nMetro Exodus\nbenchmark. We measured 35 C (95 F) between the G and H keys and 24.16 C (75.5 F) on the touchpad. The bottom of the chassis measured 36.22 C (97.2 F), while the hottest part of the laptop was on the keyboard deck (above the F11 key at 41.88 C (107.4 F). While warm, the heat wasn't uncomfortable for my bare legs while wearing shorts.\n\nHowever, the fans were very audible during the test to expel heat. This is common for laptops in this segment.\nWebcam on the Gigabyte G6X\nThe G6X has a 1080p webcam, which i",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 18
+  },
+  {
+    "text": "very audible during the test to expel heat. This is common for laptops in this segment.\nWebcam on the Gigabyte G6X\nThe G6X has a 1080p webcam, which is becoming standard-issue for most new laptops on the market. The pictures and videos I captured with the camera were more than adequate for hopping on a video call to chat with friends or collaborate with coworkers over Zoom and\nThe colors looked a little washed out, and there was a bit more grain than I'd like to see in a 1080p webcam. That said, if you want vastly superior image quality, you can always check out one of the\nbest webcams\nto satisfy your more demanding streaming needs.\nSoftware and Warranty on the Gigabyte G6X\nSurprisingly, Gigabyte has gone easy on the software add-ons for the G6X. The Gigabyte Control Center provides an eas",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 19
+  },
+  {
+    "text": "and Warranty on the Gigabyte G6X\nSurprisingly, Gigabyte has gone easy on the software add-ons for the G6X. The Gigabyte Control Center provides an easy-to-use interface that gives you an overview of system vitals like CPU/GPU clock speeds, fan speeds, and memory usage. There are also controls for the RGB lighting and setting up macros on the keyboard. There’s even a feature to limit the battery’s charge to 80 percent when plugged in (or any custom value you choose) to extend battery health/longevity.\nThe only other Gigabyte utility installed is Smart USB backup, which allows you to back up personal files to a USB drive quickly.\nThe G6X comes with a one-year warranty from Gigabyte.\nGigabyte G6X Configurations\nThe G6X is available in two basic configurations. Our review unit was the G6X 9KG ",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 20
+  },
+  {
+    "text": "with a one-year warranty from Gigabyte.\nGigabyte G6X Configurations\nThe G6X is available in two basic configurations. Our review unit was the G6X 9KG model, which is available from retailers like\nfor $1,299. This configuration features a Core i7-13650HX processor, GeForce RTX 4060, 16-inch, 165 Hz 1920 x 1200 IPS display, 32GB DDR5-4800, and a 1TB M.2 PCIe 4.0 SSD. However, there is also a lesser model of the G6X 9KG with just 16GB of RAM for\nBottom Line\nI like the Gigabyte G6X's chassis design, its two SO-DIMM slots, and its overall productivity performance. However, its gaming performance held back from its true potential due to its 105-watt GeForce RTX 4060. The display's colors and off-axis brightness were disappointing, and the small 73 WHr battery impacted battery life.\nCompared to t",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 21
+  },
+  {
+    "text": "t GeForce RTX 4060. The display's colors and off-axis brightness were disappointing, and the small 73 WHr battery impacted battery life.\nCompared to the assembled competition, the G6X represents a better value than the\nDell G15 (5530)\n, which is more expensive by a few hundred dollars. Another laptop to consider would be the\nAcer Nitro 16\n, which is our top pick for budget gaming laptops. While it might not be able to match or surpass the G6X in every benchmark, its superior battery life and display for $999 make it a viable alternative.\nAt $1,299, the G6X is a competent gaming laptop, but it doesn’t stand out in a crowded field in any meaningful way.\nHow to Buy a Gaming Laptop\nBest Gaming PCs\nBest Ultrabooks and Premium Laptops\n\nSee all comments (0)\n\nBrandon Hill\nSenior Editor\nBrandon Hil",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 22
+  },
+  {
+    "text": "gful way.\nHow to Buy a Gaming Laptop\nBest Gaming PCs\nBest Ultrabooks and Premium Laptops\n\nSee all comments (0)\n\nBrandon Hill\nSenior Editor\nBrandon Hill is a senior editor at Tom's Hardware. He has written about PC and Mac tech since the late 1990s with bylines at AnandTech, DailyTech, and Hot Hardware. When he is not consuming copious amounts of tech news, he can be found enjoying the NC mountains or the beach with his wife and two sons.\n\nNo comments yet\n\nComment from the forums",
+    "source": "gigabyte_g6x.txt",
+    "chunk_index": 23
+  },
+  {
+    "text": "Title: HP Omen X 2S Gaming Laptop Review: Mo Screens, Mo Problems\nSource: https://www.tomshardware.com/reviews/hp-omen-x-2s-15-gaming-laptop,6261.html\n\nTom's Hardware Verdict\n\nSome gamers may find this Omen’s secondary six-inch screen worth the sacrifices in terms of peripherals and battery life. But unless you really hate the idea of using your phone or a second monitor for chats and other tasks while gaming, there are better options out there.\n\nSecond 6-inch screen for game chats, tutorials or minimaps\n\nFast, roomy SSD\n\nReasonably thin and light\n\nKeyboard and touchpad are severely compromised to make room for the second screen\n\nShort battery life, even with second screen off\n\nSpeakers lack volume and low-end punch\n\nHow do you make a gaming laptop stand out in a crowded market full of pow",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "y life, even with second screen off\n\nSpeakers lack volume and low-end punch\n\nHow do you make a gaming laptop stand out in a crowded market full of powerful portables? HP’s answer with its new Omen X 2S 15 is to shove a second screen above the keyboard. Its placement is better than embedding a screen into the touchpad, but not as visually elegant as\nAsus’ ZenBook Pro Duo\n, which puts an ulta-wide display in the same spot. And while HP makes the claim that its new Omen is the first gaming laptop with a secondary screen, the company seems to have forgotten the\n2014-era Razer Blade\nWhile gamers are often multi-taskers (participating in chats, checking tutorials on YouTube, etc.) who can appreciate a second screen, the real question here is whether an extra 6-inch display built into your laptop",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "cking tutorials on YouTube, etc.) who can appreciate a second screen, the real question here is whether an extra 6-inch display built into your laptop is better or worse than just using your phone for those secondary tasks. The short answer? It depends. But this Omen has other issues to contend with, aside from the benefits of its second (hence 2S) screen.\nThe Omen X 2S is a nice-looking gaming laptop, with a fairly clean and understated design (for a gaming machine), and sleek looking basic-black aesthetics. I could do without the glowing Omen logo on the lid, but you can at least change the color from the default red to whatever hue you like via the Omen Command Center software (more on that later).\nAnd despite having a powerful set of components, including a six-core i7-9750H and RTX 20",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "e via the Omen Command Center software (more on that later).\nAnd despite having a powerful set of components, including a six-core i7-9750H and RTX 2080\nin our $2,850 review unit (different configurations will be offered in the UK, with prices ranging from £3,200 to £3,500), not to mention the second screen, the Omen X 2S is reasonably svelte at 0.8 inches (20mm) thick and 5.2 pounds (2.36kg).\nRazer’s Blade 15\nhas even cleaner lines and is slightly slimmer (0.7 inches) and a half-pound lighter (4.7 pounds). But if you like the idea of a second six-inch screen, the Omen doesn’t deliver much in the way of extra bulk.\nAll that said, HP had to make some serious design changes to facilitate the second screen. The keyboard has been moved forward\noriginal Asus ROG Zephyrus\n, relegating the touchp",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "ke some serious design changes to facilitate the second screen. The keyboard has been moved forward\noriginal Asus ROG Zephyrus\n, relegating the touchpad to the right of the keyboard. Granted, most gamers are going to use a dedicated mouse -- and HP included an\nOmen Phantom\nrodent and\nOmen Outpost\nmousepad along with our review unit, to emphasize that fact. But the touchpad here, aside from being inconveniently placed, is also quite small and oddly square, at less than three inches on each side. In other words, you’ll almost certainly want to use a dedicated mouse whether you’re gaming or doing anything else.\nAs for that secondary 1080p display that is this laptop’s\nraison d'etre\n, HP has embedded it below a smoky sheet of glass that runs nearly the entire width of the laptop above the keyb",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "y that is this laptop’s\nraison d'etre\n, HP has embedded it below a smoky sheet of glass that runs nearly the entire width of the laptop above the keyboard.\nOn one hand, this hides the screen when it’s off (unless you’re in direct sunlight), helping keep the design from looking overly busy. But when the second screen is on, it’s hard to ignore the large expanse of glass on either side of it. Asus solved that problem installing a super-wide display in its (non-gaming focused)\nZenBook Pro Duo\n, but that aspect ratio wouldn’t work very well for screen mirroring, video playback, or chat apps, which are arguably the primary use cases for the Omen X 2S’s second screen.\nPort selection on the Omen is adequate, if not expansive. On the left edge, HP delivers an HDMI 2.0B port, a pair of USB 3.1 Gen ",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": " 2S’s second screen.\nPort selection on the Omen is adequate, if not expansive. On the left edge, HP delivers an HDMI 2.0B port, a pair of USB 3.1 Gen 1 Type A ports, a Gigabit Ethernet port and a headphone/mic jack, alongside the power jack.\nConnectivity on the right edge is limited by a vent. HP includes vents both at the back and the right side, to help keep this compact portable’s high-end components cool. As such, you’ll only find another USB 3.1 Type-A and a Thunderbolt 3 / USB-C port here. There’s nothing around back save for more vents on either side of the laptop’s central hinge. Ideally we’d like to see another USB-C port, but there are enough ports for most gamers and productivity users.\nSpecifications\n\n15.6-inch, 1080p, 144 Hz, IPS\nIntel Core i7-9750H\nNvidia GeForce RTX 2080 Max",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "are enough ports for most gamers and productivity users.\nSpecifications\n\n15.6-inch, 1080p, 144 Hz, IPS\nIntel Core i7-9750H\nNvidia GeForce RTX 2080 Max-Q (8GB GDDR6)\n16GB DDR4-2666\n1TB NVMe SSD\nNetworking\nEthernet port, 802.11ac Wi-Fi, Bluetooth 5\nVideo Ports\nHDMI 2.0B, Thunderbolt 3\n1 USB 3.1 Gen 2 Type-C/Thunderbolt 3, 3 USB 3.1 Gen1 Type-A\nDual Bang & Olufsen speakers\n6-cell, 72 Wh Li-ion polymer\nPower Adapter\nDimensions\n14.3 x 10.3 x 0.8 inches / 363 x 262 x 20 mm\n5.2 pounds / 2.36kg\nPrice (as configured)\nGaming, Graphics and VR\n\nHP equipped our review unit of the Omen X 2S with an Nvidia GeForce RTX 2080 with 8GB of GDDR6 memory, which is capable of playing most games at their highest settings, usually at the high frame rates that the 144 Hz primary screen is capable of. When I played ",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": " capable of playing most games at their highest settings, usually at the high frame rates that the 144 Hz primary screen is capable of. When I played 2016’s\nat the display’s native 1080p resolution and Ultra settings, the game ran at an average of 147 fps (frames per second).\nFor our comparison systems, we pitted the Omen X 2S against recent 15- and 17-inch gaming laptops we tested. The\nRazer Blade 15 Advanced\n(with the same Core i7-9750H CPU and RTX 2080 Max-Q graphics as our Omen config), the\nAlienware m15\n(with a previous-gen Core i7-8750H and RTX 2070 graphics), and MSI’s 17-inch\nGE75 Raider\n(also with a 8750H and RTX 2080 graphics).\nShadow of the Tomb Raider\n(1080p, very high), the Omen ran at a smooth 64 fps, above the 58 fps premium gaming laptop average, and better than anything el",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": "ow of the Tomb Raider\n(1080p, very high), the Omen ran at a smooth 64 fps, above the 58 fps premium gaming laptop average, and better than anything else here save for the larger MSI system.\nbenchmark (1080p, ultra), the Omen managed to best even the MSI system, delivering 111 fps, again higher than the 105 fps category average.\nWhen we turned to\nGrand Theft Auto V\n(1080p, very high), the Omen landed behind the MSI machine (81 fps vs. the Raider’s 96 fps), but was just  above the category average.\nMiddle-Earth: Shadow of War\n, the Omen, at 98 fps, once again slipped behind the MSI’s leading 107 fps, but was ahead of everything else, including the 92 fps category average.\nTo stress test the Omen, I ran the\nMetro Exodus\nbenchmark 15 times on RTX settings, simulating approximately half an hour",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 9
+  },
+  {
+    "text": "the 92 fps category average.\nTo stress test the Omen, I ran the\nMetro Exodus\nbenchmark 15 times on RTX settings, simulating approximately half an hour of gaming. During the test, the HP system ran the game at an average of frames 31.3 frames per second. The first run went by at 32.2 fps, but then the laptop dropped about a frame lower and stayed there throughout the rest of the runs.\nDuring the stress test, the CPU ran at an average clock speed of 3.99 GHz, and the average CPU temperature was 78 degrees Celsius (173 degrees Fahrenheit).\nThe GPU’s average clock speed was 965 MHz and its average temperature was 55 degrees Celsius (131 degrees Fahrenheit).\nProductivity Performance\nTemperatures and performance should be aided here, in theory, because HP uses Thermal Grizzly’s Conductonaut liqu",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 10
+  },
+  {
+    "text": "ahrenheit).\nProductivity Performance\nTemperatures and performance should be aided here, in theory, because HP uses Thermal Grizzly’s Conductonaut liquid metal, rather than thermal paste between the CPU and heatsink. This material is something enthusiasts often use to lower processor temperatures and, therefore, achieve better performance via higher sustained Boost clock speeds.\nThis is the first time that we know of that a major laptop maker has used liquid metal, and we’ve seen plenty of evidence that it does lower temperatures compared to traditional thermal pads or paste. But given the company’s use of a locked processor on the Omen X 2S, we expect real-world benefits to be minimal. We applaud HP’s use of the material, but would like to see it in place on unlocked CPUs in the future whe",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 11
+  },
+  {
+    "text": "we expect real-world benefits to be minimal. We applaud HP’s use of the material, but would like to see it in place on unlocked CPUs in the future where the lower temperatures can be used to, hopefully, push overclocks higher and thus achieving more substantive performance gains.\nThe Omen X 2S’ six-core Intel Core i7-9750H is a capable mobile gaming CPU and no slouch at productivity. But it’s no flagship processor or full-bore desktop CPU. On Geekbench 4.1, HP’s laptop scored 22,608, just below the category average, but still better than the competing laptops here.\n\nThe Omen also landed on top in our file transfer test, taking 6 seconds to copy 4.97GB of files, a rate of 848.2 MBps. That’s ahead of the 775 MBps average, and all its competitors here.\n\nThe Omen took a 10 minutes and 26 secon",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 12
+  },
+  {
+    "text": "py 4.97GB of files, a rate of 848.2 MBps. That’s ahead of the 775 MBps average, and all its competitors here.\n\nThe Omen took a 10 minutes and 26 second to complete our Handbrake test, in which the laptop converts a 4K video to 1080p. That’s behind the 9:40 category average, but better than the competing machines here.\n\nPrimary Display\nThe 15.6-inch primary display on the Omen X 2S features IPS technology for excellent viewing angles, Nvidia G-Sync for tear-free gaming and a 144Hz refresh rate for smooth, high-fps gaming. In other words, it’s a pretty feature-packed screen.\n\nIt’s also fairly bright. We measured it at 306 nits, which is a bit above the category average as well as most of the competition. Only the Alienware m15 and its OLED screen scored better.\nAs for the color gamut, HP’s d",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 13
+  },
+  {
+    "text": "bove the category average as well as most of the competition. Only the Alienware m15 and its OLED screen scored better.\nAs for the color gamut, HP’s display managed 107% of sRGB, which is lower than the competition, as well as the category average (146%). But overall, the screen looks good and performs well, whether you’re watching Netflix or three hours into a dungeon crawl.\n\nKeyboard and Touchpad\nBoth the keyboard and the touchpad on the Omen X 2S take a big backseat in terms of layout and execution to the presence of the second screen that sits above them. The reduced physical space means the touchpad is small and smushed to one side. And the keyboard has no wrist area, with the keys running right up to the front edge. HP does include a big rubber wrist rest in the box, but it’s heavy, ",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 14
+  },
+  {
+    "text": "the keyboard has no wrist area, with the keys running right up to the front edge. HP does include a big rubber wrist rest in the box, but it’s heavy, gets dirty very easily, and has no way of attaching to the laptop.\n\nThe keyboard also has layout issues: The arrow keys sit right next to the touchpad’s mouse buttons, which are similarly sized in terms of height, so that it’s far too easy to trigger a mouse click when what you\nto do was press the right arrow key, and often vice versa. You also lose dedicated Page Up/Down buttons, and the Insert and Delete keys live up above the Backspace button.\n\nThe keys are brightly RGB-backlit, and key travel doesn’t feel as shallow as some competitors (like Razer). But if you’re looking for mechanical switches, you won’t find them here. And if you plan o",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 15
+  },
+  {
+    "text": "l doesn’t feel as shallow as some competitors (like Razer). But if you’re looking for mechanical switches, you won’t find them here. And if you plan on using your laptop to do a fair amount of work when you aren’t gaming, you’re probably going to want to plug in an external keyboard.\nThe same goes for a dedicated mouse. Gamers of course will want to use a mouse, but given the odd placement of the touchpad, and it’s small, square dimensions, I found myself missing my mouse even when doing basic things like navigating Windows.\nOut of the box, the Omen X 2S’ speakers were a disappointment. Volume at max wasn’t as loud as I’m used to with premium gaming laptops, and there was little in the way of low end. Software is included to adjust the EQ, which may help a bit. But if you’re expecting to f",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 16
+  },
+  {
+    "text": " gaming laptops, and there was little in the way of low end. Software is included to adjust the EQ, which may help a bit. But if you’re expecting to feel the thud of explosions around you or to fill the room with your favorite thumping tunes, you’ll either need to invest in a set of external speakers or opt for another laptop.\nSecond Screen and Software\nSo what about the 6-inch 1080p touchscreen that’s the Omen X 2S’s primary differentiating feature? On the positive side, it’s pretty versatile, as Windows sees it as a second display, so you can put literally whatever you want down there. My personal default for RTS and other titles like\nThey Are Billions\nis to drop the minimap down onto the second screen so it’s easier to see slow-moving zombies as they attempt to drag themselves into my d",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 17
+  },
+  {
+    "text": "Are Billions\nis to drop the minimap down onto the second screen so it’s easier to see slow-moving zombies as they attempt to drag themselves into my developing settlement.\nChat apps are also a no-brainer if you’re a streamer or social gamer. Although it won’t be easy to respond via text while gaming, it’s a decent way to keep up on the in-game chatter and respond via voice if that’s how you roll.\nI also found looking down at the screen less of an issue than I thought I would. Thanks to good viewing angles, the image always looked crisp and clear, and so long as I was sitting up with my body just behind the keyboard, most text and on-screen items were easy to see, despite the six-inch size of the screen. That said, I’d still prefer a second, large screen off to one side.\nHP’s Command Center",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 18
+  },
+  {
+    "text": "ems were easy to see, despite the six-inch size of the screen. That said, I’d still prefer a second, large screen off to one side.\nHP’s Command Center software does an OK job of controlling what you put on the second screen as well, making selecting and mirroring a specific part of your primary screen about as intuitive as using the Windows Snipping Tool.\nBut I couldn’t shake the feeling that, in most cases, chats and other use cases for the second screen are better handled by using a smartphone or, if you’re somewhere at a desk, a dedicated second monitor. Because text isn’t always easy to read on a six-inch display, and mirroring the minimap doesn’t really make it\nbigger than it is on the main screen.\nPlus, while HP’s Command Center software (which is also used to control the laptop’s li",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 19
+  },
+  {
+    "text": "p doesn’t really make it\nbigger than it is on the main screen.\nPlus, while HP’s Command Center software (which is also used to control the laptop’s lighting and any compatible connected peripherals) is well laid-out, and the main menus work pretty well via the touch interface, the software itself was often quite sluggish. I found myself frequently waiting several seconds for it to load, either on the primary screen. And when trying to close it on the primary display, I often had to click the X in the upper-right corner more than twice before it would actually close. That last bit is exacerbated by the fact that the physical mouse buttons are, again, confusingly close to the arrow keys of the keyboard. I was often uncertain whether I had actually clicked, or just mashed the right arrow key.",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 20
+  },
+  {
+    "text": " again, confusingly close to the arrow keys of the keyboard. I was often uncertain whether I had actually clicked, or just mashed the right arrow key.\nIt’s also worth pointing out that HP’s Command Center software lets you switch between three performance modes: Comfort, Default, and Performance. The former is designed to keep temperatures cool while sacrificing some performance. The latter is the all-out high-performance setting designed to deliver the best possible frame rates and CPU speeds the laptop is capable of. We did all our\nbenchmarking\non the Performance setting. And while we wouldn’t say the laptop was always quiet, even at this top-end settings, the fans never got as noisy as what we’ve heard from some competing high-end gaming portables.\nIt’s also worth pointing out that HP’s",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 21
+  },
+  {
+    "text": "op-end settings, the fans never got as noisy as what we’ve heard from some competing high-end gaming portables.\nIt’s also worth pointing out that HP’s Command Center software lets you switch between three performance modes: Comfort, Default, and Performance, not unlike most gaming laptops. The former is designed to keep temperatures cool while sacrificing some performance. The latter is the all-out high-performance setting designed to deliver the best possible frame rates and CPU speeds the laptop is capable of. We did all our benchmarking on the Performance setting. And while we wouldn’t say the Omen X 2S was always quiet, even at this top-end setting, the fans never got as noisy as what we’ve heard from some competing high-end gaming portables over the years.\nUpgradeability\nTo open the O",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 22
+  },
+  {
+    "text": "nd setting, the fans never got as noisy as what we’ve heard from some competing high-end gaming portables over the years.\nUpgradeability\nTo open the Omen, you’ll need a specialty screwdriver. It requires a Torx T6 to remove the six screws on the bottom.\n\nWhen those come out, use a plastic spudger to separate the base, starting from the hinges and working your way down to the bottom. It was tight on ours, but eventually came off clean. Once that was settled, the SSD and RAM were immediately and easily accessible. One of the two SODIMM slots is covered by a protective piece of paper. As for the SSDs, our configuration had an extra bay, so it’s really easy to slot in an additional drive.\nBattery Life\nGaming laptops seldom impress in unplugged run time -- especially when Nvidia’s G-Sync is in ",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 23
+  },
+  {
+    "text": "really easy to slot in an additional drive.\nBattery Life\nGaming laptops seldom impress in unplugged run time -- especially when Nvidia’s G-Sync is in play, forcing the laptop to lean on its dedicated graphics, rather than the more-efficient integrated graphics silicon. But even with its second screen switched off, the Omen lasted just under two-and-a-half hours on our battery test, which constantly browses the web, streams video and runs OpenGL benchmarks at 150 nits of brightness. That’s well behind the competition, and below the 3:16 category average.\n\nTo see how hot the Omen can get, we measured the heat while running the\nMetro Exodus\nstress test.\nThe keyboard reached 30.4 degrees Celsius (86.7 degrees Fahrenheit) between the G and H keys, and the touchpad hit 30.3 degrees Celsius  (86.",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 24
+  },
+  {
+    "text": "ss test.\nThe keyboard reached 30.4 degrees Celsius (86.7 degrees Fahrenheit) between the G and H keys, and the touchpad hit 30.3 degrees Celsius  (86.5 degrees Fahrenheit). These numbers are quite cool for gaming, likely a byproduct of HP moving the keyboard to the very edge of the chassis and putting the cooling solution under the second screen.\nThe bottom of the laptop got as hot as a toasty 55.5 degrees Celsius (131.2 degrees Fahrenheit) in our testing, which is more in line with most gaming machines.\nHP bills the webcam on the Omen X 2S as Wide Vision FHD, with dual-array mics. The camera does have a wider field of view than most, but images during video chats weren’t as crisp as I’d expect given the resolution, with the edges of my shoulders looking jagged. In short, the camera is fin",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 25
+  },
+  {
+    "text": "ges during video chats weren’t as crisp as I’d expect given the resolution, with the edges of my shoulders looking jagged. In short, the camera is fine for basic communication in games or the conference room. But if you’re a serious streamer, you’d definitely going to want a dedicated camera.\nConfigurations\nHP sent out the middle of three US configurations of the Omen X 2S. For $2,849.99, you get a six-core Intel Core i7-9750H processor, Nvidia GeForce RTX 2080 Max-Q graphics, 16GB of RAM, and a roomy 1TB of NVMe storage. That configuration also includes the 144Hz 1080p main display.\nThe maxed-out option with an eight-core Core i9-9880H CPU, the same 2080 Max-Q graphics, 32GB of RAM, 2TB of storage and an even faster 240Hz screen will set you back $4,299.99. And an “entry-level” option wit",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 26
+  },
+  {
+    "text": "the same 2080 Max-Q graphics, 32GB of RAM, 2TB of storage and an even faster 240Hz screen will set you back $4,299.99. And an “entry-level” option with RTX 2070 Max-Q graphics and just 256GB of NVMe storage--all other components being the same as our review unit--sells for $1,799.99. The middle option that HP sent us is the best for gamers, as you won’t see major FPS benefits for the higher-end CPU and 32GB of RAM, and the 256GB of storage on the entry model isn’t roomy enough to store more than a few modern AAA titles plus the OS and other files.\n\nBottom Line\nIf the idea of a built-in six-inch secondary monitor sounds like exactly what you’re looking for in a gaming laptop and you don’t care much about unplugged operation, HP’s Omen X 2S is the only game in town (unless you want to track ",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 27
+  },
+  {
+    "text": "e looking for in a gaming laptop and you don’t care much about unplugged operation, HP’s Omen X 2S is the only game in town (unless you want to track down a used 2014-era Razer Blade). If you’re sure you’ll find the second screen useful instead of fumbling with your smartphone for secondary functions like chat, it’s worth considering.\nThe compromised peripherals, clunky software, and short battery life make HP’s dual-screen gamer tough to recommend. With a dedicated keyboard and mouse, it’s a good gaming and productivity machine. But at that point, you might as well just opt for a compact gaming desktop with a second (much larger) screen.\nAt worst, this Omen feels like a collection of mostly passed-over gaming laptop ideas: the second screen from a 2014-era Razer, the keyboard and touchpad",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 28
+  },
+  {
+    "text": "worst, this Omen feels like a collection of mostly passed-over gaming laptop ideas: the second screen from a 2014-era Razer, the keyboard and touchpad from a 2018-era Asus Zephyrus, and a cinched-in hinge from a late-model\nAlienware m15\n. None of these ideas are inherently awful in isolation, but bringing them all together in one laptop, along with sluggish software, doesn’t make for a gaming portable with mass appeal.\nAt best, the Omen X 2S is an experiment that a particular subset of gamers will find appealing, facilitating gaming and multitasking on the go without having to clutter up your primary display. But we’d still like to see better battery life so that you could multitask for longer than a couple of hours while unplugged.\nPhoto Credits: Tom's Hardware\nBest Gaming Laptops\nLaptop ",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 29
+  },
+  {
+    "text": " battery life so that you could multitask for longer than a couple of hours while unplugged.\nPhoto Credits: Tom's Hardware\nBest Gaming Laptops\nLaptop Reviews\nAll Laptop Content\n\nSee all comments (0)\n\nMatt Safford\nManaging Editor\nAfter a rough start with the Mattel Aquarius as a child, Matt built his first PC in the late 1990s and ventured into mild PC modding in the early 2000s. He’s spent the last 15 years covering emerging technology for Smithsonian, Popular Science, and Consumer Reports, while testing components and PCs for Computer Shopper, PCMag and Digital Trends.\n\nNo comments yet\n\nComment from the forums",
+    "source": "hp_omen_x_2s_15.txt",
+    "chunk_index": 30
+  },
+  {
+    "text": "Title: HP Spectre x360 13 (2019) Laptop Review: Best Consumer 2-in-1\nSource: https://www.tomshardware.com/reviews/hp-spectre-x360-13-inch-laptop,6083.html\n\nTom's Hardware Verdict\n\nHP’s Spectre x360 13-inch offers a best-in-class combination of style, portability and performance.\n\nLong battery life\n\nAttractive design\n\nLightweight\n\nUSB Type-A port\n\nDull, noisy webcam\n\nDim screen for a premium system\n\nIf you’re looking for a lightweight consumer 2-in-1, it’s hard to argue against the HP Spectre x360 13-inch. Starting at $1,029 (£999), the latest version of this tried-and-true convertible features epic battery life, solid performance and a sleek new design with attractive tapered edges and an eye-popping Poseidon Blue color. While its base-level\nscreen could be brighter, the Spectre x360 has a",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "new design with attractive tapered edges and an eye-popping Poseidon Blue color. While its base-level\nscreen could be brighter, the Spectre x360 has a slew of helpful features, including a USB Type-A port, a hardware webcam switch and an active stylus in the box.\nThe new HP Spectre x360 13-inch and\nits 15-inch big brother\nare the first laptops I’ve ever seen that have hexagon shapes… well, sort of. At first glance, these computers appear rectangular, but the upper left and right sides of the\nare chamfered into mini fifth and six sides, with the power button living on the left corner edge and the USB-C charging port on the right one.\nThese edges are polarizing; I like them a lot because they add an attractive, unique design element and make it easy to feel your way to the power button in th",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "es are polarizing; I like them a lot because they add an attractive, unique design element and make it easy to feel your way to the power button in the dark. However, some of my coworkers think they are unnecessary design flourishes.\nThe rest of the laptop's appearance is unquestionably stunning with an all-aluminum design that comes in two color schemes: Ash Silver and Poseidon Blue. I tested an Ash Silver unit and noted that the word “silver” is a little misleading because the lid and deck are more of a dark brown metal with a shiny, copper-colored metal on the hinges and the sides. Either way, it looks fantastic. But the Poseidon Blue color is even more attractive with a dark subtle blue on the lid and deck to go with a white gold-colored metal around the sides and on the hinges. I’d de",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "r is even more attractive with a dark subtle blue on the lid and deck to go with a white gold-colored metal around the sides and on the hinges. I’d definitely get the Blue.\nAt 12.2 x 8.6 x 0.6 inches (309 x 218 x 15 mm) and just 2.8 pounds (1.3 kg), the Spectre x360 13-inch is really light and compact. It’s notably smaller and lighter than the\nLenovo Yoga C930\nand thinner but 0.3 pounds heavier than the\nLG Gram 14 2-in-1\nDell XPS 13\nis 0.1 pounds lighter and 0.1 inches thinner, but keep in mind that it is not a 2-in-1 and has no USB Type-A ports.\nSpeaking of ports, the Spectre x360 13-inch doesn’t have many, but it does provide a USB Type-A port, something that all of its main competitors lack. In addition to the Type-A port, which lives on the left side, there’s a microSD card slot, a 3.5",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "ort, something that all of its main competitors lack. In addition to the Type-A port, which lives on the left side, there’s a microSD card slot, a 3.5mm headphone jack, a Thunderbolt 3 port and a USB Type-C port for charging.\nHP Spectre x360 Specifications\n\nIntel Core i7-8565U\nIntel UHD 620 (integrated)\n8GB DDR4-2400\n256GB M.2 PCIe-NVMe\n13.3-inch 1080p (1920x1080) IPS\nNetworking\nIntel Wireless-AC 9560, Bluetooth 5\nVideo Ports\nThunderbolt 3\n2x Thunderbolt 3 / USB Type-C Gen 21x USB Type-A\nQuad speakers tuned by Bang & Olufsen\nFHD, IR webcam\nPower Adapter\nOperating System\nWindows 10 Home\nDimensions (WxDxH)\n12.2 x 8.6 x 0.57 inches / 309.9 x 218.4 x 14.5 mm\n2.9 pounds / 1.3 kg\nPrice (as configured)\n$1,349 / £1,099\nProductivity Performance\n\nWith its Intel Core i7-8565U\nand a 256GB\n, our review",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": ".4 x 14.5 mm\n2.9 pounds / 1.3 kg\nPrice (as configured)\n$1,349 / £1,099\nProductivity Performance\n\nWith its Intel Core i7-8565U\nand a 256GB\n, our review configuration of the HP Spectre x360 was more than capable of handling everything we threw at it with ease. Even when I had over a dozen tabs open and a\nvideo streaming in another window, I didn’t notice any lag.\nOn Geekbench 4, a synthetic benchmark that measures overall performance, the Spectre scored a solid 14,935, comfortably above the 13,329 category average, a little better than the Lenovo Yoga C930 (Core i7-8550U CPU) and slightly behind the XPS 13 (Core i7-8565U).\nIt took HP’s 2-in-1 a solid 1 minute and 34 seconds to match 65,000 names with their addresses in Excel. That’s about on par with the category average, but 24 seconds slow",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": " solid 1 minute and 34 seconds to match 65,000 names with their addresses in Excel. That’s about on par with the category average, but 24 seconds slower than the\nYou can crunch videos with the Spectre x360, but you’ll be waiting a while. When we used Handbrake to transcode a 12-minute, 4K video down to 1080p, the process finished in 22 minutes and 30 seconds. That’s actually a bit quicker than the category average (22:54), but the Yoga C930 was 8 percent quicker, and the XPS 13 was 22 percent faster.\nThe 256GB SSD copied 4.97 GB of files at a rate of 391.5 MBps, a quick speed but a bit below the 557.9 MBps category average. The Dell XPS 13 was slightly quicker than the average, while the Yoga C930 was a bit behind the Spectre x360.\nWith its integrated Intel UHD 620 graphics, the Spectre x3",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "s slightly quicker than the average, while the Yoga C930 was a bit behind the Spectre x360.\nWith its integrated Intel UHD 620 graphics, the Spectre x360 isn’t fit for serious gaming, but it can handle casual titles and some light media creation. When we fired up a game of\n, a low-end racing game, the 2-in-1 managed a very playable frame rate of 56 frames per second (fps), 23 percent less than the category average and 36 percent behind the XPS 13. However, the Yoga C930 fared much worse at 37 fps.\nThe Spectre x360 scored 300 on 3DMark Fire Strike Ultra, a synthetic benchmark that measures graphics prowess. That’s less than half the premium\ncategory average, but about on par with the Yoga C930 and Dell XPS 13, both of which also have integrated graphics.\nThe Spectre x360 offers fairly consis",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "egory average, but about on par with the Yoga C930 and Dell XPS 13, both of which also have integrated graphics.\nThe Spectre x360 offers fairly consistent performance over time. When we ran Cinebench R15 10 times, the Spectre x360 got an average score of 497.8 with an average CPU temperature of 85.8 degrees Celsius (186.4 degrees Fahrenheit) and average\nclock speed\nof 2.4 GHz. With the exception of the first run, which resulted in a score of 596.8, all other nine instances were close to each other, ranging from 480.9 to 490.2.\n\nThe 13.3-inch, 1920x1080 display on our review unit was colorful, but not luminous enough. When I watched a trailer for\n, some shades, like the red in the hero’s costume or the yellow in a lightning bolt, popped, but nothing is as vibrant as it should be when you ha",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": "for\n, some shades, like the red in the hero’s costume or the yellow in a lightning bolt, popped, but nothing is as vibrant as it should be when you have below average brightness.\n\nThe panel measured an unimpressive 287 nits of brightness on our light meter, which is 35 nits below the category average and miles behind the Dell XPS 13’s mark of 357 nits with its 1080p screen.\n\nHowever, our colorimeter confirmed what I saw with my eyes as the Spectre’s panel reproduced an impressive 150 percent of the sRGB color gamut. That’s 27 percent better than the category average, 19 percent above the XPS 13 and 50 percent better than Lenovo’s Yoga C930 with a 4K screen.\nKeyboard, Touchpad and Pen\n\nfor previous Spectre x360s I tested had extremely tactile, responsive feels, the current model’s keys seem",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 9
+  },
+  {
+    "text": "th a 4K screen.\nKeyboard, Touchpad and Pen\n\nfor previous Spectre x360s I tested had extremely tactile, responsive feels, the current model’s keys seem sturdy but a little stiff. Their 1.4 mm of travel isn’t ideal (above 1.5mm is great, but rare on ultrabooks), but not terrible either. And the 70 grams of required actuation force is normal. However, I found myself bottoming out quite a bit, which made my fingers feel fatigued. When I took the 10fastfingers.com typing test, I reached a rate of 96 words per minute with a 3.6 percent error rate, both of which are within my normal range.\nIn our tests, the 4.7 x 2.3-inch touchpad provided accurate navigation around the desktop and responded quickly to all the standard Windows multitouch gestures, including pinch-to-zoom, three-finger swipe and f",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 10
+  },
+  {
+    "text": "navigation around the desktop and responded quickly to all the standard Windows multitouch gestures, including pinch-to-zoom, three-finger swipe and four-finger swipe. However, the laptop does not use\n’s Windows Precision touchpad driver, instead opting for a Synaptics driver.\nThe Spectre x360 13-inch comes with an active stylus that has 4,096 levels of pressure sensitivity (interpolated from 1,028 degrees) and two customizable buttons. The pen offered a very accurate, rich writing and drawing experience. When I used Windows 10’s handwriting keyboard, my strokes registered accurately and immediately. And when I did some sketching in Fresh Paint, lines were thicker or thinner depending on how hard I pressed.\nWhile I wish there was more friction when pressing the tip against the screen and i",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 11
+  },
+  {
+    "text": "nt, lines were thicker or thinner depending on how hard I pressed.\nWhile I wish there was more friction when pressing the tip against the screen and it would be nice if there was a back eraser button like on the Microsoft Surface Pen, the Spectre provided a really good writing experience. Consider that for Microsoft's\nSurface Pro\nand Surface Book, you have to pay $100 extra for the pen.\nThe Spectre x360 is loud enough to fill a medium-sized room and accurate enough to dance to. When I played AC/DC’s \"Back in Black,\" the drums were just a little tinny, but not annoyingly so, and the sound was clearly audible from the next room over.\nControl gives you manual control over the equalizer and the ability to choose among movie, music or voice profile. When I turned up the treble, the guitar sound",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 12
+  },
+  {
+    "text": "ves you manual control over the equalizer and the ability to choose among movie, music or voice profile. When I turned up the treble, the guitar sounded richer and louder than the other instruments. You can also toggle the Bang and Olufsen Experience setting, which is on by default, but turning it off made the music sound a bit hollow.\nUpgradeability\nJust forget about upgrading the HP Spectre x360 13-inch. The screws on the bottom are hidden beneath the glued-on rubber feet. We don’t know if the\nor storage are soldered in, but in order to find out, we’d have had to ruin the feet, rendering the laptop wobbly.\nBattery Life\nThe HP Spectre x360 can last all day long on a charge and then some. On our battery test, which involves continuous web surfing, video streaming and running OpenGL\nbenchma",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 13
+  },
+  {
+    "text": "an last all day long on a charge and then some. On our battery test, which involves continuous web surfing, video streaming and running OpenGL\nbenchmarks\nat 150 nits of brightness, the Spectre endured for an impressive 12 hours and 7 minutes, about 4 hours longer than the average premium laptop. Dell’s XPS 13 with a 1080p, non-touch screen lasted a slightly longer 12 hours and 22 minutes, but let’s keep in mind that touch screens usually consume a lot more power.\n\nThe built-in 1080p webcam captures images which are unimpressive at best. A shot of my face had a ton of visual noise, and colors, such as the blue stripes in my shirt and my skin tone, were quite inaccurate. At least the picture was fairly bright.\n\nThe webcam also has an infrared sensor for doing Windows Hello face detection. Bu",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 14
+  },
+  {
+    "text": "one, were quite inaccurate. At least the picture was fairly bright.\n\nThe webcam also has an infrared sensor for doing Windows Hello face detection. But if you’d prefer to just use a finger, there’s also a fingerprint reader on the deck.\n\nIf you’re worried about someone hacking into the computer and taking control of the webcam, you can flip a hardware switch on the right side that completely disables the sensor and even removes it from the device manager.\nSoftware and Warranty\nHP offers a few first-party utilities, some of which are useful and some of which are not. HP Command Center lets you pick a thermal profile that balances in favor of performance, quiet or coolness. HP Audio Switch lets you choose which device to send sound to, which is something you could also do in Windows settings",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 15
+  },
+  {
+    "text": "erformance, quiet or coolness. HP Audio Switch lets you choose which device to send sound to, which is something you could also do in Windows settings.\nHP Jumpstart, which appears as a large tile on the Start menu, is a glossy promotion for downloading different paid or trialware apps, including Office 365 and McAfee\nIn addition to the McAfee Security center, there’s the standard dumpster full of free-to-play games, including\nCandy Crush Saga\nCandy Crush Friends Saga\n, that Microsoft shovels onto every\nWindows 10\nmachine. You’ll also find the Netflix app, just in case you are a subscriber and didn’t realize that you could just download it yourself in a matter of seconds.\nHP backs the Spectre x360 with a standard one-year warranty on parts and labor.\nThe HP Spectre x360 stayed pretty cool t",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 16
+  },
+  {
+    "text": "rself in a matter of seconds.\nHP backs the Spectre x360 with a standard one-year warranty on parts and labor.\nThe HP Spectre x360 stayed pretty cool throughout our anecdotal use, but the bottom surface got a little warm during our heat test. After streaming a video for 15 minutes, the keyboard measured a reasonable 30.4 degrees Celsius (86 degrees Fahrenheit), and the touchpad clocked in at 29.1 degrees Celsius (84.4 degrees Fahrenheit). The bottom hit a toasty 38.7 degrees Celsius (101.7 degrees Fahrenheit).\n\nConfiguration Options\nOur $1,349 review configuration (on sale for $1,199 at\nat publish time) of the HP Spectre x360 came with a Core i7-8565U, 8GB of RAM, a 256GB SSD and a 1080p display. When you buy directly from HP.com, you can choose between a 1080p and 4K display, pick 8 or 16G",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 17
+  },
+  {
+    "text": "i7-8565U, 8GB of RAM, a 256GB SSD and a 1080p display. When you buy directly from HP.com, you can choose between a 1080p and 4K display, pick 8 or 16GB of RAM, decide between a Core i5 and Core i7 CPU and go for up to 2TB of storage.\nDepending on where you buy from and what configuration you choose, prices range from about $1,029 (£999) to $2,399 (£1,799). You can get the laptop in your choice of Poseideon Blue or Ash Silver. While both are attractive, I highly recommend the former.\nBottom Line\nshopping for a premium laptop\nwith a focus on portability and battery life, the HP Spectre x360 should be near the top of your list. Even if you don’t feel like you need a 2-in-1, this laptop competes very favorably against leading clamshells, like the Dell XPS 13, and, if you get the Poseidon Blue ",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 18
+  },
+  {
+    "text": " feel like you need a 2-in-1, this laptop competes very favorably against leading clamshells, like the Dell XPS 13, and, if you get the Poseidon Blue color, you’ll have a system that looks as good as it performs.\nIt’s not perfect: a premium system like this should give you more than 300 nits of brightness even on the base model panel, and the keyboard is a little less snappier compared to prior models reviewed. But the Spectre x360 13-inch is one of the best lightweight laptops you can get and the best choice for consumers who want a lightweight system with a heavy dose of style.\nBest Gaming Laptops\nLaptop Reviews\nAll Laptop Content\nPhoto Credits: Tom's Hardware\n\nAvram Piltch\nManaging Editor: Special Projects\nAvram Piltch is Managing Editor: Special Projects. When he's not playing with the",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 19
+  },
+  {
+    "text": "dits: Tom's Hardware\n\nAvram Piltch\nManaging Editor: Special Projects\nAvram Piltch is Managing Editor: Special Projects. When he's not playing with the latest gadgets at work or putting on VR helmets at trade shows, you'll find him rooting his phone, taking apart his PC, or coding plugins. With his technical knowledge and passion for testing, Avram developed many real-world benchmarks, including our laptop battery test.",
+    "source": "hp_spectre_x360_13.txt",
+    "chunk_index": 20
+  },
+  {
+    "text": "Title: HP Victus 15 (2022) Review: Is this cheap gaming laptop actually good?\nSource: https://www.laptopmag.com/reviews/hp-victus-15-2022-review-is-this-dollar800-gaming-laptop-actually-good\n\nHP Victus 15 (2022) Review\n\nPrice: Around $800\n\nSpecifications:\n- CPU: Intel Core i5-12450H\n- GPU: Nvidia GeForce GTX 1650 (4GB VRAM)\n- RAM: 8GB\n- Storage: 512GB SSD\n- Display: 15.6-inch FHD (1920x1080), 144Hz, 9ms response time\n- Battery: 4 hours 47 minutes\n- Weight: 5.06 pounds\n- Dimensions: 14.1 x 10 x 0.9 inches\n\nDesign and Build:\nThe laptop features a sophisticated, all-black Mica Silver chassis with a mature aesthetic suitable for both gaming and office settings. The all-plastic construction feels sturdy despite its budget positioning. The design includes a striking reflective V logo and remains",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "ffice settings. The all-plastic construction feels sturdy despite its budget positioning. The design includes a striking reflective V logo and remains thinner and lighter than the competing Acer Nitro 5. This is not a flashy gaming laptop, which is a plus for those who want something more understated.\n\nDisplay Performance:\nThe 144Hz panel provides smooth visuals during gameplay, but the display has notable limitations. It reproduced only 45% of the DCI-P3 color gamut, which is below the 52% average. Brightness measured a disappointing 235 nits, making outdoor or well-lit environments challenging. Colors appeared flat when tested with film content. The display is acceptable for gaming but falls short for content creation or media consumption.\n\nPerformance Benchmarks:\n- Geekbench 5.4: 6,902 ",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "tent. The display is acceptable for gaming but falls short for content creation or media consumption.\n\nPerformance Benchmarks:\n- Geekbench 5.4: 6,902 (beats average 5,623 but trails Acer Nitro 5's 9,148)\n- Handbrake 4K to 1080p transcoding: 8:09 (slower than average 7:17)\n- File transfer rate: 741.24 MBps for 25GB (below average 912 MBps)\n\nThe Core i5-12450H provides adequate everyday performance but falls behind competitors with higher-tier processors.\n\nGaming Performance:\nThe three-year-old GTX 1650 struggles with demanding titles:\n- Assassin's Creed Valhalla (Very High): 27 fps (vs. 42.4 fps average)\n- Metro: Exodus (Very High): 26 fps (vs. 39 fps average)\n- Red Dead Redemption 2 (Very High): 23 fps (vs. 38 fps average)\n- GTA V: 39 fps\n- Far Cry New Dawn: 54 fps\n- 3DMark Fire Strike Ult",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": ". 39 fps average)\n- Red Dead Redemption 2 (Very High): 23 fps (vs. 38 fps average)\n- GTA V: 39 fps\n- Far Cry New Dawn: 54 fps\n- 3DMark Fire Strike Ultra: 1,970 (vs. 3,189 average)\n\nCasual gameplay on less demanding titles like Prey delivered 48-60 fps with maximum settings. For esports titles and older games, the GTX 1650 is adequate. For AAA games released in the last few years, you will need to significantly lower settings.\n\nKeyboard and Touchpad:\nThe edge-to-edge keyboard features white backlighting and a numpad but delivers a loud, clacky typing experience that reduces typing speed. Volume controls require the FN key combination. The spacious 4.9 x 3.1-inch touchpad performs adequately but attracts fingerprints easily.\n\nBang and Olufsen-tuned speakers provide mediocre sound quality wit",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "ious 4.9 x 3.1-inch touchpad performs adequately but attracts fingerprints easily.\n\nBang and Olufsen-tuned speakers provide mediocre sound quality with flat, tinny audio reproduction. However, they deliver adequate spatial awareness during gaming scenarios and sufficient volume for medium-sized rooms. You will want headphones for any serious gaming or music listening.\n\nThermal Management:\nExceptional thermal performance distinguishes this model. During gaming, temperatures peaked at 99 degrees Fahrenheit on the underside while remaining cool elsewhere. Heat was cleverly channeled to regions users rarely touch, making it comfortable during extended gaming sessions.\n\nBattery Life:\nGaming battery life was particularly weak at just 52 minutes. Standard web browsing lasted 4 hours 47 minutes, w",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "ended gaming sessions.\n\nBattery Life:\nGaming battery life was particularly weak at just 52 minutes. Standard web browsing lasted 4 hours 47 minutes, which is below the 5 hour 31 minute average for budget gaming laptops. The Acer Nitro 5 outlasted it by 44 minutes in battery tests.\n\nPorts and Connectivity:\nRight side: USB-C, Ethernet, HDMI 2.1, USB 3.2 Type-A\nLeft side: microSD slot, 3.5mm jack, USB 3.2 Type-A, power port\nNo Thunderbolt 4 support at this price tier.\n\nSoftware and Warranty:\nWindows 11 with minimal bloatware including McAfee and Solitaire apps. The Omen Gaming Hub provides system monitoring and fan control. One-year limited warranty included.\n\n- Budget-friendly pricing, especially during sales\n- Sophisticated, professional design\n- Excellent thermal management\n- 144Hz display",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "anty included.\n\n- Budget-friendly pricing, especially during sales\n- Sophisticated, professional design\n- Excellent thermal management\n- 144Hz display for smooth gameplay\n- Suitable for casual gaming and esports titles\n- Good port selection including ethernet and HDMI 2.1\n\n- Three-year-old GPU limits modern game performance significantly\n- Below-average display brightness at 235 nits\n- Weak color gamut at 45% DCI-P3\n- Poor battery life, especially while gaming at 52 minutes\n- Outperformed by regularly-discounted competitors like the Acer Nitro 5\n\nThe reviewer recommends waiting for price drops below $700 to maximize value. While the Victus 15 suits casual gamers avoiding demanding titles, the Acer Nitro 5 frequently offers better value at similar or slightly higher prices with superior RTX",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": " suits casual gamers avoiding demanding titles, the Acer Nitro 5 frequently offers better value at similar or slightly higher prices with superior RTX 30-series graphics. The laptop works well for unpretentious users on a tight budget but faces stiff competition from more capable alternatives. At its regular $800 price point, there are better options available.",
+    "source": "hp_victus_15.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "Title: Lenovo Legion Pro 5i Review: Subtle styling, big performance and affordable\nSource: https://www.laptopmag.com/reviews/lenovo-legion-pro-5i-review-subtle-styling-performance-and-price-tag-make-this-a-win\n\nLenovo Legion Pro 5i (Gen 8) Review\n\nPrice: Starting at $1,219.99; Reviewed model $1,449.99\n\nSpecifications:\n- CPU: Intel Core i7-13700HX\n- GPU: Nvidia GeForce RTX 4060 (8GB VRAM)\n- RAM: 16GB\n- Storage: 512GB PCIe NVMe SSD\n- Display: 16-inch QHD (2560 x 1600) at 165Hz, 16:10 aspect ratio\n- Dimensions: 14.3 x 10.25 x 0.88-1.05 inches\n- Weight: 5.5 pounds\n\nDisplay Quality:\nThe 16-inch panel reproduced 82.8% of the DCI-P3 color gamut, exceeding the mainstream gaming average of 77.9%. Brightness measured 349 nits, surpassing the 324-nit category average. Thin bezels seem to melt away, c",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "eeding the mainstream gaming average of 77.9%. Brightness measured 349 nits, surpassing the 324-nit category average. Thin bezels seem to melt away, creating substantial screen real estate for gaming and entertainment. The QHD resolution at 165Hz provides sharp visuals with smooth motion during gameplay.\n\nPerformance Benchmarks:\n- Geekbench 6: 13,634 (exceeds 7,602 average significantly)\n- Assassin's Creed Valhalla (1080p): 103 fps\n- Red Dead Redemption 2 (1080p): 70 fps\n- Borderlands 3 (1080p): 90 fps\n- GTA V (1080p, Very High): 97 fps\n- Handbrake video transcoding: 3 minutes 39 seconds\n- File transfer rate: 1,792.63 MB/s\n\nThe gaming performance is excellent across modern titles. The RTX 4060 handles demanding games at 1080p with high frame rates, making it suitable for both casual and co",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "ance is excellent across modern titles. The RTX 4060 handles demanding games at 1080p with high frame rates, making it suitable for both casual and competitive gaming.\n\nBattery Life:\nWeb surfing: 4 hours 51 minutes, which is below the 6-hour gaming laptop average. Gaming performance was just 48 minutes on battery, indicating users should stay near an outlet if planning gaming sessions. This is the biggest weakness of the laptop.\n\nThe chiclet-style RGB-backlit keyboard features responsive, quiet keys with excellent bounce suitable for gaming. The reviewer achieved 91 words per minute with 93% accuracy during typing tests. The large deck accommodates bigger hands comfortably. Key travel and tactile feedback are well-tuned for both typing and gaming.\n\nFeatures understated styling with rounded",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "odates bigger hands comfortably. Key travel and tactile feedback are well-tuned for both typing and gaming.\n\nFeatures understated styling with rounded corners and sleek overall design allowing it to blend into office environments. The two-tone Onyx Grey lid and black bottom are complemented by chromed Lenovo and Legion logos. Aggressive air venting along sides and rear supports cooling efficiency. This is a gaming laptop that does not scream gamer, making it appropriate for professional settings.\n\nThe 4.7 x 3-inch touchpad proved responsive and accurate for navigation, performing Windows 11 gestures smoothly with substantial click feedback. It is well-sized for a gaming laptop.\n\nDescribed as having solid audio performance across the studio, but the speakers lack bass depth. Music listening",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "t is well-sized for a gaming laptop.\n\nDescribed as having solid audio performance across the studio, but the speakers lack bass depth. Music listening revealed hollow audio qualities, particularly with bass-heavy tracks. Gaming spatial audio was solid but suffered similar depth limitations. The speakers are fine for gaming but not for music enjoyment.\n\nThe 1080p FHD camera captures color-accurate images with speedy autofocus, though the reviewer noted grainy images in certain lighting conditions.\n\nHeat Management:\nDuring normal use, the touchpad measured 74.1 degrees Fahrenheit and the keyboard center reached 89.1 degrees. During gaming, the keyboard center peaked at 101.1 degrees with the underside reaching 125.4 degrees maximum. The cooling system is effective at directing heat away from",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "keyboard center peaked at 101.1 degrees with the underside reaching 125.4 degrees maximum. The cooling system is effective at directing heat away from primary contact points.\n\nThe Lenovo Vantage app provides user-friendly control for CPU overclocking, RGB lighting, and audio settings. Standard Windows 11 applications included. One-year limited warranty provided.\n\nThe Legion Pro 5i has an excellent port selection: two USB 3.2 Type-C ports, four USB 3.2 Type-A ports, 3.5mm audio jack, HDMI 2.1, ethernet, and power connection. This is one of the best port lineups in its class, especially with the inclusion of multiple USB-A ports and a dedicated ethernet port.\n\n- Excellent design and style that blends into office environments\n- Solid specifications for the price under $1,500\n- Immersive 16-in",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": " ethernet port.\n\n- Excellent design and style that blends into office environments\n- Solid specifications for the price under $1,500\n- Immersive 16-inch QHD display with 165Hz refresh rate\n- Responsive and comfortable keyboard\n- Outstanding gaming performance with RTX 4060\n- Comprehensive port selection including USB-A and ethernet\n\n- Subpar audio quality lacking bass depth\n- Grainy webcam performance in certain lighting\n- Poor battery life at under 5 hours for web browsing\n- Heavy at 5.5 pounds\n\nThe Lenovo Legion Pro 5i is a well-designed, subtle office-approved gaming laptop delivering potent performance under $1,500. The combination of Intel Core i7 and Nvidia RTX 4060 provides sufficient power for gaming and productivity tasks. It is a solid choice for those seeking a mid-tier gaming l",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "el Core i7 and Nvidia RTX 4060 provides sufficient power for gaming and productivity tasks. It is a solid choice for those seeking a mid-tier gaming laptop that can also serve as a work machine. The only significant drawbacks are the mediocre battery life and the lackluster speakers.",
+    "source": "lenovo_legion_pro_5.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "Title: Lenovo Yoga Slim 7x Review: A Copilot+ PC that hits all the right notes\nSource: https://www.laptopmag.com/laptops/lenovo-yoga-slim-7x\n\nLenovo Yoga Slim 7x (Gen 9) Review\n\nPrice: $1,199 (base model); $1,289 (1TB storage)\n\nSpecifications:\n- CPU: Qualcomm Snapdragon X Elite X1E-78-100\n- RAM: 16GB\n- Storage: 512GB SSD (base); 1TB option\n- Display: 14.5-inch 3K OLED (2994 x 1840) touch display, 90Hz\n- Battery: 14 hours 14 minutes\n- Weight: 2.8 pounds\n- Dimensions: 12.8 x 8.8 x 0.51 inches\n\nThe Yoga Slim 7x features a sleek aluminum chassis in cosmic blue with clean lines and a professional appearance. It has earned MIL-STD 810H durability certification, meaning it has been tested against military-grade standards for durability. At just 2.8 pounds and 0.51 inches thin, it is extremely por",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "ertification, meaning it has been tested against military-grade standards for durability. At just 2.8 pounds and 0.51 inches thin, it is extremely portable. The build quality feels premium throughout, with tight tolerances and no flex in the lid or chassis.\n\nThe OLED panel delivers vibrant, stunning colors, covering 155% of the DCI-P3 color gamut, which is exceptional and far beyond what most laptops offer. Average brightness measured 464 nits in SDR mode, with peak HDR brightness reaching 785 nits. The 90Hz refresh rate ensures smooth operation for everyday tasks. However, the display exhibits notable reflections in low-light scenarios due to the lack of an anti-reflective coating. The 3K resolution provides crisp text and detailed images.\n\nPerformance:\nThe Snapdragon X Elite processor de",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "o the lack of an anti-reflective coating. The 3K resolution provides crisp text and detailed images.\n\nPerformance:\nThe Snapdragon X Elite processor delivers strong results across benchmarks:\n- Geekbench 6 single-core: 2,448\n- Geekbench 6 multi-core: 13,750\n- HandBrake transcoding: 5 minutes 16 seconds\n- 3DMark FireStrike: 5,800\n\nThe multi-core score outperformed both the MacBook Air M3 and the MacBook Pro M3 by over 1,600 points, demonstrating the Snapdragon chip's competitive performance. The processor handles productivity workloads like document editing, web browsing, and light photo editing with ease.\n\nGaming capabilities are limited. Civilization VI at 1080p managed only 20.8 fps. Some games are broadly incompatible with the ARM-based Snapdragon processor, specifically those requiring ",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "lization VI at 1080p managed only 20.8 fps. Some games are broadly incompatible with the ARM-based Snapdragon processor, specifically those requiring kernel-level anti-cheat software like Apex Legends and Valorant. However, lightweight casual gaming with compatible titles is possible. This is not a laptop you buy for gaming.\n\nBattery Life:\nThe laptop achieved an impressive 14 hours and 14 minutes on the battery test, surpassing the premium laptop average of 10 hours 8 minutes by a wide margin. This trails the Surface Laptop 7 at 15:44 but remains excellent. The Snapdragon processor's efficiency is the key factor here, making this a true all-day laptop that can handle a full work day and then some without needing a charger.\n\nThe keyboard features outstanding typing quality with 1.5mm key tr",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "ay laptop that can handle a full work day and then some without needing a charger.\n\nThe keyboard features outstanding typing quality with 1.5mm key travel and satisfying tactile feedback. The reviewer achieved a record 105 wpm typing speed, which is remarkable. The keys have a comfortable spacing and responsive feel that makes extended typing sessions enjoyable. One dedicated Copilot key replaces a standard Control key for AI features.\n\nThe trackpad is spacious and responsive, supporting all Windows 11 gestures reliably. Click feedback is consistent and satisfying.\n\nThe speakers provide clear sound with decent volume for a thin laptop. They handle dialogue and music adequately, though bass response is limited as expected from a slim chassis.\n\nPort selection includes three USB4 Type-C ports",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "andle dialogue and music adequately, though bass response is limited as expected from a slim chassis.\n\nPort selection includes three USB4 Type-C ports and a 3.5mm headphone jack. There are no USB Type-A ports, no HDMI, and no SD card reader. Users relying on older peripherals will need adapters.\n\nWindows 11 with Copilot+ features, including on-device AI processing through the Snapdragon NPU (Neural Processing Unit). The NPU enables AI features that run locally without cloud connectivity. App compatibility through emulation is generally good, though some specialized Windows applications may have issues with the ARM-based processor.\n\n- Exceptional battery endurance at over 14 hours\n- Outstanding keyboard experience with record typing speeds\n- Sharp, colorful OLED display with 155% DCI-P3 cov",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "nal battery endurance at over 14 hours\n- Outstanding keyboard experience with record typing speeds\n- Sharp, colorful OLED display with 155% DCI-P3 coverage\n- Robust multi-core processing that rivals Apple M3\n- Lightweight at 2.8 pounds with durable build\n- Competitive pricing at $1,199\n\n- Limited gaming capabilities due to ARM architecture\n- No USB Type-A ports requiring adapters for legacy devices\n- Highly reflective display surface without anti-reflective coating\n- Some Windows application compatibility issues with Snapdragon\n\nThe Lenovo Yoga Slim 7x is a fantastic all-around Windows 11 laptop offering strong value at its price point. It delivers solid everyday performance alongside meaningful AI features through the Copilot+ platform. The combination of outstanding battery life, a gorge",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "livers solid everyday performance alongside meaningful AI features through the Copilot+ platform. The combination of outstanding battery life, a gorgeous OLED display, and an excellent keyboard makes it one of the best ultraportable laptops available. It was named the reviewer's favorite laptop of 2024. The only significant caveats are the limited gaming support and the need for USB-C adapters.",
+    "source": "lenovo_yoga_slim_7x.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "Title: MacBook Air 15-inch (M3) Review: More than just a big MacBook Air\nSource: https://www.laptopmag.com/laptops/macbooks/macbook-air-15-inch-m3\n\nMacBook Air 15-inch (M3) Review\n\nReviewer: Sean Riley\nReview Date: March 19, 2024\n\nSpecifications:\n- Processor: 8-core Apple M3 CPU (4 performance, 4 efficiency cores)\n- GPU: 10-core integrated\n- RAM: 8GB, 16GB, or 24GB unified memory\n- Storage: 256GB, 512GB, 1TB, or 2TB SSD\n- Display: 15.3-inch Liquid Retina (2880 x 1864)\n- Ports: 2x Thunderbolt/USB-4, MagSafe 3, headphone jack\n- Webcam: 1080p\n- Dimensions: 13.40 x 9.35 x 0.45 inches\n- Weight: 3.3 pounds\n- Colors: Midnight, Starlight, Space Gray, Silver\n\n- Base: $1,299 (8GB RAM, 256GB storage)\n- Mid-tier: $1,499 (16GB or 512GB upgrade)\n- Review unit: $1,699 (16GB RAM, 512GB storage)\n- Max conf",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": " Silver\n\n- Base: $1,299 (8GB RAM, 256GB storage)\n- Mid-tier: $1,499 (16GB or 512GB upgrade)\n- Review unit: $1,699 (16GB RAM, 512GB storage)\n- Max config: $2,499 (24GB RAM, 2TB storage)\n\nDesign and Build:\nThe Air 15 maintains an identical appearance to its M2 predecessor. Key improvements include an improved Midnight finish that sheds fingerprints far more effectively, using a new anodization process. The laptop uses 50% recycled materials, a first for MacBook Air. It remains the world's thinnest 15-inch laptop at 0.45 inches and weighs a notably light 3.3 pounds. The design philosophy embraces utilitarian beauty, with functional engineering prioritized over dramatic visual changes.\n\nThe 15.3-inch display earned strong marks. Brightness measured 482 nits average, which is 100 nits above the",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "rioritized over dramatic visual changes.\n\nThe 15.3-inch display earned strong marks. Brightness measured 482 nits average, which is 100 nits above the mainstream average. The color gamut covers 77.5% DCI-P3, which is below the 87.2% mainstream average. Color accuracy achieved a Delta-E of 0.3, which is excellent though slightly above the 0.24 average. It uses Liquid Retina technology with True Tone for adaptive color accuracy. The display excels in brightness and contrast, with pitch-black edges and white-hot light rendering effectively even in bright rooms.\n\nPerformance:\nGeekbench 6 multi-core score: 12,052. This was outperformed by the MSI Prestige 16 AI Evo at 13,310, but ahead of the Acer Swift Edge 16 at 10,682 and the mainstream average of 9,595. In real-world testing, the M3 Air han",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "Prestige 16 AI Evo at 13,310, but ahead of the Acer Swift Edge 16 at 10,682 and the mainstream average of 9,595. In real-world testing, the M3 Air handles demanding multitasking remarkably well. With typical workloads including 5-6 Google Chrome windows with between 12-20 tabs each, Photoshop, and Slack, the laptop remained responsive. Adobe applications launch with noticeable speed improvements over the M2 model. Video transcoding via Handbrake from 4K to 1080p took 6 minutes 30 seconds. SSD speeds measured 2,968.2 MBps read and 3,167.1 MBps write on the BlackMagic test.\n\nBattery Life:\nThe battery lasted 15 hours and 3 minutes on continuous web surfing at 150 nits. This is a modest 4-minute increase over the M2 model. It significantly outpaced competitors: the MSI Prestige 16 AI Evo laste",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "web surfing at 150 nits. This is a modest 4-minute increase over the M2 model. It significantly outpaced competitors: the MSI Prestige 16 AI Evo lasted 13 hours 4 minutes, and the Acer Swift Edge 16 managed only 7 hours 18 minutes. Charging options include a 70W USB-C fast charger or a dual USB-C 35W adapter that includes a secondary port for other devices.\n\nThe 15-inch Air features a six-speaker system with force-cancelling woofers, superior to the 13-inch model's four speakers. It supports Spatial Audio with compatible AirPods models. The top-firing speakers maintain clarity at maximum volume. The audio is adequate for general consumption, though external audio devices are still recommended for serious listening.\n\nKeyboard and Trackpad:\nThe reviewer preferred the built-in keyboard to ext",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "though external audio devices are still recommended for serious listening.\n\nKeyboard and Trackpad:\nThe reviewer preferred the built-in keyboard to external Magic Keyboard alternatives, achieving 86 words per minute with 98% accuracy on typing tests. Keys offer solid rebound and responsive feedback. The 5.9 x 3.6-inch Force Touch trackpad received high praise for responsiveness and reliable palm rejection. Navigation between workspaces and scrolling was described as seamless.\n\nNotably improved from Apple's historical standards. The reviewer stated it is good enough that they don't feel compelled to recommend purchasing external alternatives. The 1080p camera accurately captures colors and background details, with background blur and replacement available.\n\nSoftware and Features:\nmacOS Sonom",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "he 1080p camera accurately captures colors and background details, with background blur and replacement available.\n\nSoftware and Features:\nmacOS Sonoma integration provides instantaneous performance across the OS. It includes widgets adapted from iOS. A new capability added with the M3 is dual external monitor support when the laptop is closed. It comes with a one-year limited warranty.\n\n- Thin-and-light chassis maintaining portability\n- Bright Liquid Retina display at 482 nits\n- Exceptional battery life exceeding 15 hours\n- Strong multi-core performance\n- Competitive pricing relative to capabilities\n- Improved Midnight color finish reduces fingerprints\n- Impressive real-world multitasking capability\n\n- Limited port selection with only two Thunderbolt/USB-4 ports\n- Display color gamut belo",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "ingerprints\n- Impressive real-world multitasking capability\n\n- Limited port selection with only two Thunderbolt/USB-4 ports\n- Display color gamut below mainstream standards at 77.5%\n- Color accuracy slightly behind competitors\n\nThis is another excellent laptop from Apple with notable performance improvements over the M2 generation. For M1 and Intel MacBook Air owners, upgrading is strongly recommended since the performance leap is substantial. For M2 owners, most can likely hold out for an M4 upgrade, unless professional dual-monitor capability justifies the cost. The Air 15 M3 combines size, performance, battery life, and affordability, landing on multiple best laptop lists. The reviewer notes it should last you for years to come despite premium pricing. It received an Editor's Choice awa",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "ing on multiple best laptop lists. The reviewer notes it should last you for years to come despite premium pricing. It received an Editor's Choice award reflecting a compelling balance of portability, performance, and practical features for productivity-focused users.",
+    "source": "macbook_air_15_m3.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": "Title: MSI Katana 17 HX gaming laptop review: 1080p gaming with Nvidia’s RTX 5070\nSource: https://www.tomshardware.com/laptops/gaming-laptops/msi-katana-17-hx-gaming-laptop-review\n\nTom's Hardware Verdict\n\nThe Katana 17 HX’s underlying hardware is solid with strong performance at a decent price, but the system needs a bit more polish.\n\nCompetitive 1080p gaming performance\n\nAttractive pricing\n\nClass-competitive battery life\n\nDisplay is dim and not as vibrant as competing laptops\n\nProductivity performance falls behind its peers\n\nFans are loud\n\nFinicky touchpad-\n\nSince the introduction of gaming laptops featuring Nvidia’s GeForce RTX 50 Series GPUs earlier this year, most of the review units that we’ve received for testing have skewed towards the high-end. That means laptops with price tags su",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "Us earlier this year, most of the review units that we’ve received for testing have skewed towards the high-end. That means laptops with price tags surpassing $2,000, and at times, $3,000\n. However, not every gamer has a budget that high or wants to spend that much on a laptop.\nThankfully, we’re starting to see less expensive RTX 50 laptops enter the market, including our MSI Katana 17 HX review unit. As its name suggests, the laptop features a large 17-inch display, an Intel Core i7-14650HX processor, an RTX 5070 GPU, 16GB of RAM, and a spacious 1TB SSD. Best of all, the laptop carries a price tag of just $1,300, which is at least in the realm of affordability.\nDesign of the MSI Katana 17 HX\nGiven the $1,300 price point, I expected MSI to skimp on the quality of the chassis and use thin, ",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "lm of affordability.\nDesign of the MSI Katana 17 HX\nGiven the $1,300 price point, I expected MSI to skimp on the quality of the chassis and use thin, low-quality plastics to save costs. However, I was pleasantly surprised as soon as I lifted the Katana 17 HX out of the box. The plastics feel thick and premium, with minimal flex or deformation when pressed hard. For example, the lids on some entry-level laptops twist with ease due to the thin plastic, or the keyboard deck bows inward with a strong finger push – the Katana 17 HX was minimally impacted. The display hinge is strong and stiff, with minimal wobble.\n\nMSI jazzed up the laptop’s design by molding its logo in the top center of the lid and including an interesting dot matrix motif that wraps around the edge of the lid and chassis (it",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "n by molding its logo in the top center of the lid and including an interesting dot matrix motif that wraps around the edge of the lid and chassis (it is also visible at the top of the keyboard deck). The dot matrix pattern is especially noticeable when light hits the thin strips at just the right angle.\n\nThe lid and keyboard deck feature a smooth, palm-friendly finish, while the lower chassis has a slightly textured finish. The other noticeable design flourish, which you won’t see very often, are honeycomb-style ventilation slits on the bottom of the chassis.\nWhile I like the overall design of the Katana 17 HX, I’m not a fan of the faux flat-head screws that dot the keyboard deck. There are four below the keyboard and two above the keyboard. I’m sure that MSI included them to give it an i",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "-head screws that dot the keyboard deck. There are four below the keyboard and two above the keyboard. I’m sure that MSI included them to give it an industrial feel, but it just comes off as cheap and tacky in person.\n\nThere are plenty of ports. On the right side, there’s Gigabit LAN, HDMI 2.1, one USB 3.2 Gen 2 Type-A, one USB 3.2 Gen 2 Type-C, and a 3.5 mm headphone jack. The left side is less populated, featuring two additional USB 3.2 Gen 2 Type-A ports and a proprietary barrel-style power port.\nGiven its 17-inch display, the Katana 17 HX is a hulking machine. It measures 15.66 x 10.85 x 1.09 inches and weighs 5.95 pounds. For comparison, the\nGigabyte G6X\nis 14.21 x 10.19 x 1.13 inches and weighs 5.64 pounds. The\nLenovo Legion Pro 5i (Gen 9)\nweighs 5.51 pounds and measures 14.3 x 10.25",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": " the\nGigabyte G6X\nis 14.21 x 10.19 x 1.13 inches and weighs 5.64 pounds. The\nLenovo Legion Pro 5i (Gen 9)\nweighs 5.51 pounds and measures 14.3 x 10.25 x 1.05 inches. Finally, the\nGigabyte Aorus 16X\ncomes in at 5.07 pounds with dimensions of 14.02 x 10 x 1.06 inches.\nMSI Katana 17 HX Specifications\n\nIntel Core i7 14650HX\nNvidia GeForce RTX 5070 Laptop GPU (8GB GDDR7, 115W max graphics power)\n16GB DDR5-5600 (2x 8GB)\n1TB PCIe 4.0 NVMe SSD\n17.3-inch, 1920 x 1080, IPS, 16:9, 144 Hz,\nNetworking\nIntel Wi-Fi 6E (AX211), Bluetooth 5.3\n1x USB 3.2 Gen 2 Type-C, 3x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5 mm audio jack, Gigabit Ethernet\nPower Adapter\nOperating System\nWindows 11 Home\nDimensions (WxDxH)\n15.66 x 10.85 x 1.09 inches\n5.95 pounds\nPrice (as configured)\nGaming Performance on the MSI Katana 17 HX\nO",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "g System\nWindows 11 Home\nDimensions (WxDxH)\n15.66 x 10.85 x 1.09 inches\n5.95 pounds\nPrice (as configured)\nGaming Performance on the MSI Katana 17 HX\nOur Katana 17 HX review unit features an Intel Core i7-14650HX processor, 16GB of DDR5-5600 (2x 8GB), an RTX 5070 (115W TDP), and a 1080p display. As for the competition, we have the Gigabyte G6X (Core i7 13650HX, 32GB DDR5-4800, 105W RTX 4060, 1200p), Gigabyte Aorus 16X (Core i7-14650HX, 32GB DDR5-5600, 140W RTX 4060, 1600p), and the Lenovo Legion Pro 5i (Core i7-14650HX, 16GB DDR5-5600, 105W RTX 4060, 1600p).\nI played about an hour of\nIndiana Jones and the Great Circle\non the Katana 17 HX. I kept the in-game frame counter enabled so that I could monitor performance at a glance while gaming. At 1080p resolution with the Ultra preset, I averag",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "pt the in-game frame counter enabled so that I could monitor performance at a glance while gaming. At 1080p resolution with the Ultra preset, I averaged between 70 and 90 frames per second (fps), depending on the amount of action on-screen.\nThe Katana 17 HX features a 1080p display, while the G6X has a 1200p display. The Legion Pro 5i and Aorus 16X have 1600p displays. Our benchmark analysis will focus solely on 1080p performance for competitive purposes. Starting with\nShadow of the Tomb Raider\n(Highest settings), the Katana 17 HX shot to the top of the charts with 119 frames per second. The Aorus 16X was the next-closest competitor at 114 fps.\n\n(Ultra settings) is a more CPU-limited benchmark, focusing on single-core performance, which resulted in a tighter spread between the laptops. The",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 7
+  },
+  {
+    "text": "s.\n\n(Ultra settings) is a more CPU-limited benchmark, focusing on single-core performance, which resulted in a tighter spread between the laptops. The Katana 17 HX actually gave up quite a bit of ground to the Aorus 16X (94 fps versus 103 fps). The two systems both use the same CPU, so it’s likely that the difference is attributable to the RTX 4060 in the Aorus 16X operating with a 140W TDP versus just 115W for the RTX 5070 in the Katana 17 HX.\nWe switched to our\nCyberpunk 2077\nbenchmark (Medium settings) and saw the biggest loss so far for the Katana 17 HX. The laptop managed 39 fps at 1080p, putting it on even footing with the Aorus 16X. However, the Legion Pro 5i blazed past all competitors at 61 fps.\nRed Dead Redemption 2\n(Medium settings) saw the largest generational GPU performance i",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 8
+  },
+  {
+    "text": "wever, the Legion Pro 5i blazed past all competitors at 61 fps.\nRed Dead Redemption 2\n(Medium settings) saw the largest generational GPU performance improvement for the RTX 5070 in the Katana 17 HX. The laptop delivered 85 fps, giving it a 17-fps advantage over the second-place G15 (5530) (68 fps).\nBorderlands 3\nbenchmark (Badass settings) saw the Katana 17 HX again take a commanding lead, maintaining a 12-fps advantage over the Aorus 16X. The Legion Pro 5i came in third place at 69 fps.\nMetro Exodus\nto stress test gaming laptops, running the RTX benchmark through 15 loops at an average of 74.69 fps. The performance cores averaged 2.8 GHz, while the efficiency cores averaged 1.73 GHz.\nProductivity Performance on the MSI Katana 17 HX\nOur review unit features a Core i7-14650HX processor, 16G",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 9
+  },
+  {
+    "text": "ile the efficiency cores averaged 1.73 GHz.\nProductivity Performance on the MSI Katana 17 HX\nOur review unit features a Core i7-14650HX processor, 16GB of DDR5-5600 memory, and a Micron 2500 1TB PCIe 4.0 SSD. As you’ll see in the following\nbenchmarks\n, this hardware combination proved to be quite formidable in our productivity suite.\nIn the Geekbench 6 synthetic CPU benchmark, the Katana 17 HX scored 2,794 on the single test, putting it slightly ahead of the next-fastest Legion Pro 5i (2,723). Those fortunes were flipped, however, in the multi-core test, where the Katana 17 HX scored 13,570 versus 15,708 for the Aorus 16X.\n\nOur file transfer test copies 25 GB of mixed media files, after which we measure the transfer speed based on the time it takes to complete the operation. The Katana 17 ",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 10
+  },
+  {
+    "text": "test copies 25 GB of mixed media files, after which we measure the transfer speed based on the time it takes to complete the operation. The Katana 17 HX came in last place, achieving 1,224.05 Mbps, compared to 1500.98 Mbps for the Aorus 16X and 1,919.1 Mbps for the Legion Pro 5i.\nNext, our Handbrake test transcodes a 4K video file to 1080p, and the Katana 17 HX came in third place, completing the test in 4 minutes and 30 seconds. The Legion Pro 5i grabbed first place (3:32), while the Aorus 16X finished in second place (3:40).\nDisplay on the MSI Katana 17 HX\nThe Katana 17 HX features a large 17.3-inch IPS display, but don’t get too excited yet. The resolution is just 1920 x 1080, a result of its budget-oriented roots. While higher-spec versions of the Katana 17 HX are available with a 2560",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 11
+  },
+  {
+    "text": "t. The resolution is just 1920 x 1080, a result of its budget-oriented roots. While higher-spec versions of the Katana 17 HX are available with a 2560 x 1440 display, you’ll pay a bit more for that luxury.\n\nThe refresh rate maxes out at 144 Hz, instead of the 240 Hz found on the QHD versions of the laptop. However, the cost-cutting doesn’t end there. The panel doesn’t display realistic colors; For example, I watched a few videos of nature scenes on YouTube, and flowers that should have looked bright red instead were marred by a brownish-orange tint. Likewise, blue waters skewed more towards gray, which was a bit off-putting. These color variances also extended to games, where car colors in\nForza Horizon 5\nlooked muted. Character costumes in\nMarvel’s Guardians of the Galaxy\ndidn’t strictly ",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 12
+  },
+  {
+    "text": "nces also extended to games, where car colors in\nForza Horizon 5\nlooked muted. Character costumes in\nMarvel’s Guardians of the Galaxy\ndidn’t strictly adhere to the color tones seen in pricier laptop panels.\nMy real-world observations were confirmed by our instrumented tests, which showed 46.6 percent coverage of DCI-P3 and 65.7 percent of sRGB – both were near the back of the pack in this assembly of laptops. Brightness was also a sore point, registering just 230 nits on our light meter, placing it well in last place behind the next closest G6X at 325 nits.\nKeyboard and Touchpad on the MSI Katana 17 HX\nThe Katana 17 HX uses a full-size keyboard with 1.7 mm of key travel and includes a full number pad (which I prefer for quick number entries in Excel and when using the calculator). There is",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 13
+  },
+  {
+    "text": "rd with 1.7 mm of key travel and includes a full number pad (which I prefer for quick number entries in Excel and when using the calculator). There is nothing particularly remarkable about the keyboard, although MSI does spruce things up by giving the Power and WASD keys a translucent look. Speaking of the keys, there’s a four-zone “Mystic Light” layout that can be customized using the MSI Center utility.\n\nkeyhero.com\ntyping test, I achieved 89 words per minute with 94 percent accuracy, which is about average for me. I’m not the fastest typist on the planet, and I didn’t feel that the keyboard hindered me in any way.\nHowever, I couldn’t say the same for the touchpad, which measures 4.7 x 2.9 inches in size. When I first tried to use the touchpad, I had trouble getting taps and clicks to re",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 14
+  },
+  {
+    "text": "he same for the touchpad, which measures 4.7 x 2.9 inches in size. When I first tried to use the touchpad, I had trouble getting taps and clicks to register. Pressing directly in the center of the touchpad seemed to work, as did the extreme corners. However, pressing anywhere else would result in a delayed response or no response at all.\nI went to the Touchpad settings in the Control Panel and saw that the touchpad sensitivity was set to Medium, which is my preferred setting. Adjusting the setting to High sensitivity mostly solved my issues, although I did find myself, on occasion, needing to frustratingly click multiple times to register a button press.\nAudio on the MSI Katana 17 HX\nMSI outfitted the Katana 17 HX with a pair of 2-watt speakers (mounted in the bottom front corners of the c",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 15
+  },
+  {
+    "text": "utton press.\nAudio on the MSI Katana 17 HX\nMSI outfitted the Katana 17 HX with a pair of 2-watt speakers (mounted in the bottom front corners of the chassis), which are merely adequate. I fired up Toto’s “99”, which is firmly in yacht rock territory – not that there’s anything wrong with that. The electric keyboard and piano sounded lively, but the vocals had a somewhat hollow and echo-infused quality, as if the band was singing in an empty bathroom. I would have also liked a hint more of bass to get the most enjoyment out of the\nGiven the chassis's massive size, I would have preferred that MSI had found room to fit two additional speakers at the rear of the system.\nUpgradeability on the MSI Katana 17 HX\nThe bottom panel on the Katana 17 HX is accessible after removing 12 small Phillips sc",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 16
+  },
+  {
+    "text": " the rear of the system.\nUpgradeability on the MSI Katana 17 HX\nThe bottom panel on the Katana 17 HX is accessible after removing 12 small Phillips screws. After removing the screws, you can use just your fingers to pry the bottom panel from the main chassis.\n\nOnce inside, you’ll notice the large 75 Whr battery at the bottom center of the chassis and a large plastic shield between the two internal fans. Two SO-DIMM slots lay under the shield, both of which were filled with 8GB DDR5-5600 modules.\nYou’ll also find a single M.2 storage slot, which is populated with a 1TB Micron 2500 PCIe 4.0 SSD. There’s another M.2 slot, but it’s reserved for the Wi-Fi card, specifically an Intel AX211 Wi-Fi 6E/Bluetooth 5.3 module.\nBattery Life on the MSI Katana 17 HX\nMSI infused the Katana 17 HX with a 75 ",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 17
+  },
+  {
+    "text": "he Wi-Fi card, specifically an Intel AX211 Wi-Fi 6E/Bluetooth 5.3 module.\nBattery Life on the MSI Katana 17 HX\nMSI infused the Katana 17 HX with a 75 Whr four-cell battery that is recharged using a 240-watt power adapter with a proprietary barrel-style plug. Even with the HX series processor and RTX 4070 under the hood, the laptop still managed to offer healthy endurance.\n\nOur battery life benchmark features web browsing, light graphics work, and video streaming while connected to Wi-Fi with display brightness set to 150 nits. The Katana 17 HX lasted 6 hours and 21 minutes during the test, besting all competitors.\nHeat on the MSI Katana 17 HX\nWe measured heat levels on the Katana 17 HX during the\nMetro Exodus\nstress test. The highest temperature recorded was 115 F near the mute button. The",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 18
+  },
+  {
+    "text": "\nWe measured heat levels on the Katana 17 HX during the\nMetro Exodus\nstress test. The highest temperature recorded was 115 F near the mute button. The next-hottest touchpoint was between the G and H keys, where it registered 103.2 F. The touchpad remained a relatively cool 77.3 F, while the underside was 99.9 F. At no time was the bottom of the chassis too hot to sit on my lap while wearing shorts.\n\nHowever, the internal fans noticeably increased in speed when playing games. The sound was grating enough that I opted to put on my headphones when gaming, and you'd be well advised to try a pair of the\nbest gaming headsets\nfor the best possible playing experience.\nDuring the stress test, the CPU package measured 70.4 degrees Celsius. Meanwhile, the RTX 5070 ran at an average of 1.8 GHz at 72.2",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 19
+  },
+  {
+    "text": "laying experience.\nDuring the stress test, the CPU package measured 70.4 degrees Celsius. Meanwhile, the RTX 5070 ran at an average of 1.8 GHz at 72.2 C.\nWebcam on the MSI Katana 17 HX\nAt a time when most laptops have transitioned to at least a 1080p webcam, MSI is sticking with an old-school 720p unit on the Katana 17 HX. To put it bluntly, the image quality for images and video was subpar, with photos appearing somewhat blurry and exhibiting poor color reproduction.\nIt’s challenging to justify using a 720p webcam in today’s market, as even laptops priced under $999 have transitioned to 1080p units. It’s even more indefensible at the Katana 17 HX’s $1,299 price point.\nSoftware and Warranty on the MSI Katana 17 HX\nThe Katana 17 HX comes with several apps installed, most of which I could do",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 20
+  },
+  {
+    "text": "17 HX’s $1,299 price point.\nSoftware and Warranty on the MSI Katana 17 HX\nThe Katana 17 HX comes with several apps installed, most of which I could do without. The MSI App Player is an emulator for Android apps. With it, you can install Android games or regular apps on your\nWindows 11\nPC and run them. Although I can’t think of a usage case where using Android apps on Windows would improve my workflow, it might be beneficial for others.\nMSI Center is a comprehensive app that allows you to monitor system vitals, manage RGB effects with Mystic Light, perform firmware updates, and update software components within the app.\nThe Nahimic audio utility offers several audio profiles (Music, Movie, Communication, Gaming, and Smart) to cater to your diverse media needs. I tried playing around with th",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 21
+  },
+  {
+    "text": "ty offers several audio profiles (Music, Movie, Communication, Gaming, and Smart) to cater to your diverse media needs. I tried playing around with the different modes, but didn’t notice much of an improvement (or any notable differences) between them.\nFinally, Norton 360 for Gamers is an antivirus suite that is preinstalled as a 30-day trial on the Katana 17 HX.\nMSI Katana 17 HX Configurations\nThe Katana 17 HX is available in three basic configurations: B14WGK, B14WFK, and B14WEK. The B14WGK, which we tested, is available with up to a Core i9 HX processor, up to 96GB DDR5 memory, up to a 17.3-inch QHD display, and an RTX 5070 GPU. The B14WFK and B14WEK differ by offering the RTX 5060 and RTX 5050, respectively.\nOur B14WGK review unit came with a Core i7 14650HX processor, 16GB of DDR5-560",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 22
+  },
+  {
+    "text": " and B14WEK differ by offering the RTX 5060 and RTX 5050, respectively.\nOur B14WGK review unit came with a Core i7 14650HX processor, 16GB of DDR5-5600 (2x 8GB SO-DIMMs), a 1TB PCIe 4.0 SSD, and a 144 Hz 17.3-inch 1080p IPS display. The system carries an MSRP of $1,299. Currently, pricing is not yet available for the other configurations.\nBottom Line\nMSI has strong basic building blocks with the Katana 17 HX. The Intel Core i7-14650HX remains a strong processor in this market segment, and the RTX 5070 enabled the laptop to excel in gaming benchmarks at its native 1080p resolution. However, it was occasionally topped by systems with a 140W RTX 4060. Additionally, the finishing pieces on the laptop leave much to be desired. The IPS display is dim, the speakers are mediocre, and the 720p webc",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 23
+  },
+  {
+    "text": " 4060. Additionally, the finishing pieces on the laptop leave much to be desired. The IPS display is dim, the speakers are mediocre, and the 720p webcam is a throwback to 2019. I also had some issues with the touchpad, but that gripe was mostly solved with a settings tweak.\nAt $1,299, the Katana 17 HX offers a lot of bang for the buck if you’re only looking for affordable performance. However, it may be prudent to take a wait-and-see approach as additional affordable RTX 5070 laptops become available on the market, offering a better overall package. The Legion Pro 5i (Gen 9) is also a solid alternative at the same $1,300 price point, and it features a higher-quality 1600p display.\n\nSee all comments (6)\n\nBrandon Hill\nSenior Editor\nBrandon Hill is a senior editor at Tom's Hardware. He has wr",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 24
+  },
+  {
+    "text": "eatures a higher-quality 1600p display.\n\nSee all comments (6)\n\nBrandon Hill\nSenior Editor\nBrandon Hill is a senior editor at Tom's Hardware. He has written about PC and Mac tech since the late 1990s with bylines at AnandTech, DailyTech, and Hot Hardware. When he is not consuming copious amounts of tech news, he can be found enjoying the NC mountains or the beach with his wife and two sons.\n\n6 Comments\n\nComment from the forums",
+    "source": "msi_katana_17_hx.txt",
+    "chunk_index": 25
+  },
+  {
+    "text": "Title: Microsoft Surface Pro (11th Edition) Review: Great, but is it $1,949 great?\nSource: https://www.laptopmag.com/reviews/microsoft-surface-pro-11th-edition\n\nMicrosoft Surface Pro (11th Edition) Review\n\nPrice: Starting at $999; reviewed configuration $1,949 (with keyboard)\n\nSpecifications:\n- Processor: Snapdragon X Elite X1E-80-100\n- RAM: 16GB\n- Storage: 512GB SSD\n- Display: 13-inch OLED, 2,880 x 1,920p, 120Hz\n- Battery: 12 hours 11 minutes (tested)\n- Weight: 2 pounds (tablet only); 2.7 pounds (with keyboard)\n- Dimensions: 11.3 x 8.2 x 0.37 inches\n\nThe Surface Pro 11th Edition is closer to a tablet like the iPad, with the only major difference being that it runs a desktop operating system. At 0.37 inches thick and 2 pounds for the tablet alone, it is considerably thinner and lighter tha",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "ence being that it runs a desktop operating system. At 0.37 inches thick and 2 pounds for the tablet alone, it is considerably thinner and lighter than traditional laptops. The build quality is premium with a magnesium and aluminum chassis. The integrated kickstand provides flexible viewing angles.\n\nThe device features a bright, vibrant OLED panel with exceptional performance. In color reproduction tests, it achieved 115% DCI-P3 coverage, which is outstanding and far better than most laptop displays. Brightness reached 564 nits, well above mainstream averages. Even during the dimmest moments of video content, the display's high nits make the scene easily visible. The 120Hz refresh rate ensures smooth scrolling and animations. This is one of the best displays you can find on any portable de",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "scene easily visible. The 120Hz refresh rate ensures smooth scrolling and animations. This is one of the best displays you can find on any portable device.\n\nPerformance:\nThe Snapdragon X Elite processor delivers impressive results. The Geekbench 6.3 multi-core score reached 14,432, outpacing many competitors with Intel processors. Video conversion via HandBrake completed in 5 minutes 21 seconds. SSD write speeds of 1,001 Mbps slightly lagged behind the competitor average of 1,152 Mbps. Overall, the ARM-based Snapdragon chip provides excellent performance for productivity tasks, web browsing, and content consumption.\n\nBattery Life:\nThe Surface Pro achieved 12 hours and 11 minutes in testing, which the reviewer called an incredible number. This exceeds the 10-hour category average and surpas",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": " Pro achieved 12 hours and 11 minutes in testing, which the reviewer called an incredible number. This exceeds the 10-hour category average and surpasses direct competitors by over an hour. The Snapdragon processor's efficiency plays a major role in this impressive battery endurance, making it a true all-day device.\n\nKeyboard and Trackpad:\nThe Surface Pro Flex keyboard is sold separately, adding significant cost to the total package. The reviewer found the keys hollow and lacking clickiness. The trackpad proved problematic with barely a recognizable difference between clicking down and not clicking. When disconnected from the tablet, the keyboard exhibited significant friction issues. This is the biggest weakness of the Surface Pro and a disappointing compromise for a device at this price ",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "oard exhibited significant friction issues. This is the biggest weakness of the Surface Pro and a disappointing compromise for a device at this price point.\n\nThe speakers deliver punchy, clear sound that performs well for a device this thin. They handle both music and video content admirably, with better bass response than expected from such a slim form factor.\n\nPort selection is limited: two USB-C/Thunderbolt 4 ports and a Surface Connect port for charging. There is no USB-A, no HDMI, and no headphone jack. Users will need dongles or hubs for most peripheral connections. The lack of a headphone jack is particularly notable.\n\nWindows 11 with Copilot+ features including AI-powered tools. The Snapdragon platform supports most Windows applications through emulation, though some specialized so",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "Copilot+ features including AI-powered tools. The Snapdragon platform supports most Windows applications through emulation, though some specialized software may have compatibility issues.\n\n- Great performance from Snapdragon X Elite processor\n- Gorgeous 13-inch OLED display with 115% DCI-P3 coverage\n- Sturdy and thin form factor at just 2 pounds\n- Solid speakers with impressive output for the size\n- Superb battery life exceeding 12 hours\n- Premium build quality with magnesium and aluminum\n\n- Shallow keyboard with poor tactile feedback\n- Poor trackpad with inconsistent click feel\n- Limited port selection with no USB-A or headphone jack\n- Expensive when factoring in keyboard accessory cost\n- Essentially a glorified tablet running Windows 11\n\nThe Microsoft Surface Pro 11th Edition is excellen",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "sive when factoring in keyboard accessory cost\n- Essentially a glorified tablet running Windows 11\n\nThe Microsoft Surface Pro 11th Edition is excellent in many regards, but it is hard to recommend at its cost when other devices provide a comparable full laptop for considerably less than this $2,000 price tag. If you are OK with spending that much on what is effectively a tablet running Windows 11, the Surface Pro boasts a stunning OLED panel, excellent performance metrics, long-lasting battery life, and a punchy speaker system. However, the keyboard and trackpad experience significantly detracts from the overall package, and the limited ports require constant adapter use.",
+    "source": "surface_pro_11.txt",
+    "chunk_index": 6
+  }
+]

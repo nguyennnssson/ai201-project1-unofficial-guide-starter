@@ -1,0 +1,228 @@
+Title: MSI Katana 17 HX gaming laptop review: 1080p gaming with Nvidia’s RTX 5070
+Source: https://www.tomshardware.com/laptops/gaming-laptops/msi-katana-17-hx-gaming-laptop-review
+
+Tom's Hardware Verdict
+
+
+
+
+
+
+
+The Katana 17 HX’s underlying hardware is solid with strong performance at a decent price, but the system needs a bit more polish.
+
+
+Pros
+
+Competitive 1080p gaming performance
+
+Attractive pricing
+
+Class-competitive battery life
+
+Cons
+
+Display is dim and not as vibrant as competing laptops
+
+Productivity performance falls behind its peers
+
+Fans are loud
+
+Finicky touchpad-
+
+Why you can trust Tom's Hardware
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.
+Find out more about how we test
+
+Since the introduction of gaming laptops featuring Nvidia’s GeForce RTX 50 Series GPUs earlier this year, most of the review units that we’ve received for testing have skewed towards the high-end. That means laptops with price tags surpassing $2,000, and at times, $3,000
+or more
+. However, not every gamer has a budget that high or wants to spend that much on a laptop.
+Thankfully, we’re starting to see less expensive RTX 50 laptops enter the market, including our MSI Katana 17 HX review unit. As its name suggests, the laptop features a large 17-inch display, an Intel Core i7-14650HX processor, an RTX 5070 GPU, 16GB of RAM, and a spacious 1TB SSD. Best of all, the laptop carries a price tag of just $1,300, which is at least in the realm of affordability.
+Design of the MSI Katana 17 HX
+Given the $1,300 price point, I expected MSI to skimp on the quality of the chassis and use thin, low-quality plastics to save costs. However, I was pleasantly surprised as soon as I lifted the Katana 17 HX out of the box. The plastics feel thick and premium, with minimal flex or deformation when pressed hard. For example, the lids on some entry-level laptops twist with ease due to the thin plastic, or the keyboard deck bows inward with a strong finger push – the Katana 17 HX was minimally impacted. The display hinge is strong and stiff, with minimal wobble.
+Latest Videos From
+MSI jazzed up the laptop’s design by molding its logo in the top center of the lid and including an interesting dot matrix motif that wraps around the edge of the lid and chassis (it is also visible at the top of the keyboard deck). The dot matrix pattern is especially noticeable when light hits the thin strips at just the right angle.
+
+
+(Image credit: Tom's Hardware)
+The lid and keyboard deck feature a smooth, palm-friendly finish, while the lower chassis has a slightly textured finish. The other noticeable design flourish, which you won’t see very often, are honeycomb-style ventilation slits on the bottom of the chassis.
+While I like the overall design of the Katana 17 HX, I’m not a fan of the faux flat-head screws that dot the keyboard deck. There are four below the keyboard and two above the keyboard. I’m sure that MSI included them to give it an industrial feel, but it just comes off as cheap and tacky in person.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+There are plenty of ports. On the right side, there’s Gigabit LAN, HDMI 2.1, one USB 3.2 Gen 2 Type-A, one USB 3.2 Gen 2 Type-C, and a 3.5 mm headphone jack. The left side is less populated, featuring two additional USB 3.2 Gen 2 Type-A ports and a proprietary barrel-style power port.
+Given its 17-inch display, the Katana 17 HX is a hulking machine. It measures 15.66 x 10.85 x 1.09 inches and weighs 5.95 pounds. For comparison, the
+Gigabyte G6X
+is 14.21 x 10.19 x 1.13 inches and weighs 5.64 pounds. The
+Lenovo Legion Pro 5i (Gen 9)
+weighs 5.51 pounds and measures 14.3 x 10.25 x 1.05 inches. Finally, the
+Gigabyte Aorus 16X
+comes in at 5.07 pounds with dimensions of 14.02 x 10 x 1.06 inches.
+MSI Katana 17 HX Specifications
+Swipe to scroll horizontally
+CPU
+Intel Core i7 14650HX
+Graphics
+Nvidia GeForce RTX 5070 Laptop GPU (8GB GDDR7, 115W max graphics power)
+Memory
+16GB DDR5-5600 (2x 8GB)
+Storage
+1TB PCIe 4.0 NVMe SSD
+Display
+17.3-inch, 1920 x 1080, IPS, 16:9, 144 Hz,
+Networking
+Intel Wi-Fi 6E (AX211), Bluetooth 5.3
+Ports
+1x USB 3.2 Gen 2 Type-C, 3x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5 mm audio jack, Gigabit Ethernet
+Camera
+720p
+Battery
+75 Whr
+Power Adapter
+240 W
+Operating System
+Windows 11 Home
+Dimensions (WxDxH)
+15.66 x 10.85 x 1.09 inches
+Weight
+5.95 pounds
+Price (as configured)
+$1,299.99
+Gaming Performance on the MSI Katana 17 HX
+Our Katana 17 HX review unit features an Intel Core i7-14650HX processor, 16GB of DDR5-5600 (2x 8GB), an RTX 5070 (115W TDP), and a 1080p display. As for the competition, we have the Gigabyte G6X (Core i7 13650HX, 32GB DDR5-4800, 105W RTX 4060, 1200p), Gigabyte Aorus 16X (Core i7-14650HX, 32GB DDR5-5600, 140W RTX 4060, 1600p), and the Lenovo Legion Pro 5i (Core i7-14650HX, 16GB DDR5-5600, 105W RTX 4060, 1600p).
+I played about an hour of
+Indiana Jones and the Great Circle
+on the Katana 17 HX. I kept the in-game frame counter enabled so that I could monitor performance at a glance while gaming. At 1080p resolution with the Ultra preset, I averaged between 70 and 90 frames per second (fps), depending on the amount of action on-screen.
+The Katana 17 HX features a 1080p display, while the G6X has a 1200p display. The Legion Pro 5i and Aorus 16X have 1600p displays. Our benchmark analysis will focus solely on 1080p performance for competitive purposes. Starting with
+Shadow of the Tomb Raider
+(Highest settings), the Katana 17 HX shot to the top of the charts with 119 frames per second. The Aorus 16X was the next-closest competitor at 114 fps.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Far Cry 6
+(Ultra settings) is a more CPU-limited benchmark, focusing on single-core performance, which resulted in a tighter spread between the laptops. The Katana 17 HX actually gave up quite a bit of ground to the Aorus 16X (94 fps versus 103 fps). The two systems both use the same CPU, so it’s likely that the difference is attributable to the RTX 4060 in the Aorus 16X operating with a 140W TDP versus just 115W for the RTX 5070 in the Katana 17 HX.
+We switched to our
+Cyberpunk 2077
+benchmark (Medium settings) and saw the biggest loss so far for the Katana 17 HX. The laptop managed 39 fps at 1080p, putting it on even footing with the Aorus 16X. However, the Legion Pro 5i blazed past all competitors at 61 fps.
+Red Dead Redemption 2
+(Medium settings) saw the largest generational GPU performance improvement for the RTX 5070 in the Katana 17 HX. The laptop delivered 85 fps, giving it a 17-fps advantage over the second-place G15 (5530) (68 fps).
+Our
+Borderlands 3
+benchmark (Badass settings) saw the Katana 17 HX again take a commanding lead, maintaining a 12-fps advantage over the Aorus 16X. The Legion Pro 5i came in third place at 69 fps.
+We use
+Metro Exodus
+to stress test gaming laptops, running the RTX benchmark through 15 loops at an average of 74.69 fps. The performance cores averaged 2.8 GHz, while the efficiency cores averaged 1.73 GHz.
+Productivity Performance on the MSI Katana 17 HX
+Our review unit features a Core i7-14650HX processor, 16GB of DDR5-5600 memory, and a Micron 2500 1TB PCIe 4.0 SSD. As you’ll see in the following
+benchmarks
+, this hardware combination proved to be quite formidable in our productivity suite.
+In the Geekbench 6 synthetic CPU benchmark, the Katana 17 HX scored 2,794 on the single test, putting it slightly ahead of the next-fastest Legion Pro 5i (2,723). Those fortunes were flipped, however, in the multi-core test, where the Katana 17 HX scored 13,570 versus 15,708 for the Aorus 16X.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Our file transfer test copies 25 GB of mixed media files, after which we measure the transfer speed based on the time it takes to complete the operation. The Katana 17 HX came in last place, achieving 1,224.05 Mbps, compared to 1500.98 Mbps for the Aorus 16X and 1,919.1 Mbps for the Legion Pro 5i.
+Next, our Handbrake test transcodes a 4K video file to 1080p, and the Katana 17 HX came in third place, completing the test in 4 minutes and 30 seconds. The Legion Pro 5i grabbed first place (3:32), while the Aorus 16X finished in second place (3:40).
+Display on the MSI Katana 17 HX
+The Katana 17 HX features a large 17.3-inch IPS display, but don’t get too excited yet. The resolution is just 1920 x 1080, a result of its budget-oriented roots. While higher-spec versions of the Katana 17 HX are available with a 2560 x 1440 display, you’ll pay a bit more for that luxury.
+
+
+(Image credit: Tom's Hardware)
+The refresh rate maxes out at 144 Hz, instead of the 240 Hz found on the QHD versions of the laptop. However, the cost-cutting doesn’t end there. The panel doesn’t display realistic colors; For example, I watched a few videos of nature scenes on YouTube, and flowers that should have looked bright red instead were marred by a brownish-orange tint. Likewise, blue waters skewed more towards gray, which was a bit off-putting. These color variances also extended to games, where car colors in
+Forza Horizon 5
+looked muted. Character costumes in
+Marvel’s Guardians of the Galaxy
+didn’t strictly adhere to the color tones seen in pricier laptop panels.
+My real-world observations were confirmed by our instrumented tests, which showed 46.6 percent coverage of DCI-P3 and 65.7 percent of sRGB – both were near the back of the pack in this assembly of laptops. Brightness was also a sore point, registering just 230 nits on our light meter, placing it well in last place behind the next closest G6X at 325 nits.
+Keyboard and Touchpad on the MSI Katana 17 HX
+The Katana 17 HX uses a full-size keyboard with 1.7 mm of key travel and includes a full number pad (which I prefer for quick number entries in Excel and when using the calculator). There is nothing particularly remarkable about the keyboard, although MSI does spruce things up by giving the Power and WASD keys a translucent look. Speaking of the keys, there’s a four-zone “Mystic Light” layout that can be customized using the MSI Center utility.
+
+
+(Image credit: Tom's Hardware)
+Using the
+keyhero.com
+typing test, I achieved 89 words per minute with 94 percent accuracy, which is about average for me. I’m not the fastest typist on the planet, and I didn’t feel that the keyboard hindered me in any way.
+However, I couldn’t say the same for the touchpad, which measures 4.7 x 2.9 inches in size. When I first tried to use the touchpad, I had trouble getting taps and clicks to register. Pressing directly in the center of the touchpad seemed to work, as did the extreme corners. However, pressing anywhere else would result in a delayed response or no response at all.
+I went to the Touchpad settings in the Control Panel and saw that the touchpad sensitivity was set to Medium, which is my preferred setting. Adjusting the setting to High sensitivity mostly solved my issues, although I did find myself, on occasion, needing to frustratingly click multiple times to register a button press.
+Audio on the MSI Katana 17 HX
+MSI outfitted the Katana 17 HX with a pair of 2-watt speakers (mounted in the bottom front corners of the chassis), which are merely adequate. I fired up Toto’s “99”, which is firmly in yacht rock territory – not that there’s anything wrong with that. The electric keyboard and piano sounded lively, but the vocals had a somewhat hollow and echo-infused quality, as if the band was singing in an empty bathroom. I would have also liked a hint more of bass to get the most enjoyment out of the
+audio
+system.
+Given the chassis's massive size, I would have preferred that MSI had found room to fit two additional speakers at the rear of the system.
+Upgradeability on the MSI Katana 17 HX
+The bottom panel on the Katana 17 HX is accessible after removing 12 small Phillips screws. After removing the screws, you can use just your fingers to pry the bottom panel from the main chassis.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Once inside, you’ll notice the large 75 Whr battery at the bottom center of the chassis and a large plastic shield between the two internal fans. Two SO-DIMM slots lay under the shield, both of which were filled with 8GB DDR5-5600 modules.
+You’ll also find a single M.2 storage slot, which is populated with a 1TB Micron 2500 PCIe 4.0 SSD. There’s another M.2 slot, but it’s reserved for the Wi-Fi card, specifically an Intel AX211 Wi-Fi 6E/Bluetooth 5.3 module.
+Battery Life on the MSI Katana 17 HX
+MSI infused the Katana 17 HX with a 75 Whr four-cell battery that is recharged using a 240-watt power adapter with a proprietary barrel-style plug. Even with the HX series processor and RTX 4070 under the hood, the laptop still managed to offer healthy endurance.
+
+
+(Image credit: Tom's Hardware)
+Our battery life benchmark features web browsing, light graphics work, and video streaming while connected to Wi-Fi with display brightness set to 150 nits. The Katana 17 HX lasted 6 hours and 21 minutes during the test, besting all competitors.
+Heat on the MSI Katana 17 HX
+We measured heat levels on the Katana 17 HX during the
+Metro Exodus
+stress test. The highest temperature recorded was 115 F near the mute button. The next-hottest touchpoint was between the G and H keys, where it registered 103.2 F. The touchpad remained a relatively cool 77.3 F, while the underside was 99.9 F. At no time was the bottom of the chassis too hot to sit on my lap while wearing shorts.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+However, the internal fans noticeably increased in speed when playing games. The sound was grating enough that I opted to put on my headphones when gaming, and you'd be well advised to try a pair of the
+best gaming headsets
+for the best possible playing experience.
+During the stress test, the CPU package measured 70.4 degrees Celsius. Meanwhile, the RTX 5070 ran at an average of 1.8 GHz at 72.2 C.
+Webcam on the MSI Katana 17 HX
+At a time when most laptops have transitioned to at least a 1080p webcam, MSI is sticking with an old-school 720p unit on the Katana 17 HX. To put it bluntly, the image quality for images and video was subpar, with photos appearing somewhat blurry and exhibiting poor color reproduction.
+It’s challenging to justify using a 720p webcam in today’s market, as even laptops priced under $999 have transitioned to 1080p units. It’s even more indefensible at the Katana 17 HX’s $1,299 price point.
+Software and Warranty on the MSI Katana 17 HX
+The Katana 17 HX comes with several apps installed, most of which I could do without. The MSI App Player is an emulator for Android apps. With it, you can install Android games or regular apps on your
+Windows 11
+PC and run them. Although I can’t think of a usage case where using Android apps on Windows would improve my workflow, it might be beneficial for others.
+MSI Center is a comprehensive app that allows you to monitor system vitals, manage RGB effects with Mystic Light, perform firmware updates, and update software components within the app.
+The Nahimic audio utility offers several audio profiles (Music, Movie, Communication, Gaming, and Smart) to cater to your diverse media needs. I tried playing around with the different modes, but didn’t notice much of an improvement (or any notable differences) between them.
+Finally, Norton 360 for Gamers is an antivirus suite that is preinstalled as a 30-day trial on the Katana 17 HX.
+MSI Katana 17 HX Configurations
+The Katana 17 HX is available in three basic configurations: B14WGK, B14WFK, and B14WEK. The B14WGK, which we tested, is available with up to a Core i9 HX processor, up to 96GB DDR5 memory, up to a 17.3-inch QHD display, and an RTX 5070 GPU. The B14WFK and B14WEK differ by offering the RTX 5060 and RTX 5050, respectively.
+Our B14WGK review unit came with a Core i7 14650HX processor, 16GB of DDR5-5600 (2x 8GB SO-DIMMs), a 1TB PCIe 4.0 SSD, and a 144 Hz 17.3-inch 1080p IPS display. The system carries an MSRP of $1,299. Currently, pricing is not yet available for the other configurations.
+Bottom Line
+MSI has strong basic building blocks with the Katana 17 HX. The Intel Core i7-14650HX remains a strong processor in this market segment, and the RTX 5070 enabled the laptop to excel in gaming benchmarks at its native 1080p resolution. However, it was occasionally topped by systems with a 140W RTX 4060. Additionally, the finishing pieces on the laptop leave much to be desired. The IPS display is dim, the speakers are mediocre, and the 720p webcam is a throwback to 2019. I also had some issues with the touchpad, but that gripe was mostly solved with a settings tweak.
+At $1,299, the Katana 17 HX offers a lot of bang for the buck if you’re only looking for affordable performance. However, it may be prudent to take a wait-and-see approach as additional affordable RTX 5070 laptops become available on the market, offering a better overall package. The Legion Pro 5i (Gen 9) is also a solid alternative at the same $1,300 price point, and it features a higher-quality 1600p display.
+
+See all comments (6)
+
+Brandon Hill
+Senior Editor
+Brandon Hill is a senior editor at Tom's Hardware. He has written about PC and Mac tech since the late 1990s with bylines at AnandTech, DailyTech, and Hot Hardware. When he is not consuming copious amounts of tech news, he can be found enjoying the NC mountains or the beach with his wife and two sons.
+
+6 Comments
+
+Comment from the forums
+
+cknobman
+
+Reply
+
+Narfhead
+
+Reply
+
+cknobman
+
+Reply
+
+Pemalite
+
+Reply

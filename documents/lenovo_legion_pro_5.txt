@@ -1,0 +1,73 @@
+Title: Lenovo Legion Pro 5i Review: Subtle styling, big performance and affordable
+Source: https://www.laptopmag.com/reviews/lenovo-legion-pro-5i-review-subtle-styling-performance-and-price-tag-make-this-a-win
+
+Lenovo Legion Pro 5i (Gen 8) Review
+
+Price: Starting at $1,219.99; Reviewed model $1,449.99
+
+Specifications:
+- CPU: Intel Core i7-13700HX
+- GPU: Nvidia GeForce RTX 4060 (8GB VRAM)
+- RAM: 16GB
+- Storage: 512GB PCIe NVMe SSD
+- Display: 16-inch QHD (2560 x 1600) at 165Hz, 16:10 aspect ratio
+- Dimensions: 14.3 x 10.25 x 0.88-1.05 inches
+- Weight: 5.5 pounds
+
+Display Quality:
+The 16-inch panel reproduced 82.8% of the DCI-P3 color gamut, exceeding the mainstream gaming average of 77.9%. Brightness measured 349 nits, surpassing the 324-nit category average. Thin bezels seem to melt away, creating substantial screen real estate for gaming and entertainment. The QHD resolution at 165Hz provides sharp visuals with smooth motion during gameplay.
+
+Performance Benchmarks:
+- Geekbench 6: 13,634 (exceeds 7,602 average significantly)
+- Assassin's Creed Valhalla (1080p): 103 fps
+- Red Dead Redemption 2 (1080p): 70 fps
+- Borderlands 3 (1080p): 90 fps
+- GTA V (1080p, Very High): 97 fps
+- Handbrake video transcoding: 3 minutes 39 seconds
+- File transfer rate: 1,792.63 MB/s
+
+The gaming performance is excellent across modern titles. The RTX 4060 handles demanding games at 1080p with high frame rates, making it suitable for both casual and competitive gaming.
+
+Battery Life:
+Web surfing: 4 hours 51 minutes, which is below the 6-hour gaming laptop average. Gaming performance was just 48 minutes on battery, indicating users should stay near an outlet if planning gaming sessions. This is the biggest weakness of the laptop.
+
+Keyboard:
+The chiclet-style RGB-backlit keyboard features responsive, quiet keys with excellent bounce suitable for gaming. The reviewer achieved 91 words per minute with 93% accuracy during typing tests. The large deck accommodates bigger hands comfortably. Key travel and tactile feedback are well-tuned for both typing and gaming.
+
+Design:
+Features understated styling with rounded corners and sleek overall design allowing it to blend into office environments. The two-tone Onyx Grey lid and black bottom are complemented by chromed Lenovo and Legion logos. Aggressive air venting along sides and rear supports cooling efficiency. This is a gaming laptop that does not scream gamer, making it appropriate for professional settings.
+
+Touchpad:
+The 4.7 x 3-inch touchpad proved responsive and accurate for navigation, performing Windows 11 gestures smoothly with substantial click feedback. It is well-sized for a gaming laptop.
+
+Audio:
+Described as having solid audio performance across the studio, but the speakers lack bass depth. Music listening revealed hollow audio qualities, particularly with bass-heavy tracks. Gaming spatial audio was solid but suffered similar depth limitations. The speakers are fine for gaming but not for music enjoyment.
+
+Webcam:
+The 1080p FHD camera captures color-accurate images with speedy autofocus, though the reviewer noted grainy images in certain lighting conditions.
+
+Heat Management:
+During normal use, the touchpad measured 74.1 degrees Fahrenheit and the keyboard center reached 89.1 degrees. During gaming, the keyboard center peaked at 101.1 degrees with the underside reaching 125.4 degrees maximum. The cooling system is effective at directing heat away from primary contact points.
+
+Software:
+The Lenovo Vantage app provides user-friendly control for CPU overclocking, RGB lighting, and audio settings. Standard Windows 11 applications included. One-year limited warranty provided.
+
+Ports:
+The Legion Pro 5i has an excellent port selection: two USB 3.2 Type-C ports, four USB 3.2 Type-A ports, 3.5mm audio jack, HDMI 2.1, ethernet, and power connection. This is one of the best port lineups in its class, especially with the inclusion of multiple USB-A ports and a dedicated ethernet port.
+
+Pros:
+- Excellent design and style that blends into office environments
+- Solid specifications for the price under $1,500
+- Immersive 16-inch QHD display with 165Hz refresh rate
+- Responsive and comfortable keyboard
+- Outstanding gaming performance with RTX 4060
+- Comprehensive port selection including USB-A and ethernet
+
+Cons:
+- Subpar audio quality lacking bass depth
+- Grainy webcam performance in certain lighting
+- Poor battery life at under 5 hours for web browsing
+- Heavy at 5.5 pounds
+
+Verdict:
+The Lenovo Legion Pro 5i is a well-designed, subtle office-approved gaming laptop delivering potent performance under $1,500. The combination of Intel Core i7 and Nvidia RTX 4060 provides sufficient power for gaming and productivity tasks. It is a solid choice for those seeking a mid-tier gaming laptop that can also serve as a work machine. The only significant drawbacks are the mediocre battery life and the lackluster speakers.

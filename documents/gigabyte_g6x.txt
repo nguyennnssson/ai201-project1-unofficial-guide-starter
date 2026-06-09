@@ -1,0 +1,228 @@
+Title: Gigabyte G6X gaming laptop review: Competent performance, but no standout features
+Source: https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-g6x-gaming-laptop-review
+
+Tom's Hardware Verdict
+
+
+
+
+
+
+
+At $1,299, the Gigabyte G6X, we expect more from the display and battery endurance.
+
+
+Pros
+
+Attractive and sturdy chassis design
+
+Strong productivity performance
+
+32GB of RAM (2x 16GB) using SO-DIMMs
+
+Cons
+
+Display performance is average
+
+Sub-4-hour battery life
+
+Gaming performance limited by 105-watt RTX 4060
+
+Why you can trust Tom's Hardware
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.
+Find out more about how we test
+
+If you’re looking for an attractively-priced gaming laptop, a wealth of options are currently available. Of course, lowering the pricing barrier means that the Gigabyte G6X uses a 13th-generation Intel Core processor and a lower-end Nvidia GeForce RTX 4060 GPU to hit a $1,299 price point.
+The G6X's primary specs include a 165Hz 16-inch 1920 x 1200 display, a generous 32GB of DDR5-4800 memory, and a 1TB SSD. However, a fair number of compromises prevent the G6X from landing on our coveted
+best gaming laptops under $1,500
+list.
+Design of the Gigabyte G6X
+The G6X is a mid-range gaming laptop, and you won’t find copious amounts of aluminum used in its chassis or lid. Instead, the chassis and lid are made of thick plastic. It gives the laptop a beefy and rugged appearance without feeling cheap.
+Latest Videos From
+The entire exterior of the laptop is finished in a matte black color, but Gigabyte has chosen to give it a bit of flair. The lid has "GIGABYTE" spelled in capital letters, while an "X" is etched into the lower left corner of the lid. The "X" is surrounded by etched graphics -- that same design is mirrored on the left side of the palm rest.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Gigabyte incorporates a single-zone RGB keyboard and a number pad for those who like to use them for data entry (myself included). A smallish touchpad is positioned just off-center below the keyboard.
+Keeping a gaming laptop cool is incredibly important, and Gigabyte provides plenty of vents to exhaust hot air. Three-slot vents are on both sides of the chassis, while two four-slot vents are in the back.
+There are a USB 3.0 Type-A and USB-C port on the left side of the chassis, while another USB 3.0 Type-A port and a 3.5 mm
+audio
+jack are found on the opposite side. On the rear panel, you'll find the proprietary barrel-style input for the power adapter, a full-size Ethernet port, and another USB-C port.
+The G6X measures 14.21 x 10.19 x 1.13 inches and weighs 5.64 pounds. For comparison,
+
+Dell's G15 5530
+weighs  6.19 pounds and measures 14.07 x 10.8 x 1.06 inches. The
+
+Acer Nitro 16
+(5.95 pounds) measures 14.8 x 11.02 x 1.1 inches, while the
+
+MSI Katana 15
+is 14.13 x 10.20 x 0.98 inches and 4.96 pounds.
+Gigabyte G6X Specifications
+Swipe to scroll horizontally
+CPU
+Intel Core i7-13650HX
+Graphics
+Nvidia GeForce RTX 4060 Laptop GPU (8GB GDDR6, 105W max graphics power, 2,370 MHz max boost clock)
+Memory
+32GB DDR5-4800 (2x 16GB)
+Storage
+1TB PCIe 4.0 NVMe SSD
+Display
+16-inch, 1920 x 1200, IPS, 16:10, 165 Hz
+Networking
+Intel Wi-Fi 6E AX211, Bluetooth 5.2
+Ports
+2x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5 mm audio jack, Gigabit Ethernet
+Camera
+1080p, IR
+Battery
+73 WHrs
+Power Adapter
+180 W
+Operating System
+Windows 11 Home
+Dimensions (WxDxH)
+14.21 x 10.19 x 1.13 inches (361 x 259 x 289 mm)
+Weight
+5.64 pounds, 2.5 kg
+Price (as configured)
+$1,299.99
+Gaming Performance on the Gigabyte G6X
+The G6X is powered by an Intel Core i7-13650HX processor, 32GB of DDR5-4800 memory (2x 16GB), and an Nvidia GeForce RTX 4060 (105 watts). The assembled competition includes the Acer Nitro 16 (Ryzen 5 7640HS, 16GB DDR5-5600, 140-watt RTX 4050, 1200p), the
+Dell
+G15 5530 (Core i7-13650HX, 16GB DDR5-4800, 140-watt RTX 4060, 1080p), and the MSI Katana 15 (Core i7-13620H, 16GB DDR5-5200, 105-watt RTX 4050, 1080p).
+One thing to keep in mind before we delve into the gaming
+benchmarks
+is that despite its beefy chassis and adequate cooling, Gigabyte has only fitted the G6X with a GeForce RTX 4060 that is limited to 105 watts. Both the RTX 4050 in the Nitro 16 and the RTX 4060 in the G15 have much higher performance overhead, as they’re rated at 140 watts.
+Despite its age, I still play
+Grand Theft Auto V
+frequently and witnessed performance exceeding 150 frames per second (fps)  with Very High settings at 1080p. Frame rates were consistent in most areas of the game except in areas when massive explosions took place, which saw frame rates briefly dip below 100 fps.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+The first game in our benchmark suite is
+Shadow of the Tomb Raider
+(Highest setting), and the G6X delivered 96 fps at 1080p and dropped to 88 fps at 1200p. This put the laptop comfortably ahead of the Nitro 16 and Katana 15, which came in at 75 fps and 73 fps, respectively. However, the G6X was behind the G15’s 140-watt GeForce RTX 4060, which hit 103 fps at 1080p.
+Cyberpunk 2077
+(Ray Tracing Ultra settings) is one of the newer entries in our gaming suite; thus, the Nitro 16, G15, and Katana 15 were tested before we made the switch. However, the G6X struggled to 32 fps at 1080p and mustered just 29 fps at 1200p.
+Far Cry 6
+(Ultra settings) saw the G6X take a win, averaging 92 fps at 1080p and 87 fps at 1200p. In fact, the G6X scored the same at 1200p as the G15 at 1080p. The Katana 15 and Nitro 16 hit 81 fps and 73 fps, respectively, at 1080p.
+Red Dead Redemption 2
+(Medium settings) saw some shuffling of the rankings and highlights the difference between the 105-watt GPU in the G6X and the 140-watt GPUs in the Nitro 16 and G15. The G6X achieved 63 fps at 1080p and 59 fps at 1200p — this was the same performance (at both resolutions) as the Nitro 16 with its 140-watt GeForce RTX 4050. The Dell won this test with 68 fps at 1080p resolution.
+Finally,
+Borderlands 3
+(Badass setting) saw the G6X score 81 fps at 1080p and 77 fps at 1200p, putting it well ahead of the Nitro 16 and Katana 15. However, the Dell won, delivering 85 fps at 1080p.
+To stress-test gaming laptops, we perform 15 runs of Metro Exodus using the RTX preset. This simulates roughly 30 minutes of gameplay, allowing us to measure performance and heat levels. Throughout the 15 runs, the G6X averaged 69.18 fps, with a minimum frame rate of 35.87 fps and a maximum of 113.71 fps.
+The Core i7-13650HX processor averaged 4.10 GHz across the six performance cores and 3.23 GHz across the eight efficiency cores. The CPU package measured an average of 83.22 degrees Celsius (181.78 degrees Fahrenheit). As for the GeForce RTX 4060, we clocked it at 2.26 GHz and measured an average of 69.08 C (156.34 F).
+Productivity Performance on the Gigabyte G6X
+Our G6X review unit came equipped with an Intel Core i7-13650HX processor, 32GB of DDR5-4800 memory, and a 1TB PCIe 4.0 SSD.
+In the Geekbench 5.5 synthetic CPU benchmark, the G6X (1,833) was just a step behind Nitro 16 in single-core performance (1873). The G15 and Katana 15 weren’t too far behind in single-core performance; however, the G6X blew away the competition in the multi-core benchmark with a score of 14,385.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+The G6X was no slouch regarding SSD performance, as it hit 1,408.34 MBps in our in-house 25GB file transfer tests, which was just within earshot of the first-place G15 (1,417.51 MBps). The Katana 15 came in third place (1,045.33 MBps), while the Nitro 16 was dead last at 763.3 MBps.
+Finally, the G6X came in second place in the Handbrake benchmark, which involves transcoding a 4K video file to 1080p. The G6X completed the task in 4:35 compared to 4:27 for the Katana 15. The Nitro 16, with its Ryzen 5 7640HS, took the longest at 4:27.
+Display on the Gigabyte G6X
+OLED might be all the rage with ultrabooks and high-performance gaming laptops, but the tech hasn’t yet filtered down to many affordable gaming laptops. The G6X is no exception, as it uses a 16-inch 1920 x 1200 IPS panel with a 165 Hz refresh rate.
+Gigabyte isn’t opting for higher quality panels to reach lower price points with the G6X, as the display’s color performance wasn’t impressive with our instrumented testing. We measured 47.3% of the DCI-P3 color space and 67% of sRGB. That performance put it just slightly behind the Katana 15. The panels in the Nitro 16 and G15 were far more vivid. On the other hand, out light meter gave the G6X a chance to redeem itself, generating 325 nits, putting it in second place behind the Nitro 16 (371 nits).
+
+
+(Image credit: Tom's Hardware)
+The display's colors looked slightly washed out compared to its peers, as I noticed reds, greens, and blues that were off-hue when watching
+Toy Story 2
+on Disney Plus. It wasn’t enough to make the viewing experience unenjoyable, but it was enough to catch my eye in a movie I’ve seen dozens of times over the past 20+ years. I also noticed similar performance in games like
+Cyberpunk 2077
+and
+Grand Theft Auto V
+Another peculiarity I noticed was off-axis brightness levels that dropped slightly more than similar panels. Moving a foot or two to the left/right of center saw a very noticeable drop in brightness.
+With that said, Gigabyte is banking on enthusiasts who do not care too much about color accuracy and vividness. Instead, they will be wowed by the 165 Hz refresh rate for gaming.
+Keyboard and Touchpad on the Gigabyte G6X
+Gigabyte has implemented a full keyboard and a number pad on the G6X. I like number pads on laptops, as I frequently use them for data entry when writing reviews. The keyboard features single-zone RGB lighting which is controlled via the Gigabyte Control Center.
+
+
+(Image credit: Tom's Hardware)
+The keys wobble around quite freely with just the slightest touch. The left shift key was particularly loosey-goosey, which was infuriating while typing. Despite this, I hit 88 words per minute with 97 percent accuracy using keyhero.com, which aligns with my usual typing speed.
+The touchpad on the G6X measures 3.4 x 5.9 inches and was fine for navigating around
+Windows 11
+and performing various OS-specific gestures. Although I prefer larger glass touchpads with haptic feedback, I quickly got used to the smaller touch area on the G6X. Most people will be using one of the
+best gaming mice
+to play games, but it's nice to have a good touchpad for when you work.
+Audio on the Gigabyte G6X
+The G6X is equipped with dual two-watt speakers mounted on either side of the keyboard. I could dial the volume up, but the sound was still a bit flat to my ears. Still, the speakers sound good for a budget gaming rig.
+I played Marvin Gaye's "Right On" from the groundbreaking album
+What's Going On
+. The song is a melodic triumph with Gaye's soulful crooning, the background piano and drums along with the ever-present güiro percussion instrument that builds in intensity as the song progresses. The drum beats just lacked the depth heard with pricier systems. But again, it's more than adequate at the $1,299 price point. I also played a bit of
+Cyberpunk 2077
+, and the lack of bass meant that the aural effects from gunfire and explosive devices were less impactful.
+Upgradeability of the Gigabyte G6X
+The G6X’s bottom plastic panel is affixed with 13 screws. Two of the screws (at the front center of the laptop) have a tiny black sticker on top of the head. I’d assume that it’s to void your warranty — or at least let the company know you've opened the laptop — if the computer is sent in for repair with a broken sticker.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+Once inside the laptop, you’re presented with an increasing rarity in the laptop world: two SO-DIMM slots. In this case, each was filled with a 16GB module, giving a total of 32GB of DDR5-4800. You’ll also notice the replaceable M.2 SSD on the left side of the chassis and a second, empty M.2 slot.
+Battery Life on the Gigabyte G6X
+Gigabyte equipped the G6X with a 70 WHr battery, compared to 86 WHr for the G15, 90 WHr for the Nitro 16, and 53.5 WHr for the Katana 15. As you might expect, the capacities of the laptops match up precisely with their ranking in battery life.
+
+
+(Image credit: Tom's Hardware)
+The laptop with the smallest battery, the Katana 15, had the shortest battery life at two hours and 39 minutes. The G6X lasted over an hour longer (3:43), while the Nitro 16 was the champion in this test (8:24).
+Heat on the Gigabyte G6X
+We measure heat on gaming laptops along multiple spots on their chassis while running the
+Metro Exodus
+benchmark. We measured 35 C (95 F) between the G and H keys and 24.16 C (75.5 F) on the touchpad. The bottom of the chassis measured 36.22 C (97.2 F), while the hottest part of the laptop was on the keyboard deck (above the F11 key at 41.88 C (107.4 F). While warm, the heat wasn't uncomfortable for my bare legs while wearing shorts.
+Image
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+However, the fans were very audible during the test to expel heat. This is common for laptops in this segment.
+Webcam on the Gigabyte G6X
+The G6X has a 1080p webcam, which is becoming standard-issue for most new laptops on the market. The pictures and videos I captured with the camera were more than adequate for hopping on a video call to chat with friends or collaborate with coworkers over Zoom and
+Google
+Meet.
+The colors looked a little washed out, and there was a bit more grain than I'd like to see in a 1080p webcam. That said, if you want vastly superior image quality, you can always check out one of the
+best webcams
+to satisfy your more demanding streaming needs.
+Software and Warranty on the Gigabyte G6X
+Surprisingly, Gigabyte has gone easy on the software add-ons for the G6X. The Gigabyte Control Center provides an easy-to-use interface that gives you an overview of system vitals like CPU/GPU clock speeds, fan speeds, and memory usage. There are also controls for the RGB lighting and setting up macros on the keyboard. There’s even a feature to limit the battery’s charge to 80 percent when plugged in (or any custom value you choose) to extend battery health/longevity.
+The only other Gigabyte utility installed is Smart USB backup, which allows you to back up personal files to a USB drive quickly.
+The G6X comes with a one-year warranty from Gigabyte.
+Gigabyte G6X Configurations
+The G6X is available in two basic configurations. Our review unit was the G6X 9KG model, which is available from retailers like
+Amazon
+Newegg
+for $1,299. This configuration features a Core i7-13650HX processor, GeForce RTX 4060, 16-inch, 165 Hz 1920 x 1200 IPS display, 32GB DDR5-4800, and a 1TB M.2 PCIe 4.0 SSD. However, there is also a lesser model of the G6X 9KG with just 16GB of RAM for
+$1,199
+Bottom Line
+I like the Gigabyte G6X's chassis design, its two SO-DIMM slots, and its overall productivity performance. However, its gaming performance held back from its true potential due to its 105-watt GeForce RTX 4060. The display's colors and off-axis brightness were disappointing, and the small 73 WHr battery impacted battery life.
+Compared to the assembled competition, the G6X represents a better value than the
+Dell G15 (5530)
+, which is more expensive by a few hundred dollars. Another laptop to consider would be the
+Acer Nitro 16
+, which is our top pick for budget gaming laptops. While it might not be able to match or surpass the G6X in every benchmark, its superior battery life and display for $999 make it a viable alternative.
+At $1,299, the G6X is a competent gaming laptop, but it doesn’t stand out in a crowded field in any meaningful way.
+MORE:
+How to Buy a Gaming Laptop
+MORE:
+Best Gaming PCs
+MORE:
+Best Ultrabooks and Premium Laptops
+
+See all comments (0)
+
+Brandon Hill
+Senior Editor
+Brandon Hill is a senior editor at Tom's Hardware. He has written about PC and Mac tech since the late 1990s with bylines at AnandTech, DailyTech, and Hot Hardware. When he is not consuming copious amounts of tech news, he can be found enjoying the NC mountains or the beach with his wife and two sons.
+
+No comments yet
+
+Comment from the forums

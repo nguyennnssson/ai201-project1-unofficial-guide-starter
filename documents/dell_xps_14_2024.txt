@@ -1,0 +1,61 @@
+Title: Dell XPS 14 (2024) Review: A slick design is slowed by an underperforming display
+Source: https://www.laptopmag.com/laptops/dell-xps-14-2024
+
+Dell XPS 14 (2024) Review
+
+Price: $1,799 (base model $1,499; top configuration $3,399)
+
+Specifications:
+- CPU: Intel Core Ultra 7 155H
+- GPU: Nvidia GeForce RTX 4050 (6GB VRAM)
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 14.5-inch, 1920 x 1200, 120Hz, non-touch
+- Battery: 10:09 to 10:58 hours
+- Weight: 3.7 pounds
+- Dimensions: 12.6 x 8.5 x 0.7 inches
+
+Design:
+The reviewer praises the machine's aesthetic, calling it how you do a black/gray laptop. The graphite chassis features an anodized metal lid with a flat deck design that resembles the Tesla Cybertruck of laptops. Minimal display bezels and integrated vents create a sleek, futuristic appearance. However, at 3.7 pounds, it is heavier than comparable models like the HP Spectre x360 at 3.2 lbs.
+
+Display:
+The 14.5-inch panel delivers strong brightness at 461 nits, surpassing the premium laptop average of 442 nits. However, color reproduction is disappointingly dull, covering only 64.5% of the DCI-P3 color gamut versus the 95.2% category average. The reviewer notes that everything is less colorful than it is meant to be despite adequate contrast and clarity.
+
+Performance:
+The Intel Core Ultra 7 processor delivers exceptional results. On Geekbench 6.2, the XPS 14 scored 12,711 points, dominating the category average of 8,132. Video transcoding completed in 5:44 on HandBrake, significantly faster than the 8:01 average. Storage transfer rates reached 1,503 MBps.
+
+Graphics:
+The RTX 4050 GPU handles light gaming and video editing competently. Shadow of the Tomb Raider achieved 50 fps at highest settings at 1080p, while Civilization VI reached 88 fps on medium settings, which is double the category average. The 3DMark Fire Strike score of 12,932 crushed the average of 8,344.
+
+Battery Life:
+Testing yielded mixed results across benchmarks: 10:09 hours on the Laptop Mag battery test and 10:58 on PC Mark 10, placing it near the 10:38-hour premium laptop average. Performance lagged behind the MacBook Pro at 17:16 but exceeded the Acer Swift X at 7:26.
+
+Keyboard and Touchpad:
+The low-profile keyboard features a futuristic flat design but suffers from mushy keystrokes. The reviewer achieved 76 wpm, below their typical 81 wpm average, attributing the difference to tight key spacing and inadequate tactile feedback. The haptic touchpad eliminated the traditional touchpad while maintaining a clean aesthetic.
+
+Audio:
+Bottom-firing speakers deliver adequate volume with clear vocals, though bass instruments lack definition. The reviewer noted the opening bass guitar in a test song was loud but sharp, with some loss of percussion clarity throughout playback.
+
+Ports:
+The XPS 14 offers three Thunderbolt 4 ports, a 3.5mm headphone jack, and a microSD card slot. Notably absent is any USB Type-A port or HDMI connection, requiring external hubs for legacy device compatibility.
+
+Webcam:
+The 1080p webcam produces detailed images but suffers from skin tone oversaturation and blown-out contrast, rendering window backgrounds pure white.
+
+Thermals:
+After streaming video for 15 minutes, the underside reached 94 degrees Fahrenheit, just below the 95-degree comfort threshold. The keyboard center measured 94 degrees and the warmest spot, the 5 key, reached 101 degrees.
+
+Pros:
+- Striking interstellar design with premium materials
+- Excellent CPU and GPU performance
+- Respectable battery life for portability
+- Bright display suitable for outdoor use
+
+Cons:
+- Display lacks color vibrancy and saturation
+- Mushy keyboard with tight key spacing
+- No USB Type-A ports
+- Webcam produces unflattering skin tones
+
+Verdict:
+The Dell XPS 14 represents a strong portable machine with exceptional performance and battery endurance. However, the reviewer remains disappointed by the display's muted color palette, describing it as duller than budget Chromebooks. For users prioritizing portability and outdoor brightness over color accuracy, the XPS 14 is suitable. Those demanding superior color reproduction should consider the HP Spectre x360 instead.
