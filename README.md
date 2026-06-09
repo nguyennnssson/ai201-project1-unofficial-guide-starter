@@ -246,7 +246,9 @@ The original plan specified scraping reviews from RTINGS.com and The Verge, but 
 - *What it produced:* Claude ran the script and identified that chunks from Tom's Hardware reviews contained "(Image credit: Tom's Hardware)" text and "Latest Videos From" boilerplate that survived the initial cleaning pass.
 - *What I changed or overrode:* I directed Claude to add specific regex cleaning rules: `re.sub(r'\(Image credit:[^)]*\)', '', text)` and `re.sub(r'Latest Videos From.*', '', text)`. I verified the fix by re-running ingest.py and manually inspecting the sample chunks to confirm the artifacts were gone before proceeding to embedding. I also added cleaning rules for "Swipe to scroll horizontally" and "Row N - Cell N" table artifacts that I noticed in the output.
 
-### Query Interface
+---
+
+## Query Interface
 
 The system uses a Gradio web UI accessible at `http://localhost:7860`.
 
