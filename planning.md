@@ -94,22 +94,22 @@ For production, I would weigh these factors when selecting an embedding model:
 documents/ (12 .txt files)
     |
     v
-[ingest.py] -- Load -> Clean -> Chunk (800 chars, 150 overlap)
+[ingest.py] - Load -> Clean -> Chunk (800 chars, 150 overlap)
     |
     v
-[embed.py] -- all-MiniLM-L6-v2 -> ChromaDB (PersistentClient)
+[embed.py] - all-MiniLM-L6-v2 -> ChromaDB (PersistentClient)
     |
     v
-[retrieve.py] -- User query -> Embed -> Cosine similarity -> Top-5 chunks
+[retrieve.py] - User query -> Embed -> Cosine similarity -> Top-5 chunks
     |
     v
-[query.py] -- Chunks + System prompt -> Groq API (llama-3.3-70b-versatile) -> Grounded answer + sources
+[query.py] - Chunks + System prompt -> Groq API (llama-3.3-70b-versatile) -> Grounded answer + sources
     |
     v
-[app.py] -- Gradio web UI (question input -> answer + sources output)
+[app.py] - Gradio web UI (question input -> answer + sources output)
     |
     v
-[evaluate.py] -- 5 test questions -> Compare expected vs. actual -> Report
+[evaluate.py] - 5 test questions -> Compare expected vs. actual -> Report
 ```
 
 ---
